@@ -80,8 +80,8 @@
 <style lang="scss" scoped>
 
 .card {
- height: 710px;
-  width: 704.58px;
+ height: 357px;
+  width: 888px;
   background-color: #202020;
 //   margin: 0 , auto;
   // overflow-x: hidden; /* Hide horizontal scrollbar */
@@ -89,6 +89,8 @@
   // overflow: scroll;
   margin-left: 8px;
   overflow: auto;
+  margin-right:0px; 
+   margin-top: 146px;
   
 }
 
@@ -104,7 +106,6 @@ p {
 
 .list {
                           //this is border
-      margin-top: 69px;
   ul {
       padding:0 ;
       padding-left: 50px;
@@ -116,12 +117,14 @@ p {
   }
 }
 
+
 .child {
-  width: 600px;
+  width: 784px;
   height: 56px;
   background-color: #181818;
   position: relative;
 }
+
 
 .highlight {
   position: absolute;
@@ -132,10 +135,10 @@ p {
 .text {
   // border: dotted red;                      //this is border
   height: 56px;
-  width: 600px;
+  width: 766px;
   margin-left: 14px;
   display: flex;
-  justify-content: space-evenly;
+  justify-content: space-around;
 }
 .p1 {
   padding-top:9px;

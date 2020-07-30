@@ -113,7 +113,7 @@ import axios from "axios";
 .acc {
   background-color: #202020;
   height: 710px;
-  width: 704.58px;
+  width: 1467px;
 //   margin: 200px auto;
 margin: 0 auto; 
 }
@@ -122,18 +122,19 @@ p {
   font-family: "Poppins", sans-serif;
   color: white;
   font-weight: 500;
-  padding: 0.5em;
+  //padding: 0.1em;
   margin-top: 0;
 }
 .list {
   margin: 0 auto;
-  margin-top: 60px;
-//   border: solid blue;                    //this is border
-  height: 487px;
-  width: 662px;
-  width: 100%;
-  overflow: auto;
-  overflow-x: hidden;
+  margin-top: 0px;
+  // border: solid blue;                    //this is border
+  height: 660px;
+  width: 1467px;
+  width: 92%;
+  // overflow: auto;
+  // overflow-x: hidden;
+  margin-left: 103px;
 }
 
 .child {
@@ -145,9 +146,9 @@ p {
 
 ul {
   list-style: none;
-  -webkit-columns: 2;
-  -moz-columns: 2;
-  columns: 2;
+  -webkit-columns: 3;
+  -moz-columns: 3;
+  columns: 3;
   padding-left: 0;
   margin-top: 0;
 

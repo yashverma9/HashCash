@@ -35,22 +35,28 @@
         <div class="g"></div>
     </div>-->
     <div class="grid-container">
-      <div class="grid-item item-1" :class="{blur:blurcontroll}">
-        <graphs />
+        <div class="grid-item item-0" :class="{blur:blurcontroll}">
+      
       </div>
       <div class="grid-item item-2" :class="{blur:blurcontroll}">
         <accounts />
       </div>
       <div class="grid-item item-3" :class="{blur:blurcontroll}">
-        <insights />
+        <!-- <insights /> -->
+         <cards />
       </div>
-
-      <div class="grid-item item-5" :class="{blur:blurcontroll}">
+         <div class="grid-item item-5" :class="{blur:blurcontroll}">
         <paymentreminder v-on:bc="emitf" />
       </div>
-      <div class="grid-item item-6" :class="{blur:blurcontroll}">
-        <cards />
+      <div class="grid-item item-1" :class="{blur:blurcontroll}">
+        <graphs />
       </div>
+      
+
+   
+      <!-- <div class="grid-item item-6" :class="{blur:blurcontroll}">
+        <cards />
+      </div> -->
       <div class="grid-item item-4">
         <investments />
       </div>
@@ -73,7 +79,7 @@ import paymentreminder from "../components/paymentreminder.vue";
 import graphs from "../components/graphs.vue";
 import insurance from "../components/insurance.vue";
 import loans from "../components/loans.vue";
-import insights from "../components/insights.vue";
+// import insights from "../components/insights.vue";
 export default {
   name: "Dashboard",
   components: {
@@ -85,7 +91,7 @@ export default {
     graphs,
     insurance,
     loans,
-    insights,
+    // insights,
   },
   data() {
     return {
@@ -160,56 +166,62 @@ export default {
 }
 
 .grid-container {
-  //border: solid red; //this is border
+  border: solid red; //this is border
   margin-left: 48.6px;
   // margin-top: 48.6px;
   width: 1467px;
   // margin-top: 48.6px;
   display: grid;
   grid-template-columns: 558px 175.5px;
-  grid-template-rows: auto 357px 710px 710px 710px;
+  grid-template-rows: 710px 710px 710px 710px 710px 710px;
   grid-row-gap: 20px;
+  width: 1467px;
+}
+
+.item-0 {
+  border: dotted hotpink;       //this is border
+  grid-column: span 3;
 }
 
 .item-1 {
-  //border: dotted green;       //this is border
+  border: dotted green;       //this is border
   grid-column: span 3;
 }
 .item-2 {
-  // border: dotted chartreuse;      //this is border
+   border: dotted chartreuse;      //this is border
   grid-column: span 1;
-  height: 357px;
+  height: 710px;
 }
 .item-3 {
-  // border: dotted yellow;        //this is border
+  border: dotted yellow;        //this is border
   grid-column-start: 2;
   grid-column-end: 4;
-  height: 357px;
+  height: 710px;
 }
 .item-4 {
-  // border: dotted silver;         //this is border
+   border: dotted silver;         //this is border
   grid-column: span 3;
   height: 710px;
 }
 
 .item-5 {
-//  border: dotted red; //this is border
-  grid-column: span 2;
+  border: dotted red; //this is border
+  grid-column: span 3;
   height: 710px;
 }
 .item-6 {
- // border: dotted orange; //this is border
+  border: dotted orange; //this is border
   grid-column-start: 3;
   grid-column-end: 4;
   height: 710px;
 }
 .item-7 {
-//  border: dotted silver;
+  border: dotted silver;
   grid-column: span 2;
   height: 710px;
 }
 .item-8 {
- // border: dotted silver;
+  border: dotted silver;
   grid-column-start: 3;
   grid-column-end: 4;
   height: 710px;

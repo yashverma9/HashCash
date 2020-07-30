@@ -53,9 +53,10 @@ function g3() {
         {
           label: "My First dataset",
           backgroundColor: [
-            "rgb(0,0,0)",
+          "rgb(2,21,77)",
             "rgb(33,63,147)",
-            "rgb(2,21,77)",
+            "rgb(87,43,187)",
+            
            "rgb(247,138,54)",
            "rgb(2,124,231)",
             "rgb(202,88,48)",

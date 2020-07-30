@@ -164,8 +164,10 @@ body {
   height: 357px;
   width: 518px;
   margin: 0 auto;
+  margin-top: 146px;
   //   margin-bottom: 200px;
   //   margin: 200px auto;
+  
 }
 .child {
   width: 200px;
