@@ -174,17 +174,18 @@ export default {
   display: grid;
   grid-template-columns: 558px 175.5px;
   grid-template-rows: 710px 710px 710px 710px 710px 710px;
-  grid-row-gap: 20px;
+  grid-row-gap: 10px;
   width: 1467px;
 }
 
 .item-0 {
   border: dotted hotpink;       //this is border
   grid-column: span 3;
+   height: 710px;
 }
 
 .item-1 {
-  border: dotted green;       //this is border
+  border: dotted thistle;       //this is border
   grid-column: span 3;
 }
 .item-2 {
