@@ -222,7 +222,7 @@ export default {
   position: absolute;
   z-index: 1;
   left: 37%;
-  top: 132%;
+  top: 20%;
   background-color: #181818;
   box-shadow: 0 5px 30px rgba(0, 0, 0, 6.3);
 }

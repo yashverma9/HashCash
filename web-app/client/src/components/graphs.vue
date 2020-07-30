@@ -2,7 +2,7 @@
   <div>
     <div style="margin-top:5px;" class="flex">
       <div v-show="g1" class="g1">
-        <div class="headerr">
+        <div class="header1">
           <div class="flexx">
             <p>
               Spending Trends
@@ -23,9 +23,9 @@
               <span class="extra-info">Your Monthly Spends</span>
             </div>-->
 
-            <div @click="st1" style="width:130px;" class="sa">
+            <!-- <div @click="st1" style="width:130px;" class="sa">
               <p>TRANSACTIONS</p>
-            </div>
+            </div> -->
           </div>
           <hr />
         </div>
@@ -76,390 +76,16 @@
               Category Trends
               <span style="font-size:10px; padding-left:2px;">This month</span>
             </p>
-            <div @click="st2" class="sa">
+            <!-- <div @click="st2" class="sa">
               <p>LIST ALL</p>
-            </div>
+            </div> -->
           </div>
           <hr />
         </div>
         <canvas height="180px" id="myChart1"></canvas>
       </div>
 
-      <div v-show="t2" id="t2" class="t1">
-        <div class="header1">
-          <p>
-            Categories
-            <span style="font-size:10px; padding-left:2px;">This month</span>
-          </p>
-
-          <div @click="sg2" class="bb">
-            <p>TRENDS</p>
-          </div>
-        </div>
-        <div class="scroll">
-          <ul>
-            <li>
-              <div class="child">
-                <div class="logo">
-                  <img src="./clogos/bills.png" class="img" />
-                </div>
-                <div class="table">
-                  <ul>
-                    <li>Bills</li>
-
-                    <li>{{julyy.Month}}</li>
-                  </ul>
-                </div>
-                <div class="amt">
-                  <h4>
-                    <span>₹ {{julyy.Bills}}</span>
-                  </h4>
-                </div>
-              </div>
-            </li>
-
-            <li>
-              <div class="child">
-                <div class="logo">
-                  <img src="./clogos/cashwithdrawal.png" class="img" />
-                </div>
-                <div class="table">
-                  <ul>
-                    <li>Cash Withdrawal</li>
-                    <li>{{julyy.Month}}</li>
-                  </ul>
-                </div>
-                <div class="amt">
-                  <h4>
-                    <span>₹ {{julyy["Cash Withdrawal"]}}</span>
-                  </h4>
-                </div>
-              </div>
-            </li>
-
-            <!-- <li>
-              <div class="child">
-                <div class="logo"></div>
-                <div class="table">
-                  <ul>
-                    <li>
-                      Courier
-                    </li>
-                    <li>
-                     {{julyy.Month}}
-                    </li>
-                  </ul>
-                </div>
-                <div class="amt">
-                  <h4> <span>₹ {{julyy.Courier}}</span></h4>
-                </div>
-              </div>
-            </li>-->
-
-            <li>
-              <div class="child">
-                <div class="logo">
-                  <img src="./clogos/creditcard.png" class="img" />
-                </div>
-                <div class="table">
-                  <ul>
-                    <li>Credit Card</li>
-                    <li>{{julyy.Month}}</li>
-                  </ul>
-                </div>
-                <div class="amt">
-                  <h4>
-                    <span>₹ {{julyy["Credit Card"]}}</span>
-                  </h4>
-                </div>
-              </div>
-            </li>
-
-            <li>
-              <div class="child">
-                <div class="logo">
-                  <img src="./clogos/entertainment.png" class="img" />
-                </div>
-                <div class="table">
-                  <ul>
-                    <li>Entertainment</li>
-                    <li>{{julyy.Month}}</li>
-                  </ul>
-                </div>
-                <div class="amt">
-                  <h4>
-                    <span>₹ {{julyy.Entertainment}}</span>
-                  </h4>
-                </div>
-              </div>
-            </li>
-
-            <li>
-              <div class="child">
-                <div class="logo">
-                  <img src="./clogos/food_drinks.png" class="img" />
-                </div>
-                <div class="table">
-                  <ul>
-                    <li>Foods and Drinks</li>
-                    <li>{{julyy.Month}}</li>
-                  </ul>
-                </div>
-                <div class="amt">
-                  <h4>
-                    <span>₹ {{julyy["Foods and Drinks"]}}</span>
-                  </h4>
-                </div>
-              </div>
-            </li>
-
-            <li>
-              <div class="child">
-                <div class="logo">
-                  <img src="./clogos/fuel.png" class="img" />
-                </div>
-                <div class="table">
-                  <ul>
-                    <li>Fuel</li>
-                    <li>{{julyy.Month}}</li>
-                  </ul>
-                </div>
-                <div class="amt">
-                  <h4>
-                    <span>₹ {{julyy.Fuel}}</span>
-                  </h4>
-                </div>
-              </div>
-            </li>
-
-            <li>
-              <div class="child">
-                <div class="logo">
-                  <img src="./clogos/groceries.png" class="img" />
-                </div>
-                <div class="table">
-                  <ul>
-                    <li>Groceries</li>
-                    <li>{{julyy.Month}}</li>
-                  </ul>
-                </div>
-                <div class="amt">
-                  <h4>
-                    <span>₹ {{julyy.Groceries}}</span>
-                  </h4>
-                </div>
-              </div>
-            </li>
-
-            <li>
-              <div class="child">
-                <div class="logo">
-                  <img src="./clogos/health.png" class="img" />
-                </div>
-                <div class="table">
-                  <ul>
-                    <li>Health</li>
-                    <li>{{julyy.Month}}</li>
-                  </ul>
-                </div>
-                <div class="amt">
-                  <h4>
-                    <span>₹ {{julyy.Health}}</span>
-                  </h4>
-                </div>
-              </div>
-            </li>
-
-            <li>
-              <div class="child">
-                <div class="logo">
-                  <img src="./clogos/insurance.png" class="img" />
-                </div>
-                <div class="table">
-                  <ul>
-                    <li>Insurance</li>
-                    <li>{{julyy.Month}}</li>
-                  </ul>
-                </div>
-                <div class="amt">
-                  <h4>
-                    <span>₹ {{julyy.Insurance}}</span>
-                  </h4>
-                </div>
-              </div>
-            </li>
-
-            <li>
-              <div class="child">
-                <div class="logo">
-                  <img src="./clogos/investment.png" class="img" />
-                </div>
-                <div class="table">
-                  <ul>
-                    <li>Investment</li>
-                    <li>{{julyy.Month}}</li>
-                  </ul>
-                </div>
-                <div class="amt">
-                  <h4>
-                    <span>₹ {{julyy.Investment}}</span>
-                  </h4>
-                </div>
-              </div>
-            </li>
-
-            <li>
-              <div class="child">
-                <div class="logo">
-                  <img src="./clogos/emi.png" class="img" />
-                </div>
-                <div class="table">
-                  <ul>
-                    <li>Loan (EMI)</li>
-                    <li>{{julyy.Month}}</li>
-                  </ul>
-                </div>
-                <div class="amt">
-                  <h4>
-                    <span>₹ {{julyy["Loan (EMI)"]}}</span>
-                  </h4>
-                </div>
-              </div>
-            </li>
-
-            <li>
-              <div class="child">
-                <div class="logo">
-                  <img src="./clogos/other.png" class="img" />
-                </div>
-                <div class="table">
-                  <ul>
-                    <li>Other</li>
-                    <li>{{julyy.Month}}</li>
-                  </ul>
-                </div>
-                <div class="amt">
-                  <h4>
-                    <span>₹ {{julyy.Other}}</span>
-                  </h4>
-                </div>
-              </div>
-            </li>
-
-            <li>
-              <div class="child">
-                <div class="logo">
-                  <img src="./clogos/personalcare.png" class="img" />
-                </div>
-                <div class="table">
-                  <ul>
-                    <li>Personal Care</li>
-                    <li>{{julyy.Month}}</li>
-                  </ul>
-                </div>
-                <div class="amt">
-                  <h4>
-                    <span>₹ {{julyy["Personal Care"]}}</span>
-                  </h4>
-                </div>
-              </div>
-            </li>
-
-            <li>
-              <div class="child">
-                <div class="logo">
-                  <img src="./clogos/rent.png" class="img" />
-                </div>
-                <div class="table">
-                  <ul>
-                    <li>Rent</li>
-                    <li>{{julyy.Month}}</li>
-                  </ul>
-                </div>
-                <div class="amt">
-                  <h4>
-                    <span>₹ {{julyy.Rent}}</span>
-                  </h4>
-                </div>
-              </div>
-            </li>
-
-            <li>
-              <div class="child">
-                <div class="logo">
-                  <img src="./clogos/shopping.png" class="img" />
-                </div>
-                <div class="table">
-                  <ul>
-                    <li>Shopping</li>
-                    <li>{{julyy.Month}}</li>
-                  </ul>
-                </div>
-                <div class="amt">
-                  <h4>
-                    <span>₹ {{julyy.Shopping}}</span>
-                  </h4>
-                </div>
-              </div>
-            </li>
-
-            <!-- <li>
-              <div class="child">
-                <div class="logo"></div>
-                <div class="table">
-                  <ul>
-                    <li>Total_Expense</li>
-                    <li>{{julyy.Month}}</li>
-                  </ul>
-                </div>
-                <div class="amt">
-                  <h4>
-                    <span>₹ {{julyy.Total_Expense}}</span>
-                  </h4>
-                </div>
-              </div>
-            </li>-->
-
-            <li>
-              <div class="child">
-                <div class="logo">
-                  <img src="./clogos/transfer.png" class="img" />
-                </div>
-                <div class="table">
-                  <ul>
-                    <li>Transfer</li>
-                    <li>{{julyy.Month}}</li>
-                  </ul>
-                </div>
-                <div class="amt">
-                  <h4>
-                    <span>₹ {{julyy.Transfer}}</span>
-                  </h4>
-                </div>
-              </div>
-            </li>
-
-            <li>
-              <div class="child">
-                <div class="logo">
-                  <img src="./clogos/travel.png" class="img" />
-                </div>
-                <div class="table">
-                  <ul>
-                    <li>Travel</li>
-                    <li>{{julyy.Month}}</li>
-                  </ul>
-                </div>
-                <div class="amt">
-                  <h4>
-                    <span>₹ {{julyy.Travel}}</span>
-                  </h4>
-                </div>
-              </div>
-            </li>
-          </ul>
-        </div>
-      </div>
+     
 
       <div v-show="g3" class="g3">
         <div class="headerr">
@@ -468,9 +94,9 @@
               Brand Trends
               <span style="font-size:10px; padding-left:2px;">This month</span>
             </p>
-            <div @click="st3" class="sa">
+            <!-- <div @click="st3" class="sa">
               <p>LIST ALL</p>
-            </div>
+            </div> -->
           </div>
           <hr />
         </div>
