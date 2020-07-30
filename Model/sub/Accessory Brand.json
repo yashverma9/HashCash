@@ -1,0 +1,30 @@
+[
+    {
+        "Id": 47,
+        "Brand_name": "Miniso",
+        "Category": "Shopping",
+        "Sub_category": "Accessory Brand",
+        "Done": 0
+    },
+    {
+        "Id": 49,
+        "Brand_name": "Chumbak",
+        "Category": "Shopping",
+        "Sub_category": "Accessory Brand",
+        "Done": 0
+    },
+    {
+        "Id": 98,
+        "Brand_name": "Ray Ban",
+        "Category": "Shopping",
+        "Sub_category": "Accessory Brand",
+        "Done": 1
+    },
+    {
+        "Id": 166,
+        "Brand_name": "William Penn",
+        "Category": "Shopping",
+        "Sub_category": "Accessory Brand",
+        "Done": 1
+    }
+]

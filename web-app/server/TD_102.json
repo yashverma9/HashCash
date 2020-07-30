@@ -1,0 +1,25 @@
+{
+    "status": "success",
+    "ver": "1.6.0",
+    "data": {
+        "linkReferenceNumber": "4797daf8-75df-4359-8e61-a710d7e114fa",
+        "maskedAccountNumber": "XXXXXXXXXX5055",
+        "balance": "100000.00",
+        "fipName": "FinShareBankServer",
+        "fipId": "finsharebank",
+        "fiType": "TERM-DEPOSIT",
+        "fiData": [
+            {
+                "transactionTimestamp": "2019-12-22T05:04:14.000Z",
+                "txnId": "M4785435",
+                "mode": "FT",
+                "amount": "100000.00",
+                "balance": "100000.00",
+                "type": "OPENING",
+                "narration": "TOWARDS FD OPENING",
+                "reference": "RFN00013383",
+                "valueDate": "2019-12-22T05:04:14.000Z"
+            }
+        ]
+    }
+}

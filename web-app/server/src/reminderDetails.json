@@ -1,0 +1,89 @@
+[
+  {
+    "brand": "SBI Elite CC PMT",
+    "short_brand": "SBI Elite",
+    "category": "Credit Card",
+    "next_date": "31-07-20",
+    "amount": "--",
+    "color": "Red"
+  },
+  {
+    "brand": "Max Life Insurance",
+    "short_brand": "Max Life",
+    "category": "Insurance",
+    "next_date": "01-08-20",
+    "amount": "3567",
+    "color": "Red"
+  },
+  {
+    "brand": "PNB Personal Loan",
+    "short_brand": "PNB Personal",
+    "category": "Loan (EMI)",
+    "next_date": "01-08-20",
+    "amount": "11345",
+    "color": "Red"
+  },
+  {
+    "brand": "Ion Broadband",
+    "short_brand": "Ion Broadband",
+    "category": "Bills",
+    "next_date": "09-08-20",
+    "amount": "1299",
+    "color": "Yellow"
+  },
+  {
+    "brand": "Tatasky",
+    "short_brand": "Tatasky",
+    "category": "Bills",
+    "next_date": "18-08-20",
+    "amount": "350",
+    "color": "Green"
+  },
+
+  
+
+
+  {
+    "brand": " IDBI Home Loan",
+    "short_brand": " IDBI Home",
+    "category": "Loan (EMI)",
+    "next_date": "03-08-20",
+    "amount": "14583",
+    "color": "Red"
+  },
+  {
+    "brand": "Rent",
+    "short_brand": "Rent",
+    "category": "Rent",
+    "next_date": "04-08-20",  
+    "amount": "12000",
+    "color": "Red"
+  },
+  {
+    "brand": "BESCOM",
+    "short_brand": "BESCOM",
+    "category": "Bills",
+    "next_date": "05-08-20",
+    "amount": "1542",
+    "color": "Red"
+  },
+
+ 
+  {
+    "brand": "Jio",
+    "short_brand": "Jio",
+    "category": "Bills",
+    "next_date": "10-08-20",
+    "amount": "399",
+    "color": "Yellow"
+  },
+
+  {
+    "brand": "IndiaFirst Life Insurance",
+    "short_brand": "IndiaFirst",
+    "category": "Insurance",
+    "next_date": "28-08-20",
+    "amount": "5201",
+    "color": "Green"
+  }  
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "Id": 165,
+        "Brand_name": "Royal Oak Furniture",
+        "Category": "Shopping",
+        "Sub_category": "Furniture",
+        "Done": 0
+    },
+    {
+        "Id": 169,
+        "Brand_name": "HomeTown",
+        "Category": "Shopping",
+        "Sub_category": "Furniture",
+        "Done": 1
+    },
+    {
+        "Id": 170,
+        "Brand_name": "Bombay Dyeing",
+        "Category": "Shopping",
+        "Sub_category": "Furniture",
+        "Done": 0
+    },
+    {
+        "Id": 272,
+        "Brand_name": "Home Center",
+        "Category": "Shopping",
+        "Sub_category": "Furniture",
+        "Done": 0
+    }
+]

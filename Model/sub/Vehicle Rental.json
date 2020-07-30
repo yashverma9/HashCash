@@ -1,0 +1,44 @@
+[
+    {
+        "Id": 62,
+        "Brand_name": "Zoomcar",
+        "Category": "Travel",
+        "Sub_category": "Vehicle Rental",
+        "Done": 1
+    },
+    {
+        "Id": 64,
+        "Brand_name": "Vogo",
+        "Category": "Travel",
+        "Sub_category": "Vehicle Rental",
+        "Done": 1
+    },
+    {
+        "Id": 65,
+        "Brand_name": "Bounce",
+        "Category": "Travel",
+        "Sub_category": "Vehicle Rental",
+        "Done": 1
+    },
+    {
+        "Id": 150,
+        "Brand_name": "Rapido",
+        "Category": "Travel",
+        "Sub_category": "Vehicle Rental",
+        "Done": 0
+    },
+    {
+        "Id": 151,
+        "Brand_name": "Revv",
+        "Category": "Travel",
+        "Sub_category": "Vehicle Rental",
+        "Done": 0
+    },
+    {
+        "Id": 152,
+        "Brand_name": "Myles Car",
+        "Category": "Travel",
+        "Sub_category": "Vehicle Rental",
+        "Done": 0
+    }
+]

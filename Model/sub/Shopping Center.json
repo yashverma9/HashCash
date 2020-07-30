@@ -1,0 +1,16 @@
+[
+    {
+        "Id": 30,
+        "Brand_name": "Land Mark",
+        "Category": "Shopping",
+        "Sub_category": "Shopping Center",
+        "Done": 1
+    },
+    {
+        "Id": 114,
+        "Brand_name": "Crossword ",
+        "Category": "Shopping",
+        "Sub_category": "Shopping Center",
+        "Done": 1
+    }
+]

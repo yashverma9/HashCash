@@ -1,0 +1,58 @@
+[
+    {
+        "Id": 66,
+        "Brand_name": "Gilly's",
+        "Category": "Foods and Drinks",
+        "Sub_category": "Bar",
+        "Done": 1
+    },
+    {
+        "Id": 68,
+        "Brand_name": "Plan B",
+        "Category": "Foods and Drinks",
+        "Sub_category": "Bar",
+        "Done": 1
+    },
+    {
+        "Id": 71,
+        "Brand_name": "Chin lung",
+        "Category": "Foods and Drinks",
+        "Sub_category": "Bar",
+        "Done": 1
+    },
+    {
+        "Id": 71,
+        "Brand_name": "Sherlock's Pub",
+        "Category": "Foods and Drinks",
+        "Sub_category": "Bar",
+        "Done": 1
+    },
+    {
+        "Id": 73,
+        "Brand_name": "Sarjapur Social",
+        "Category": "Foods and Drinks",
+        "Sub_category": "Bar",
+        "Done": 1
+    },
+    {
+        "Id": 74,
+        "Brand_name": "No Limmits",
+        "Category": "Foods and Drinks",
+        "Sub_category": "Bar",
+        "Done": 1
+    },
+    {
+        "Id": 82,
+        "Brand_name": "Chapter One",
+        "Category": "Foods and Drinks",
+        "Sub_category": "Bar",
+        "Done": 1
+    },
+    {
+        "Id": 183,
+        "Brand_name": "Levitate Brewery Bangalore",
+        "Category": "Foods and Drinks",
+        "Sub_category": "Bar",
+        "Done": 0
+    }
+]

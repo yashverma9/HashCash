@@ -1,0 +1,16 @@
+[
+    {
+        "Id": 39,
+        "Brand_name": "Lens Kart",
+        "Category": "Shopping",
+        "Sub_category": "Eyewear Brand",
+        "Done": 0
+    },
+    {
+        "Id": 101,
+        "Brand_name": "Titan Eye Plus",
+        "Category": "Shopping",
+        "Sub_category": "Eyewear Brand",
+        "Done": 0
+    }
+]

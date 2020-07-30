@@ -1,0 +1,65 @@
+[
+    {
+        "Id": 29,
+        "Brand_name": "Bose",
+        "Category": "Shopping",
+        "Sub_category": "Electronic Brand",
+        "Done": 0
+    },
+    {
+        "Id": 33,
+        "Brand_name": "Sony",
+        "Category": "Shopping",
+        "Sub_category": "Electronic Brand",
+        "Done": 0
+    },
+    {
+        "Id": 40,
+        "Brand_name": "Lenovo",
+        "Category": "Shopping",
+        "Sub_category": "Electronic Brand",
+        "Done": 0
+    },
+    {
+        "Id": 43,
+        "Brand_name": "iPlanet",
+        "Category": "Shopping",
+        "Sub_category": "Electronic Brand",
+        "Done": 1
+    },
+    {
+        "Id": 46,
+        "Brand_name": "Samsung",
+        "Category": "Shopping",
+        "Sub_category": "Electronic Brand",
+        "Done": 0
+    },
+    {
+        "Id": 57,
+        "Brand_name": "Fitbit",
+        "Category": "Shopping",
+        "Sub_category": "Electronic Brand",
+        "Done": 1
+    },
+    {
+        "Id": 96,
+        "Brand_name": "Poorvika Mobile",
+        "Category": "Shopping",
+        "Sub_category": "Electronic Brand",
+        "Done": 0
+    },
+    {
+        "Id": 159,
+        "Brand_name": "Dell",
+        "Category": "Shopping",
+        "Sub_category": "Electronic Brand",
+        "Done": 0
+    },
+    {
+        "Id": 160,
+        "Brand_name": "Acer",
+        "Category": "Shopping",
+        "Sub_category": "Electronic Brand",
+        "Done": 0
+    }
+]

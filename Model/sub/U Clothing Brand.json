@@ -1,0 +1,72 @@
+[
+    {
+        "Id": 19,
+        "Brand_name": "Zara",
+        "Category": "Shopping",
+        "Sub_category": "U Clothing Brand",
+        "Done": 1
+    },
+    {
+        "Id": 24,
+        "Brand_name": "Jockey",
+        "Category": "Shopping",
+        "Sub_category": "U Clothing Brand",
+        "Done": 0
+    },
+    {
+        "Id": 32,
+        "Brand_name": "H&M",
+        "Category": "Shopping",
+        "Sub_category": "U Clothing Brand",
+        "Done": 1
+    },
+    {
+        "Id": 44,
+        "Brand_name": "Gap",
+        "Category": "Shopping",
+        "Sub_category": "U Clothing Brand",
+        "Done": 0
+    },
+    {
+        "Id": 180,
+        "Brand_name": "UTH Fashion",
+        "Category": "Shopping",
+        "Sub_category": "U Clothing Brand",
+        "Done": 0
+    },
+    {
+        "Id": 246,
+        "Brand_name": "Anugraha Textile",
+        "Category": "Shopping",
+        "Sub_category": "U Clothing Brand",
+        "Done": 0
+    },
+    {
+        "Id": 247,
+        "Brand_name": "Mushkan Garment",
+        "Category": "Shopping",
+        "Sub_category": "U Clothing Brand",
+        "Done": 0
+    },
+    {
+        "Id": 251,
+        "Brand_name": "Swadeshi",
+        "Category": "Shopping",
+        "Sub_category": "U Clothing Brand",
+        "Done": 0
+    },
+    {
+        "Id": 288,
+        "Brand_name": "Calvin Klein",
+        "Category": "Shopping",
+        "Sub_category": "U Clothing Brand",
+        "Done": 0
+    },
+    {
+        "Id": 289,
+        "Brand_name": "Levis",
+        "Category": "Shopping",
+        "Sub_category": "U Clothing Brand",
+        "Done": 0
+    }
+]

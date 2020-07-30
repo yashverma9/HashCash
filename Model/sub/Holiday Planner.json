@@ -1,0 +1,44 @@
+[
+    {
+        "Id": 106,
+        "Brand_name": "Make My Trip",
+        "Category": "Travel",
+        "Sub_category": "Holiday Planner",
+        "Done": 1
+    },
+    {
+        "Id": 107,
+        "Brand_name": "Go Ibibo",
+        "Category": "Travel",
+        "Sub_category": "Holiday Planner",
+        "Done": 0
+    },
+    {
+        "Id": 108,
+        "Brand_name": "Clear Trip",
+        "Category": "Travel",
+        "Sub_category": "Holiday Planner",
+        "Done": 1
+    },
+    {
+        "Id": 124,
+        "Brand_name": "IRCTC",
+        "Category": "Travel",
+        "Sub_category": "Holiday Planner",
+        "Done": 0
+    },
+    {
+        "Id": 149,
+        "Brand_name": "Booking",
+        "Category": "Travel",
+        "Sub_category": "Holiday Planner",
+        "Done": 0
+    },
+    {
+        "Id": 175,
+        "Brand_name": "Ease My Trip (EasyTrip)",
+        "Category": "Travel",
+        "Sub_category": "Holiday Planner",
+        "Done": 0
+    }
+]

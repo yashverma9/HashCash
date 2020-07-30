@@ -1,0 +1,30 @@
+[
+    {
+        "Id": 26,
+        "Brand_name": "American Tourister",
+        "Category": "Shopping",
+        "Sub_category": "Bag Brand",
+        "Done": 0
+    },
+    {
+        "Id": 34,
+        "Brand_name": "Samsonite",
+        "Category": "Shopping",
+        "Sub_category": "Bag Brand",
+        "Done": 0
+    },
+    {
+        "Id": 93,
+        "Brand_name": "Sky Bags",
+        "Category": "Shopping",
+        "Sub_category": "Bag Brand",
+        "Done": 0
+    },
+    {
+        "Id": 105,
+        "Brand_name": "VIP",
+        "Category": "Shopping",
+        "Sub_category": "Bag Brand",
+        "Done": 0
+    }
+]

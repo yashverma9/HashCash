@@ -1,0 +1,18 @@
+[
+    {
+        "policyNo" : "ADMAX1235926212",
+        "brand": "Max Life Insurance",
+        "premium": "₹ 3,567",
+        "amountInsured": "₹ 500,000",
+        "startDate": "11 February, 2019",
+        "endDate": "10 February, 2022"
+    },
+    {
+        "policyNo" : "NEW34432019234",
+        "brand": "IndiaFirst Life Insurance",
+        "premium": "₹ 5,201",
+        "amountInsured": "₹ 1000,000",
+        "startDate": "1 May, 2018",
+        "endDate": "30 April, 2021"
+    }
+]

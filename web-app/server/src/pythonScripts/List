@@ -1,0 +1,96 @@
+List of merchants/before first forward slash:
+
+(u = unique)
+
+
+Type: Debit
+
+Mode: UPI
+UPI - u
+IPS
+
+
+Mode: OTHERS
+VIN
+GIB - u
+CMS
+"PMSBY RENEWAL PREMIUM FY 21 "
+
+
+
+Mode: CARD
+BIL
+VPS - u
+IPS
+NFS
+
+
+Mode: ATM
+ATM - u
+
+
+Mode:FT
+ACH - u
+VIN
+BIL
+CMS
+VIN
+MMT - u
+IIN - u
+"SAL FINTECH PRODUCTS and SOLUTIONS FEB 2020"
+
+
+Mode: CASH
+NFS
+
+
+
+Type: Credit
+
+Mode: Others
+000501523329:Int.Pd:30-09-2019 to 30-12-2019
+
+Mode: FT
+BIL
+"SAL FINTECH PRODUCTS and SOLUTIONS DEC 2019"
+"NEFT-SBIN420076198612-PRINCIPAL MUTUAL FUND-/ATTN//INB-"
+
+
+Unique merchants:
+UPI (matching: working)
+GIB (only 1 transaction wierd : "stax") (matching: not working)
+VPS (matching: working)
+ATM (only 1 type of summary: "cashwdl") (current added to brands db) (matching: working)
+ACH (only insurance type of transactions) (matching: not working)
+MMT (loans, emi, credit card, PMT, rents) (matching: not working)
+IIN (matching: working)
+
+
+Others:
+IPS (matching: working)
+VIN (matching: working)
+CMS (matching: not working) (wierd data, no text, only id, eg: AD_LIC__648652702)
+BIL  (matching: not working) (BSE, state bank, insurance, mutual fund etc)
+NFS (matching: working)
+OTHER (matching: not working) (wierd text)
+
+
+
+
+
+Brands Merchants (covered using Brand.csv file):
+UPI
+VPS
+ATM (only cash withdrawal is there)
+IIN
+IPS
+VIN
+NFS (only cash withdrawal is there)
+
+
+Ignoring GIB
+
+ACH
+CMS
+BIL
+NFS

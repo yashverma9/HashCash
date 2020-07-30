@@ -1,0 +1,30 @@
+[
+    {
+        "Id": 3,
+        "Brand_name": "Spencers",
+        "Category": "Groceries",
+        "Sub_category": "Supermart",
+        "Done": 1
+    },
+    {
+        "Id": 4,
+        "Brand_name": "Reliance Fresh",
+        "Category": "Groceries",
+        "Sub_category": "Supermart",
+        "Done": 0
+    },
+    {
+        "Id": 111,
+        "Brand_name": "Spar Hypermarket",
+        "Category": "Groceries",
+        "Sub_category": "Supermart",
+        "Done": 0
+    },
+    {
+        "Id": 186,
+        "Brand_name": "Big Bazaar",
+        "Category": "Groceries",
+        "Sub_category": "Supermart",
+        "Done": 0
+    }
+]

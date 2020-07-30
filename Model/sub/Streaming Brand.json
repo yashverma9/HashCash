@@ -1,0 +1,30 @@
+[
+    {
+        "Id": 139,
+        "Brand_name": "Netflix",
+        "Category": "Entertainment",
+        "Sub_category": "Streaming Brand",
+        "Done": 1
+    },
+    {
+        "Id": 140,
+        "Brand_name": "Hotstar",
+        "Category": "Entertainment",
+        "Sub_category": "Streaming Brand",
+        "Done": 0
+    },
+    {
+        "Id": 141,
+        "Brand_name": "Zee5",
+        "Category": "Entertainment",
+        "Sub_category": "Streaming Brand",
+        "Done": 0
+    },
+    {
+        "Id": 142,
+        "Brand_name": "AltBalaji",
+        "Category": "Entertainment",
+        "Sub_category": "Streaming Brand",
+        "Done": 0
+    }
+]

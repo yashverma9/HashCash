@@ -1,0 +1,93 @@
+[
+    {
+        "Id": 14,
+        "Brand_name": "Dunkin Donuts",
+        "Category": "Foods and Drinks",
+        "Sub_category": "Fast Food",
+        "Done": 1
+    },
+    {
+        "Id": 15,
+        "Brand_name": "KFC",
+        "Category": "Foods and Drinks",
+        "Sub_category": "Fast Food",
+        "Done": 0
+    },
+    {
+        "Id": 16,
+        "Brand_name": "Mc Donalds",
+        "Category": "Foods and Drinks",
+        "Sub_category": "Fast Food",
+        "Done": 0
+    },
+    {
+        "Id": 17,
+        "Brand_name": "Taco Bell",
+        "Category": "Foods and Drinks",
+        "Sub_category": "Fast Food",
+        "Done": 0
+    },
+    {
+        "Id": 21,
+        "Brand_name": "Burger King",
+        "Category": "Foods and Drinks",
+        "Sub_category": "Fast Food",
+        "Done": 1
+    },
+    {
+        "Id": 69,
+        "Brand_name": "Smally's",
+        "Category": "Foods and Drinks",
+        "Sub_category": "Fast Food",
+        "Done": 1
+    },
+    {
+        "Id": 78,
+        "Brand_name": "Dominos",
+        "Category": "Foods and Drinks",
+        "Sub_category": "Fast Food",
+        "Done": 0
+    },
+    {
+        "Id": 80,
+        "Brand_name": "Burp",
+        "Category": "Foods and Drinks",
+        "Sub_category": "Fast Food",
+        "Done": 1
+    },
+    {
+        "Id": 81,
+        "Brand_name": "Vinny's",
+        "Category": "Foods and Drinks",
+        "Sub_category": "Fast Food",
+        "Done": 0
+    },
+    {
+        "Id": 83,
+        "Brand_name": "Cuppa ",
+        "Category": "Foods and Drinks",
+        "Sub_category": "Fast Food",
+        "Done": 0
+    },
+    {
+        "Id": 84,
+        "Brand_name": "Polar Bear",
+        "Category": "Foods and Drinks",
+        "Sub_category": "Fast Food",
+        "Done": 1
+    },
+    {
+        "Id": 87,
+        "Brand_name": "Stoned Monkey",
+        "Category": "Foods and Drinks",
+        "Sub_category": "Fast Food",
+        "Done": 1
+    },
+    {
+        "Id": 88,
+        "Brand_name": "Leon Grill",
+        "Category": "Foods and Drinks",
+        "Sub_category": "Fast Food",
+        "Done": 1
+    }
+]

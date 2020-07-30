@@ -1,0 +1,110 @@
+list_merchants = ["UPI", "VPS", "ATM", "ACH", "MMT", "IIN", "IPS", "VIN", "CMS", "BIL", "NFS", "OTHER"]
+dict_no_fields_narr = {"UPI": 5, "VPS": 5, "ATM": 4, "ACH": 4, "MMT": 6, "IIN": 5, "IPS": 5, "VIN": 4, "CMS": 3, "BIL": 5, "NFS": 4, "OTHER": 1}
+
+
+UPI:
+
+f1 : "UPI"
+f2 : "/12_digit_number_id" (935314560764)
+f3 : "/upi_description_text" (could be brand name or what people write before paying through gpay) (On tapping Pay, Dentist, Zomato payment)
+f4: "/brand_name@upi_merchant_name" (freshmenu@ybl, gpay-1116609841)
+f5 : "/rcvr_bank_name" (HDFC BANK, Axis Bank)
+
+
+VPS:
+
+f1 : "VPS"
+f2 : "/brand_name" (MARIYA MART, ROLLS ON WH)
+f3 : "/12_digit_number_id" (202002041509)
+f4 : "/12_digit_number_id" (001722830111)
+f5 : "/city_name_or_city_name_shortform" (BANGALOR)
+
+
+ATM:
+
+f1 : "ATM"
+f2 : "/5alpha+3numeric_id" (SPCND430)
+f3 : "/CASH WDL" (CASH WDL)
+f4 : "/date" (12-01-20)
+
+
+ACH:
+
+f1 : "ACH"
+f2 : "/insurance_or_loan_name" (HDFCLTD, TP ExideLife)
+f3 : "/insurance_company_name_or_9/10_digit_number_id" (INGLife, 245261499)
+f4 : "/10_digit_number_id" (1834310500)
+
+
+MMT:
+
+f1 : "MMT"
+f2 : "/IMPS" (IMPS is fixed)
+f3 : "/12_digit_number_id" (003917401747)
+f4 : "/loan_or_creditcard_or_rent__" (Rent Jan 2020, Car Loan EMI, HDFC CC PMT)
+f5 : "/name_of_person_or_bank_name_credit_card_company_name" (AKSHAY KUMAR, HDFC CREDI, SBIN)
+f6 : "/4_digit_alpha_code_about_bank_anything" (SBIN, HDF)
+ 
+
+IIN:
+
+f1 : "IIN"
+f2 : "/I-Debit" (I-Debit fixed)
+f3 : "/Brand_name" (Dish Infra)
+f4 : "/12_digit_number_id" (202003071657)
+f5 : "/12_digit_number_id" (006701016468)
+
+
+IPS:
+
+f1 : "IPS"
+f2 : "/Brand_name" (Ola, BigTree)
+f3 : "/12_digit_number_id" (202003071657)
+f4 : "/12_digit_number_id" (006701016468)
+f5 : "/city_name" (BANGALOR)
+ 
+
+VIN:
+
+f1 : "VIN"
+f2 : "/Brand_name" (Ola, BigTree)
+f3 : "/12_digit_number_id" (202003071657)
+f4 : "/12_digit_number_id" (006701016468)
+
+
+CMS:
+
+f1 : "CMS"
+f2 : "/12_digit_number_id"
+f3 : "/AD_LIC__648652702" (same id every transaction)
+
+
+BIL:
+
+f1 : "BIL"
+f2 : "/some_code" (Use only these: ONL, BPAY, INFT)
+f3 : "/12_digit_number_id"
+f4 : "/name_of_brand_or_name_of_credit_card_company_or_name_of_investment_or_mutual_fund"
+f5 : "/12+length alphanumeric_id" (BSE000000034260, MODIRECT,SBICARD_RICI848) (RELATED TO f4)
+
+
+NFS:
+
+f1 : "NFS"
+f2 : "/8digit_alpha_numeric_id" (SWCW5580, 40782067)
+f3 : "/CASH WDL" (fixed)
+f4 : "/date" (05-01-20)
+
+
+OTHER:
+
+f1 : "Company_name_or_big_alpha_numeric_id"
+
+
+
+
+No. of transactions per category:
+
+L :  
+M :
+U :

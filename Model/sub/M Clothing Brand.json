@@ -1,0 +1,114 @@
+[
+    {
+        "Id": 8,
+        "Brand_name": "Louis Philippe",
+        "Category": "Shopping",
+        "Sub_category": "M Clothing Brand",
+        "Done": 0
+    },
+    {
+        "Id": 9,
+        "Brand_name": "Arrow",
+        "Category": "Shopping",
+        "Sub_category": "M Clothing Brand",
+        "Done": 1
+    },
+    {
+        "Id": 10,
+        "Brand_name": "Van Heusen",
+        "Category": "Shopping",
+        "Sub_category": "M Clothing Brand",
+        "Done": 0
+    },
+    {
+        "Id": 11,
+        "Brand_name": "Allen Solly",
+        "Category": "Shopping",
+        "Sub_category": "M Clothing Brand",
+        "Done": 0
+    },
+    {
+        "Id": 13,
+        "Brand_name": "Peter England",
+        "Category": "Shopping",
+        "Sub_category": "M Clothing Brand",
+        "Done": 0
+    },
+    {
+        "Id": 27,
+        "Brand_name": "Manyavar",
+        "Category": "Shopping",
+        "Sub_category": "M Clothing Brand",
+        "Done": 1
+    },
+    {
+        "Id": 28,
+        "Brand_name": "Raymond",
+        "Category": "Shopping",
+        "Sub_category": "M Clothing Brand",
+        "Done": 1
+    },
+    {
+        "Id": 37,
+        "Brand_name": "Pepe Jeans",
+        "Category": "Shopping",
+        "Sub_category": "M Clothing Brand",
+        "Done": 0
+    },
+    {
+        "Id": 38,
+        "Brand_name": "Jack and Jones",
+        "Category": "Shopping",
+        "Sub_category": "M Clothing Brand",
+        "Done": 0
+    },
+    {
+        "Id": 42,
+        "Brand_name": "Lacoste",
+        "Category": "Shopping",
+        "Sub_category": "M Clothing Brand",
+        "Done": 0
+    },
+    {
+        "Id": 56,
+        "Brand_name": "Being Human",
+        "Category": "Shopping",
+        "Sub_category": "M Clothing Brand",
+        "Done": 0
+    },
+    {
+        "Id": 103,
+        "Brand_name": "USPA",
+        "Category": "Shopping",
+        "Sub_category": "M Clothing Brand",
+        "Done": 0
+    },
+    {
+        "Id": 116,
+        "Brand_name": "Super Dry",
+        "Category": "Shopping",
+        "Sub_category": "M Clothing Brand",
+        "Done": 0
+    },
+    {
+        "Id": 248,
+        "Brand_name": "Power Jeans ",
+        "Category": "Shopping",
+        "Sub_category": "M Clothing Brand",
+        "Done": 0
+    },
+    {
+        "Id": 249,
+        "Brand_name": "Ramraj Retail",
+        "Category": "Shopping",
+        "Sub_category": "M Clothing Brand",
+        "Done": 0
+    },
+    {
+        "Id": 250,
+        "Brand_name": "Ritesh Mens World",
+        "Category": "Shopping",
+        "Sub_category": "M Clothing Brand",
+        "Done": 0
+    }
+]

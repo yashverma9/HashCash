@@ -1,0 +1,51 @@
+[
+    {
+        "Id": 129,
+        "Brand_name": "Kaya Skin Clinic",
+        "Category": "Personal Care",
+        "Sub_category": "Salon",
+        "Done": 1
+    },
+    {
+        "Id": 130,
+        "Brand_name": "Hairspeak",
+        "Category": "Personal Care",
+        "Sub_category": "Salon",
+        "Done": 1
+    },
+    {
+        "Id": 131,
+        "Brand_name": "Invogue Salon",
+        "Category": "Personal Care",
+        "Sub_category": "Salon",
+        "Done": 0
+    },
+    {
+        "Id": 132,
+        "Brand_name": "BBlunt",
+        "Category": "Personal Care",
+        "Sub_category": "Salon",
+        "Done": 1
+    },
+    {
+        "Id": 133,
+        "Brand_name": "Javed Habib",
+        "Category": "Personal Care",
+        "Sub_category": "Salon",
+        "Done": 0
+    },
+    {
+        "Id": 258,
+        "Brand_name": "Billu Barber",
+        "Category": "Personal Care",
+        "Sub_category": "Salon",
+        "Done": 0
+    },
+    {
+        "Id": 269,
+        "Brand_name": "Zaras Salon ",
+        "Category": "Personal Care",
+        "Sub_category": "Salon",
+        "Done": 0
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "referenceNo" : "MSW12902746123",
+        "brand": "PNB Personal Loan",
+        "interestRate": "8.5%",
+        "amountIssued": "₹ 1,500,000",
+        "emi": "₹ 11,345",
+        "issuedOn": "24 Jan, 2019",
+        "tenureMonths": "12 Years"
+    },
+    {
+        "referenceNo" : "SBI2324095728821",
+        "brand": "IDBI Home Loan",
+        "interestRate": "10.5%",
+        "amountIssued": "₹ 3,500,000",
+        "emi": "₹ 14,583",
+        "issuedOn": "1 March, 2018",
+        "tenureMonths": "20 Years"
+    }
+]

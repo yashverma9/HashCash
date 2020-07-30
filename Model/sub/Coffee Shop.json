@@ -1,0 +1,23 @@
+[
+    {
+        "Id": 20,
+        "Brand_name": "Starbucks",
+        "Category": "Foods and Drinks",
+        "Sub_category": "Coffee Shop",
+        "Done": 1
+    },
+    {
+        "Id": 293,
+        "Brand_name": "Cafe Coffee Day",
+        "Category": "Foods and Drinks",
+        "Sub_category": "Coffee Shop",
+        "Done": 1
+    },
+    {
+        "Id": 294,
+        "Brand_name": "Barista",
+        "Category": "Foods and Drinks",
+        "Sub_category": "Coffee Shop",
+        "Done": 0
+    }
+]

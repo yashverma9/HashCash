@@ -1,0 +1,23 @@
+[
+    {
+        "Id": 51,
+        "Brand_name": "PVR",
+        "Category": "Entertainment",
+        "Sub_category": "Cinema",
+        "Done": 1
+    },
+    {
+        "Id": 52,
+        "Brand_name": "Inox",
+        "Category": "Entertainment",
+        "Sub_category": "Cinema",
+        "Done": 1
+    },
+    {
+        "Id": 53,
+        "Brand_name": "Cinepolis",
+        "Category": "Entertainment",
+        "Sub_category": "Cinema",
+        "Done": 0
+    }
+]

@@ -1,0 +1,91 @@
+{
+    "status": "success",
+    "ver": "1.6.0",
+    "data": {
+        "linkReferenceNumber": "d68d3aa8-4d6d-4365-afd1-4f0822eb5d7e",
+        "maskedAccountNumber": "XXXXXXXXXX0256",
+        "balance": "35000.00",
+        "fipName": "FinShareBankServer",
+        "fipId": "finsharebank",
+        "fiType": "RECURRING_DEPOSIT",
+        "fiData": [
+            {
+                "transactionTimestamp": "2019-12-22T04:53:45.000Z",
+                "txnId": "M2587459",
+                "mode": "FT",
+                "amount": "5000.00",
+                "balance": "5000.00",
+                "type": "OPENING",
+                "narration": "TOWARDS RD OPENING",
+                "reference": "RFN0001338754",
+                "valueDate": "2019-12-22T04:53:45.000Z"
+            },
+            {
+                "transactionTimestamp": "2020-01-22T04:53:45.000Z",
+                "txnId": "M5874125",
+                "mode": "FT",
+                "amount": "5000.00",
+                "balance": "10000.00",
+                "type": "INSTALLMENT",
+                "narration": "TOWARDS RD INSTALLMENT",
+                "reference": "RFN0001587864",
+                "valueDate": "2020-01-22T04:53:45.000Z"
+            },
+            {
+                "transactionTimestamp": "2020-02-22T04:53:45.000Z",
+                "txnId": "M9160791",
+                "mode": "FT",
+                "amount": "5000.00",
+                "balance": "15000.00",
+                "type": "INSTALLMENT",
+                "narration": "TOWARDS RD INSTALLMENT",
+                "reference": "RFN0001836974",
+                "valueDate": "2020-02-22T04:53:45.000Z"
+            },
+            {
+                "transactionTimestamp": "2020-03-22T04:53:45.000Z",
+                "txnId": "M12447457",
+                "mode": "FT",
+                "amount": "5000.00",
+                "balance": "20000.00",
+                "type": "INSTALLMENT",
+                "narration": "TOWARDS RD INSTALLMENT",
+                "reference": "RFN0002086084",
+                "valueDate": "2020-03-22T04:53:45.000Z"
+            },
+            {
+                "transactionTimestamp": "2020-04-22T04:53:45.000Z",
+                "txnId": "M15734123",
+                "mode": "FT",
+                "amount": "5000.00",
+                "balance": "25000.00",
+                "type": "INSTALLMENT",
+                "narration": "TOWARDS RD INSTALLMENT",
+                "reference": "RFN0002335194",
+                "valueDate": "2020-04-22T04:53:45.000Z"
+            },
+            {
+                "transactionTimestamp": "2020-05-22T04:53:45.000Z",
+                "txnId": "M19020789",
+                "mode": "FT",
+                "amount": "5000.00",
+                "balance": "30000.00",
+                "type": "INSTALLMENT",
+                "narration": "TOWARDS RD INSTALLMENT",
+                "reference": "RFN0002584304",
+                "valueDate": "2020-05-22T04:53:45.000Z"
+            },
+            {
+                "transactionTimestamp": "2020-06-22T04:53:45.000Z",
+                "txnId": "M22307455",
+                "mode": "FT",
+                "amount": "5000.00",
+                "balance": "35000.00",
+                "type": "INSTALLMENT",
+                "narration": "TOWARDS RD INSTALLMENT",
+                "reference": "RFN0002833414",
+                "valueDate": "2020-06-22T04:53:45.000Z"
+            }
+        ]
+    }
+}

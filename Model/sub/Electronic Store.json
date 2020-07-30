@@ -1,0 +1,37 @@
+[
+    {
+        "Id": 48,
+        "Brand_name": "Mi Store",
+        "Category": "Shopping",
+        "Sub_category": "Electronic Store",
+        "Done": 1
+    },
+    {
+        "Id": 63,
+        "Brand_name": "HP World",
+        "Category": "Shopping",
+        "Sub_category": "Electronic Store",
+        "Done": 0
+    },
+    {
+        "Id": 109,
+        "Brand_name": "5 Computers",
+        "Category": "Shopping",
+        "Sub_category": "Electronic Store",
+        "Done": 0
+    },
+    {
+        "Id": 110,
+        "Brand_name": "Canon",
+        "Category": "Shopping",
+        "Sub_category": "Electronic Store",
+        "Done": 0
+    },
+    {
+        "Id": 128,
+        "Brand_name": "Skull Candy",
+        "Category": "Shopping",
+        "Sub_category": "Electronic Store",
+        "Done": 1
+    }
+]

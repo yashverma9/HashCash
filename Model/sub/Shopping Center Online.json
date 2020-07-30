@@ -1,0 +1,30 @@
+[
+    {
+        "Id": 58,
+        "Brand_name": "Amazon (AMZN)",
+        "Category": "Shopping",
+        "Sub_category": "Shopping Center Online",
+        "Done": 0
+    },
+    {
+        "Id": 59,
+        "Brand_name": "PatymMall",
+        "Category": "Shopping",
+        "Sub_category": "Shopping Center Online",
+        "Done": 1
+    },
+    {
+        "Id": 60,
+        "Brand_name": "Flipkart",
+        "Category": "Shopping",
+        "Sub_category": "Shopping Center Online",
+        "Done": 0
+    },
+    {
+        "Id": 61,
+        "Brand_name": "Myntra",
+        "Category": "Shopping",
+        "Sub_category": "Shopping Center Online",
+        "Done": 0
+    }
+]

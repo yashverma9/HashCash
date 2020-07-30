@@ -1,0 +1,18 @@
+[
+    {
+        "accountNo": "334212093",
+        "brand": "Motilal Oswal",
+        "tenureStart": "1 April, 2018",
+        "tenureEnd": "27 March, 2021", 
+        "investmentCost": "₹ 5,000",
+        "investmentFrequency": "Monthly"
+    },
+    {
+        "accountNo": "9843120683",
+        "brand": "Principal Mutual Fund",
+        "tenureStart": "31 March, 2019",
+        "tenureEnd": "25 March, 2022", 
+        "investmentCost": "₹ 9,000",
+        "investmentFrequency": "Monthly"
+    }
+]

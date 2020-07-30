@@ -1,0 +1,79 @@
+[
+    {
+        "Id": 67,
+        "Brand_name": "Plated",
+        "Category": "Foods and Drinks",
+        "Sub_category": "Restaurant",
+        "Done": 1
+    },
+    {
+        "Id": 70,
+        "Brand_name": "Smoke House",
+        "Category": "Foods and Drinks",
+        "Sub_category   ": "Restaurant",
+        "Done": 1
+    },
+    {
+        "Id": 75,
+        "Brand_name": "Nandi Hangout",
+        "Category": "Foods and Drinks",
+        "Sub_category": "Restaurant",
+        "Done": 1
+    },
+    {
+        "Id": 79,
+        "Brand_name": "Tawa Tandoor",
+        "Category": "Foods and Drinks",
+        "Sub_category": "Restaurant",
+        "Done": 0
+    },
+    {
+        "Id": 85,
+        "Brand_name": "Beijing Bites",
+        "Category": "Foods and Drinks",
+        "Sub_category": "Restaurant",
+        "Done": 1
+    },
+    {
+        "Id": 86,
+        "Brand_name": "Mr Goofy's",
+        "Category": "Foods and Drinks",
+        "Sub_category": "Restaurant",
+        "Done": 0
+    },
+    {
+        "Id": 236,
+        "Brand_name": "A2B",
+        "Category": "Foods and Drinks",
+        "Sub_category": "Restaurant",
+        "Done": 0
+    },
+    {
+        "Id": 237,
+        "Brand_name": "Shiv Sagar",
+        "Category": "Foods and Drinks",
+        "Sub_category": "Restaurant",
+        "Done": 0
+    },
+    {
+        "Id": 238,
+        "Brand_name": "Sri Sagar",
+        "Category": "Foods and Drinks",
+        "Sub_category": "Restaurant",
+        "Done": 0
+    },
+    {
+        "Id": 239,
+        "Brand_name": "Thalasary",
+        "Category": "Foods and Drinks",
+        "Sub_category": "Restaurant",
+        "Done": 0
+    },
+    {
+        "Id": 242,
+        "Brand_name": "Udupi ",
+        "Category": "Foods and Drinks",
+        "Sub_category": "Restaurant",
+        "Done": 0
+    }
+]

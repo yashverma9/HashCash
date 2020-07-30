@@ -1,0 +1,23 @@
+[
+    {
+        "Id": 7,
+        "Brand_name": "Reliance Digital",
+        "Category": "Shopping",
+        "Sub_category": "Electronic Center",
+        "Done": 1
+    },
+    {
+        "Id": 23,
+        "Brand_name": "CEX",
+        "Category": "Shopping",
+        "Sub_category": "Electronic Center",
+        "Done": 1
+    },
+    {
+        "Id": 41,
+        "Brand_name": "Croma",
+        "Category": "Shopping",
+        "Sub_category": "Electronic Center",
+        "Done": 1
+    }
+]

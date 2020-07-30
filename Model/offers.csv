@@ -1,0 +1,121 @@
+,antecedents,consequents,antecedent support,consequent support,support,confidence,lift,leverage,conviction,antecedent_len
+0,Book My Show,Zomato,0.6,0.8,0.6,1.0,1.25,0.12,inf,1
+1,Only,Zomato,0.6,0.8,0.6,1.0,1.25,0.12,inf,1
+2,"Book My Show,Uber",Zomato,0.6,0.8,0.6,1.0,1.25,0.12,inf,2
+3,Book My Show,"Uber,Zomato",0.6,0.8,0.6,1.0,1.25,0.12,inf,1
+4,"Only,Uber",Zomato,0.6,0.8,0.6,1.0,1.25,0.12,inf,2
+5,Only,"Uber,Zomato",0.6,0.8,0.6,1.0,1.25,0.12,inf,1
+6,Netflix,Gilly's,0.6,0.8,0.6,1.0,1.25,0.12,inf,1
+7,iPlanet,Reliance Digital,0.6,0.6,0.6,1.0,1.6666666666666667,0.24,inf,1
+8,Reliance Digital,iPlanet,0.6,0.6,0.6,1.0,1.6666666666666667,0.24,inf,1
+9,HomeTown,Croma,0.6,0.8,0.6,1.0,1.25,0.12,inf,1
+10,Shopper Stop,Raymond,0.6,0.8,0.6,1.0,1.25,0.12,inf,1
+11,Tanishq,Raymond,0.6,0.8,0.6,1.0,1.25,0.12,inf,1
+12,Bangalore Central,Patym Mall,0.6,0.6,0.6,1.0,1.6666666666666667,0.24,inf,1
+13,Patym Mall,Bangalore Central,0.6,0.6,0.6,1.0,1.6666666666666667,0.24,inf,1
+14,Bangalore Central,Vans,0.6,0.8,0.6,1.0,1.25,0.12,inf,1
+15,Mi Store,Burger King,0.6,0.8,0.6,1.0,1.25,0.12,inf,1
+16,Rolls on Wheel,Fastrack,0.6,0.8,0.6,1.0,1.25,0.12,inf,1
+17,Patym Mall,Vans,0.6,0.8,0.6,1.0,1.25,0.12,inf,1
+18,"Bangalore Central,Vans",Patym Mall,0.6,0.6,0.6,1.0,1.6666666666666667,0.24,inf,2
+19,"Bangalore Central,Patym Mall",Vans,0.6,0.8,0.6,1.0,1.25,0.12,inf,2
+20,"Vans,Patym Mall",Bangalore Central,0.6,0.6,0.6,1.0,1.6666666666666667,0.24,inf,2
+21,Bangalore Central,"Vans,Patym Mall",0.6,0.6,0.6,1.0,1.6666666666666667,0.24,inf,1
+22,Patym Mall,"Bangalore Central,Vans",0.6,0.6,0.6,1.0,1.6666666666666667,0.24,inf,1
+23,Crossword ,Land Mark,0.6,0.8,0.6,1.0,1.25,0.12,inf,1
+24,Crossword ,Plated,0.6,0.8,0.6,1.0,1.25,0.12,inf,1
+25,Sarjapur Social,Land Mark,0.6,0.8,0.6,1.0,1.25,0.12,inf,1
+26,Meru Cabs,Plated,0.6,0.8,0.6,1.0,1.25,0.12,inf,1
+27,Smaash,Veremoda,0.6,0.6,0.6,1.0,1.6666666666666667,0.24,inf,1
+28,Veremoda,Smaash,0.6,0.6,0.6,1.0,1.6666666666666667,0.24,inf,1
+29,"Land Mark,Crossword ",Plated,0.6,0.8,0.6,1.0,1.25,0.12,inf,2
+30,"Land Mark,Plated",Crossword ,0.6,0.6,0.6,1.0,1.6666666666666667,0.24,inf,2
+31,"Crossword ,Plated",Land Mark,0.6,0.8,0.6,1.0,1.25,0.12,inf,2
+32,Crossword ,"Land Mark,Plated",0.6,0.6,0.6,1.0,1.6666666666666667,0.24,inf,1
+33,Fresh Menu,Fitbit,0.6,0.8,0.6,1.0,1.25,0.12,inf,1
+34,Fitbit,Skechers,0.8,0.8,0.8,1.0,1.25,0.15999999999999992,inf,1
+35,Skechers,Fitbit,0.8,0.8,0.8,1.0,1.25,0.15999999999999992,inf,1
+36,Fresh Menu,Skechers,0.6,0.8,0.6,1.0,1.25,0.12,inf,1
+37,Grofers,Spencers,0.6,0.8,0.6,1.0,1.25,0.12,inf,1
+38,"Eat Fit,Fresh Menu",Fitbit,0.6,0.8,0.6,1.0,1.25,0.12,inf,2
+39,Fresh Menu,"Fitbit,Eat Fit",0.6,0.8,0.6,1.0,1.25,0.12,inf,1
+40,"Fitbit,Eat Fit",Skechers,0.8,0.8,0.8,1.0,1.25,0.15999999999999992,inf,2
+41,"Eat Fit,Skechers",Fitbit,0.8,0.8,0.8,1.0,1.25,0.15999999999999992,inf,2
+42,Fitbit,"Eat Fit,Skechers",0.8,0.8,0.8,1.0,1.25,0.15999999999999992,inf,1
+43,Skechers,"Fitbit,Eat Fit",0.8,0.8,0.8,1.0,1.25,0.15999999999999992,inf,1
+44,"Eat Fit,Fresh Menu",Skechers,0.6,0.8,0.6,1.0,1.25,0.12,inf,2
+45,Fresh Menu,"Eat Fit,Skechers",0.6,0.8,0.6,1.0,1.25,0.12,inf,1
+46,"Grofers,Eat Fit",Spencers,0.6,0.8,0.6,1.0,1.25,0.12,inf,2
+47,Grofers,"Eat Fit,Spencers",0.6,0.8,0.6,1.0,1.25,0.12,inf,1
+48,"Fitbit,Fresh Menu",Skechers,0.6,0.8,0.6,1.0,1.25,0.12,inf,2
+49,"Fresh Menu,Skechers",Fitbit,0.6,0.8,0.6,1.0,1.25,0.12,inf,2
+50,Fresh Menu,"Fitbit,Skechers",0.6,0.8,0.6,1.0,1.25,0.12,inf,1
+51,"Fitbit,Spencers",Skechers,0.6,0.8,0.6,1.0,1.25,0.12,inf,2
+52,"Spencers,Skechers",Fitbit,0.6,0.8,0.6,1.0,1.25,0.12,inf,2
+53,"Fitbit,Fresh Menu","Eat Fit,Skechers",0.6,0.8,0.6,1.0,1.25,0.12,inf,2
+54,"Eat Fit,Fresh Menu","Fitbit,Skechers",0.6,0.8,0.6,1.0,1.25,0.12,inf,2
+55,"Fresh Menu,Skechers","Fitbit,Eat Fit",0.6,0.8,0.6,1.0,1.25,0.12,inf,2
+56,Fresh Menu,"Fitbit,Eat Fit,Skechers",0.6,0.8,0.6,1.0,1.25,0.12,inf,1
+57,"Fitbit,Spencers","Eat Fit,Skechers",0.6,0.8,0.6,1.0,1.25,0.12,inf,2
+58,"Spencers,Skechers","Fitbit,Eat Fit",0.6,0.8,0.6,1.0,1.25,0.12,inf,2
+59,No Limmits,Mac,0.6,0.6,0.6,1.0,1.6666666666666667,0.24,inf,1
+60,Mac,No Limmits,0.6,0.6,0.6,1.0,1.6666666666666667,0.24,inf,1
+61,Mac,Plan B,0.6,0.8,0.6,1.0,1.25,0.12,inf,1
+62,No Limmits,Plan B,0.6,0.8,0.6,1.0,1.25,0.12,inf,1
+63,"Plan B,No Limmits",Mac,0.6,0.6,0.6,1.0,1.6666666666666667,0.24,inf,2
+64,"Plan B,Mac",No Limmits,0.6,0.6,0.6,1.0,1.6666666666666667,0.24,inf,2
+65,"No Limmits,Mac",Plan B,0.6,0.8,0.6,1.0,1.25,0.12,inf,2
+66,No Limmits,"Plan B,Mac",0.6,0.6,0.6,1.0,1.6666666666666667,0.24,inf,1
+67,Mac,"Plan B,No Limmits",0.6,0.6,0.6,1.0,1.6666666666666667,0.24,inf,1
+68,Beijing Bites,Ginger,0.6,0.8,0.6,1.0,1.25,0.12,inf,1
+69,Beijing Bites,Polar Bear,0.6,0.8,0.6,1.0,1.25,0.12,inf,1
+70,Beijing Bites,Sugar,0.6,0.8,0.6,1.0,1.25,0.12,inf,1
+71,Polar Bear,Ginger,0.8,0.8,0.8,1.0,1.25,0.15999999999999992,inf,1
+72,Ginger,Polar Bear,0.8,0.8,0.8,1.0,1.25,0.15999999999999992,inf,1
+73,"Polar Bear,Beijing Bites",Ginger,0.6,0.8,0.6,1.0,1.25,0.12,inf,2
+74,"Ginger,Beijing Bites",Polar Bear,0.6,0.8,0.6,1.0,1.25,0.12,inf,2
+75,Beijing Bites,"Polar Bear,Ginger",0.6,0.8,0.6,1.0,1.25,0.12,inf,1
+76,"Sugar,Ginger",Beijing Bites,0.6,0.6,0.6,1.0,1.6666666666666667,0.24,inf,2
+77,"Sugar,Beijing Bites",Ginger,0.6,0.8,0.6,1.0,1.25,0.12,inf,2
+78,"Ginger,Beijing Bites",Sugar,0.6,0.8,0.6,1.0,1.25,0.12,inf,2
+79,Beijing Bites,"Sugar,Ginger",0.6,0.6,0.6,1.0,1.6666666666666667,0.24,inf,1
+80,"Sugar,Polar Bear",Beijing Bites,0.6,0.6,0.6,1.0,1.6666666666666667,0.24,inf,2
+81,"Sugar,Beijing Bites",Polar Bear,0.6,0.8,0.6,1.0,1.25,0.12,inf,2
+82,"Polar Bear,Beijing Bites",Sugar,0.6,0.8,0.6,1.0,1.25,0.12,inf,2
+83,Beijing Bites,"Sugar,Polar Bear",0.6,0.6,0.6,1.0,1.6666666666666667,0.24,inf,1
+84,"Catwalk,Polar Bear",Ginger,0.6,0.8,0.6,1.0,1.25,0.12,inf,2
+85,"Catwalk,Ginger",Polar Bear,0.6,0.8,0.6,1.0,1.25,0.12,inf,2
+86,"Sugar,Polar Bear",Ginger,0.6,0.8,0.6,1.0,1.25,0.12,inf,2
+87,"Sugar,Ginger",Polar Bear,0.6,0.8,0.6,1.0,1.25,0.12,inf,2
+88,"Zara,Ginger",Polar Bear,0.6,0.8,0.6,1.0,1.25,0.12,inf,2
+89,"Polar Bear,Zara",Ginger,0.6,0.8,0.6,1.0,1.25,0.12,inf,2
+90,"Sugar,Polar Bear","Ginger,Beijing Bites",0.6,0.6,0.6,1.0,1.6666666666666667,0.24,inf,2
+91,"Sugar,Ginger","Polar Bear,Beijing Bites",0.6,0.6,0.6,1.0,1.6666666666666667,0.24,inf,2
+92,"Sugar,Beijing Bites","Polar Bear,Ginger",0.6,0.8,0.6,1.0,1.25,0.12,inf,2
+93,"Polar Bear,Beijing Bites","Sugar,Ginger",0.6,0.6,0.6,1.0,1.6666666666666667,0.24,inf,2
+94,"Ginger,Beijing Bites","Sugar,Polar Bear",0.6,0.6,0.6,1.0,1.6666666666666667,0.24,inf,2
+95,Beijing Bites,"Sugar,Polar Bear,Ginger",0.6,0.6,0.6,1.0,1.6666666666666667,0.24,inf,1
+96,Ori Flame,Fab India,0.6,0.8,0.6,1.0,1.25,0.12,inf,1
+97,"Inc 5,Ori Flame",Fab India,0.6,0.8,0.6,1.0,1.25,0.12,inf,2
+98,Ori Flame,"Fab India,Inc 5",0.6,0.8,0.6,1.0,1.25,0.12,inf,1
+99,Clarks,Adidas,0.6,0.6,0.6,1.0,1.6666666666666667,0.24,inf,1
+100,Adidas,Clarks,0.6,0.6,0.6,1.0,1.6666666666666667,0.24,inf,1
+101,Adidas,Gap,0.6,0.8,0.6,1.0,1.25,0.12,inf,1
+102,Clarks,Gap,0.6,0.8,0.6,1.0,1.25,0.12,inf,1
+103,"Gap,Clarks",Adidas,0.6,0.6,0.6,1.0,1.6666666666666667,0.24,inf,2
+104,"Gap,Adidas",Clarks,0.6,0.6,0.6,1.0,1.6666666666666667,0.24,inf,2
+105,"Adidas,Clarks",Gap,0.6,0.8,0.6,1.0,1.25,0.12,inf,2
+106,Clarks,"Gap,Adidas",0.6,0.6,0.6,1.0,1.6666666666666667,0.24,inf,1
+107,Adidas,"Gap,Clarks",0.6,0.6,0.6,1.0,1.6666666666666667,0.24,inf,1
+108,Allen Solly,KFC,0.6,0.8,0.6,1.0,1.25,0.12,inf,1
+109,Allen Solly,Sony,0.6,0.8,0.6,1.0,1.25,0.12,inf,1
+110,Hotstar,Tatasky,0.8,0.8,0.8,1.0,1.25,0.15999999999999992,inf,1
+111,Tatasky,Hotstar,0.8,0.8,0.8,1.0,1.25,0.15999999999999992,inf,1
+112,"Allen Solly,KFC",Sony,0.6,0.8,0.6,1.0,1.25,0.12,inf,2
+113,"Allen Solly,Sony",KFC,0.6,0.8,0.6,1.0,1.25,0.12,inf,2
+114,"Sony,KFC",Allen Solly,0.6,0.6,0.6,1.0,1.6666666666666667,0.24,inf,2
+115,Allen Solly,"Sony,KFC",0.6,0.6,0.6,1.0,1.6666666666666667,0.24,inf,1
+116,"Tatasky,KFC",Hotstar,0.6,0.8,0.6,1.0,1.25,0.12,inf,2
+117,"Hotstar,KFC",Tatasky,0.6,0.8,0.6,1.0,1.25,0.12,inf,2
+118,"Sony,Hotstar",Tatasky,0.6,0.8,0.6,1.0,1.25,0.12,inf,2
+119,"Sony,Tatasky",Hotstar,0.6,0.8,0.6,1.0,1.25,0.12,inf,2

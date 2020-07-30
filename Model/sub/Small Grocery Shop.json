@@ -1,0 +1,30 @@
+[
+    {
+        "Id": 5,
+        "Brand_name": "Kwality Bazaar ",
+        "Category": "Groceries",
+        "Sub_category": "Small Grocery Shop",
+        "Done": 1
+    },
+    {
+        "Id": 181,
+        "Brand_name": "Mariya Mart",
+        "Category": "Groceries",
+        "Sub_category": "Small Grocery Shop",
+        "Done": 0
+    },
+    {
+        "Id": 256,
+        "Brand_name": "Kirana Store",
+        "Category": "Groceries",
+        "Sub_category": "Small Grocery Shop",
+        "Done": 0
+    },
+    {
+        "Id": 257,
+        "Brand_name": "Saxena Fruit Shop",
+        "Category": "Groceries",
+        "Sub_category": "Small Grocery Shop",
+        "Done": 1
+    }
+]

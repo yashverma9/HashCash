@@ -1,0 +1,79 @@
+[
+    {
+        "Id": 2,
+        "Brand_name": "Amul",
+        "Category": "Foods and Drinks",
+        "Sub_category": "Snacks",
+        "Done": 1
+    },
+    {
+        "Id": 113,
+        "Brand_name": "SK Rolls",
+        "Category": "Foods and Drinks",
+        "Sub_category": "Snacks",
+        "Done": 1
+    },
+    {
+        "Id": 145,
+        "Brand_name": "Eat Fit",
+        "Category": "Foods and Drinks",
+        "Sub_category": "Snacks",
+        "Done": 1
+    },
+    {
+        "Id": 146,
+        "Brand_name": "Fresh Menu",
+        "Category": "Foods and Drinks",
+        "Sub_category": "Snacks",
+        "Done": 1
+    },
+    {
+        "Id": 157,
+        "Brand_name": "Chai Point",
+        "Category": "Foods and Drinks",
+        "Sub_category": "Snacks",
+        "Done": 1
+    },
+    {
+        "Id": 182,
+        "Brand_name": "Rolls on Wheel",
+        "Category": "Foods and Drinks",
+        "Sub_category": "Snacks",
+        "Done": 1
+    },
+    {
+        "Id": 185,
+        "Brand_name": "Sai Sarvana",
+        "Category": "Foods and Drinks",
+        "Sub_category": "Snacks",
+        "Done": 0
+    },
+    {
+        "Id": 235,
+        "Brand_name": "Taza Thindi",
+        "Category": "Foods and Drinks",
+        "Sub_category": "Snacks",
+        "Done": 0
+    },
+    {
+        "Id": 240,
+        "Brand_name": "Veena Store",
+        "Category": "Foods and Drinks",
+        "Sub_category": "Snacks",
+        "Done": 0
+    },
+    {
+        "Id": 241,
+        "Brand_name": "Vidyarthi Bhavan",
+        "Category": "Foods and Drinks",
+        "Sub_category": "Snacks",
+        "Done": 0
+    },
+    {
+        "Id": 243,
+        "Brand_name": "Raghavendra Bakery",
+        "Category": "Foods and Drinks",
+        "Sub_category": "Snacks",
+        "Done": 0
+    }
+]

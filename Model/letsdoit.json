@@ -1,0 +1,2909 @@
+{
+    "metaData": [
+        {
+            "month": "August",
+            "mode": "OTHER",
+            "brand": "SAL FINTECH PRODUCTS and SOLUTIONS",
+            "amount": "150000",
+            "valueDate": "2019-08-01",
+            "type": "CREDIT"
+        },
+        {
+            "month": "August",
+            "mode": "ACH",
+            "brand": "Max Life Insurance",
+            "amount": "3567",
+            "valueDate": "2019-08-01",
+            "type": "DEBIT"
+        },
+        {
+            "month": "August",
+            "mode": "BIL",
+            "brand": "Motilal Oswal",
+            "amount": "5000",
+            "valueDate": "2019-08-01",
+            "type": "DEBIT"
+        },
+        {
+            "month": "August",
+            "mode": "BIL",
+            "brand": "Principal Mutual Fund",
+            "amount": "9000",
+            "valueDate": "2019-08-01",
+            "type": "DEBIT"
+        },
+        {
+            "month": "August",
+            "mode": "MMT",
+            "brand": "PNB Personal Loan",
+            "amount": "11345",
+            "valueDate": "2019-08-01",
+            "type": "DEBIT"
+        },
+        {
+            "month": "August",
+            "mode" : "UPI",
+            "brand": "Amul",
+            "amount": "50",
+            "valueDate": "2019-08-02",
+            "type": "DEBIT"
+        },
+        {
+            "month": "August",
+            "mode" : "IPS",
+            "brand": "Spencers",
+            "amount": "2231",
+            "valueDate": "2019-08-03",
+            "type": "DEBIT"
+        },
+        {
+            "month": "August",
+            "mode": "MMT",
+            "brand": "IDBI Home Loan",
+            "amount": "14583",
+            "valueDate": "2019-08-03",
+            "type": "DEBIT"
+        },
+        {
+            "month": "August",
+            "mode": "MMT",
+            "brand": "Rent",
+            "amount": "12000",
+            "valueDate": "2019-08-04",
+            "type": "DEBIT"
+        },
+        {
+            "month": "August",
+            "mode": "VIN",
+            "brand": "Burger King",
+            "amount": "242",
+            "valueDate": "2019-08-04",
+            "type": "DEBIT"
+        },
+        {
+            "month": "August",
+            "mode": "UPI",
+            "brand": "Uber",
+            "amount": "330",
+            "valueDate": "2019-08-05",
+            "type": "DEBIT"
+        },
+        {
+            "month": "August",
+            "mode": "UPI",
+            "brand": "BESCOM",
+            "amount": "1380",
+            "valueDate": "2019-08-05",
+            "type": "DEBIT"
+        },
+        {
+            "month": "August",
+            "mode": "VIN",
+            "brand": "Indian Oil",
+            "amount": "1500",
+            "valueDate": "2019-08-07",
+            "type": "DEBIT"
+        },
+        {
+            "month": "August",
+            "mode": "UPI",
+            "brand": "Kwality Bazaar",
+            "amount": "200",
+            "valueDate": "2019-08-08",
+            "type": "DEBIT"
+        },
+        {
+            "month": "August",
+            "mode": "UPI",
+            "brand": "Ion Broadband",
+            "amount": "1299",
+            "valueDate": "2019-08-09",
+            "type": "DEBIT"
+        },
+        {
+            "month": "August",
+            "mode": "UPI",
+            "brand": "Jio",
+            "amount": "399",
+            "valueDate": "2019-08-10",
+            "type": "DEBIT"
+        },
+        {
+            "month": "August",
+            "mode": "VPS",
+            "brand": "Veromoda",
+            "amount": "3289",
+            "valueDate": "2019-08-12",
+            "type": "DEBIT"
+        },
+        {
+            "month": "August",
+            "mode": "IPS",
+            "brand": "Beijing Bites",
+            "amount": "1110",
+            "valueDate": "2019-08-12",
+            "type": "DEBIT"
+        },
+        {
+            "month": "August",
+            "mode": "UPI",
+            "brand": "Amul",
+            "amount": "180",
+            "valueDate": "2019-08-15",
+            "type": "DEBIT"
+        },
+        {
+            "month": "August",
+            "mode": "UPI",
+            "brand": "1mg",
+            "amount": "419",
+            "valueDate": "2019-08-18",
+            "type": "DEBIT"
+        },
+        {
+            "month": "August",
+            "mode": "VIN",
+            "brand": "Tatasky",
+            "amount": "350",
+            "valueDate": "2019-08-18",
+            "type": "DEBIT"
+        },
+        {
+            "month": "August",
+            "mode": "IIN",
+            "brand": "Netflix",
+            "amount": "799",
+            "valueDate": "2019-08-22",
+            "type": "DEBIT"
+        },
+        {
+            "month": "August",
+            "mode": "VPS",
+            "brand": "PVR",
+            "amount": "299",
+            "valueDate": "2019-08-24",
+            "type": "DEBIT"
+        },
+        {
+            "month": "August",
+            "mode": "UPI",
+            "brand": "Amul",
+            "amount": "150",
+            "valueDate": "2019-08-25",
+            "type": "DEBIT"
+        },
+        {
+            "month": "August",
+            "mode": "ACH",
+            "brand": "IndiaFirst Life Insurance",
+            "amount": "5201",
+            "valueDate": "2019-08-28",
+            "type": "DEBIT"
+        },
+        {
+            "month": "August",
+            "mode": "UPI",
+            "brand": "Kwality Bazaar",
+            "amount": "99",
+            "valueDate": "2019-08-28",
+            "type": "DEBIT"
+        },
+        {
+            "month": "August",
+            "mode": "MMT",
+            "brand": "Axis Privilege CC PMT",
+            "amount": "25005",
+            "valueDate": "2019-08-31",
+            "type": "DEBIT"
+        },
+        {
+            "month": "August",
+            "mode": "MMT",
+            "brand": "SBI Elite CC PMT",
+            "amount": "15542",
+            "valueDate": "2019-08-31",
+            "type": "DEBIT"
+        },
+        {
+            "month": "September",
+            "mode": "OTHER",
+            "brand": "SAL FINTECH PRODUCTS and SOLUTIONS",
+            "amount": "150000",
+            "valueDate": "2019-09-01",
+            "type": "CREDIT"
+        },
+        {
+            "month": "September",
+            "mode": "ACH",
+            "brand": "Max Life Insurance",
+            "amount": "3567",
+            "valueDate": "2019-09-01",
+            "type": "DEBIT"
+        },
+        {
+            "month": "September",
+            "mode": "MMT",
+            "brand": "PNB Personal Loan",
+            "amount": "11345",
+            "valueDate": "2019-09-01",
+            "type": "DEBIT"
+        },
+        {
+            "month": "September",
+            "mode": "BIL",
+            "brand": "Motilal Oswal",
+            "amount": "5000",
+            "valueDate": "2019-09-01",
+            "type": "DEBIT"
+        },
+        {
+            "month": "September",
+            "mode": "BIL",
+            "brand": "Principal Mutual Fund",
+            "amount": "9000",
+            "valueDate": "2019-09-01",
+            "type": "DEBIT"
+        },
+        {
+            "month": "September",
+            "mode" : "UPI",
+            "brand": "SK Rolls",
+            "amount": "80",
+            "valueDate": "2019-09-03",
+            "type": "DEBIT"
+        },
+        {
+            "month": "September",
+            "mode" : "UPI",
+            "brand": "Amul",
+            "amount": "100",
+            "valueDate": "2019-09-03",
+            "type": "DEBIT"
+        },
+        {
+            "month": "September",
+            "mode" : "IPS",
+            "brand": "Spencers",
+            "amount": "1588",
+            "valueDate": "2019-09-03",
+            "type": "DEBIT"
+        },
+        {
+            "month": "September",
+            "mode": "MMT",
+            "brand": "IDBI Home Loan",
+            "amount": "14583",
+            "valueDate": "2019-09-03",
+            "type": "DEBIT"
+        },
+        {
+            "month": "September",
+            "mode": "MMT",
+            "brand": "Rent",
+            "amount": "12000",
+            "valueDate": "2019-09-04",
+            "type": "DEBIT"
+        },
+        {
+            "month": "September",
+            "mode": "VIN",
+            "brand": "Beijing Bites",
+            "amount": "898",
+            "valueDate": "2019-09-05",
+            "type": "DEBIT"
+        },
+        {
+            "month": "September",
+            "mode": "BIL",
+            "brand": "994302139330",
+            "amount": "3500",
+            "valueDate": "2019-09-05",
+            "type": "CREDIT"
+        },
+        {
+            "month": "September",
+            "mode": "UPI",
+            "brand": "BESCOM",
+            "amount": "1680",
+            "valueDate": "2019-09-05",
+            "type": "DEBIT"
+        },
+        {
+            "month": "September",
+            "mode": "VPS",
+            "brand": "PVR",
+            "amount": "459",
+            "valueDate": "2019-09-06",
+            "type": "DEBIT"
+        },
+        {
+            "month": "September",
+            "mode": "UPI",
+            "brand": "Kwality Bazaar",
+            "amount": "100",
+            "valueDate": "2019-09-08",
+            "type": "DEBIT"
+        },
+        {
+            "month": "September",
+            "mode": "UPI",
+            "brand": "Amul",
+            "amount": "80",
+            "valueDate": "2019-09-08",
+            "type": "DEBIT"
+        },
+        {
+            "month": "September",
+            "mode": "UPI",
+            "brand": "Ion Broadband",
+            "amount": "1299",
+            "valueDate": "2019-09-09",
+            "type": "DEBIT"
+        },
+        {
+            "month": "September",
+            "mode": "VPS",
+            "brand": "Eat Fit",
+            "amount": "420",
+            "valueDate": "2019-09-12",
+            "type": "DEBIT"
+        },
+        {
+            "month": "September",
+            "mode": "IPS",
+            "brand": "Clear Trip",
+            "amount": "14394",
+            "valueDate": "2019-09-12",
+            "type": "DEBIT"
+        },
+        {
+            "month": "September",
+            "mode": "UPI",
+            "brand": "BBlunt",
+            "amount": "150",
+            "valueDate": "2019-09-15",
+            "type": "DEBIT"
+        },
+        {
+            "month": "September",
+            "mode": "VIN",
+            "brand": "Bluo",
+            "amount": "1400",
+            "valueDate": "2019-09-17",
+            "type": "DEBIT"
+        },
+        {
+            "month": "September",
+            "mode": "UPI",
+            "brand": "Chai Point",
+            "amount": "419",
+            "valueDate": "2019-09-18",
+            "type": "DEBIT"
+        },
+        {
+            "month": "September",
+            "mode": "VIN",
+            "brand": "Tatasky",
+            "amount": "350",
+            "valueDate": "2019-09-18",
+            "type": "DEBIT"
+        },
+        {
+            "month": "September",
+            "mode": "IIN",
+            "brand": "Netflix",
+            "amount": "799",
+            "valueDate": "2019-09-22",
+            "type": "DEBIT"
+        },
+        {
+            "month": "September",
+            "mode": "VPS",
+            "brand": "PVR",
+            "amount": "399",
+            "valueDate": "2019-09-24",
+            "type": "DEBIT"
+        },
+        {
+            "month": "September",
+            "mode": "UPI",
+            "brand": "Uber",
+            "amount": "129",
+            "valueDate": "2019-09-24",
+            "type": "DEBIT"
+        },
+        {
+            "month": "September",
+            "mode": "ACH",
+            "brand": "IndiaFirst Life Insurance",
+            "amount": "5201",
+            "valueDate": "2019-09-28",
+            "type": "DEBIT"
+        },
+        {
+            "month": "September",
+            "mode": "UPI",
+            "brand": "Kwality Bazaar",
+            "amount": "702",
+            "valueDate": "2019-09-28",
+            "type": "DEBIT"
+        },
+        {
+            "month": "September",
+            "mode": "MMT",
+            "brand": "Axis Privilege CC PMT",
+            "amount": "25005",
+            "valueDate": "2019-09-30",
+            "type": "DEBIT"
+        },
+        {
+            "month": "September",
+            "mode": "UPI",
+            "brand": "Amazon",
+            "amount": "205",
+            "valueDate": "2019-09-30",
+            "type": "DEBIT"
+        },
+        {
+            "month": "September",
+            "mode": "MMT",
+            "brand": "SBI Elite CC PMT",
+            "amount": "15542",
+            "valueDate": "2019-09-30",
+            "type": "DEBIT"
+        },
+        {
+            "month": "September",
+            "mode": "ATM",
+            "brand": "Cash Withdrawal",
+            "amount": "10000",
+            "valueDate": "2019-09-30",
+            "type": "DEBIT"
+        },
+        {
+            "month": "October",
+            "mode": "OTHER",
+            "brand": "SAL FINTECH PRODUCTS and SOLUTIONS",
+            "amount": "150000",
+            "valueDate": "2019-10-01",
+            "type": "CREDIT"
+        },
+        {
+            "month": "October",
+            "mode": "ACH",
+            "brand": "Max Life Insurance",
+            "amount": "3567",
+            "valueDate": "2019-10-01",
+            "type": "DEBIT"
+        },
+        {
+            "month": "October",
+            "mode": "MMT",
+            "brand": "PNB Personal Loan",
+            "amount": "11345",
+            "valueDate": "2019-10-01",
+            "type": "DEBIT"
+        },
+        {
+            "month": "October",
+            "mode": "BIL",
+            "brand": "Motilal Oswal",
+            "amount": "5000",
+            "valueDate": "2019-10-01",
+            "type": "DEBIT"
+        },
+        {
+            "month": "October",
+            "mode": "BIL",
+            "brand": "Principal Mutual Fund",
+            "amount": "9000",
+            "valueDate": "2019-10-01",
+            "type": "DEBIT"
+        },
+        {
+            "month": "October",
+            "mode" : "UPI",
+            "brand": "KFC",
+            "amount": "560",
+            "valueDate": "2019-10-02",
+            "type": "DEBIT"
+        },
+        {
+            "month": "October",
+            "mode" : "IPS",
+            "brand": "PVR",
+            "amount": "560",
+            "valueDate": "2019-10-03",
+            "type": "DEBIT"
+        },
+        {
+            "month": "October",
+            "mode": "MMT",
+            "brand": "IDBI Home Loan",
+            "amount": "14583",
+            "valueDate": "2019-10-03",
+            "type": "DEBIT"
+        },
+        {
+            "month": "October",
+            "mode": "MMT",
+            "brand": "Rent",
+            "amount": "12000",
+            "valueDate": "2019-10-04",
+            "type": "DEBIT"
+        },
+        {
+            "month": "October",
+            "mode": "VIN",
+            "brand": "Veromoda",
+            "amount": "3500",
+            "valueDate": "2019-10-04",
+            "type": "DEBIT"
+        },
+        {
+            "month": "October",
+            "mode": "VIN",
+            "brand": "Adidas",
+            "amount": "7500",
+            "valueDate": "2019-10-04",
+            "type": "DEBIT"
+        },
+        {
+            "month": "October",
+            "mode": "UPI",
+            "brand": "Uber",
+            "amount": "280",
+            "valueDate": "2019-10-04",
+            "type": "DEBIT"
+        },
+        {
+            "month": "October",
+            "mode": "UPI",
+            "brand": "BESCOM",
+            "amount": "1140",
+            "valueDate": "2019-10-05",
+            "type": "DEBIT"
+        },
+        {
+            "month": "October",
+            "mode": "VIN",
+            "brand": "Indian Oil",
+            "amount": "2000",
+            "valueDate": "2019-10-07",
+            "type": "DEBIT"
+        },
+        {
+            "month": "October",
+            "mode": "UPI",
+            "brand": "Kwality Bazaar",
+            "amount": "1200",
+            "valueDate": "2019-10-08",
+            "type": "DEBIT"
+        },
+        {
+            "month": "October",
+            "mode": "UPI",
+            "brand": "Ion Broadband",
+            "amount": "1299",
+            "valueDate": "2019-10-10",
+            "type": "DEBIT"
+        },
+        {
+            "month": "October",
+            "mode": "UPI",
+            "brand": "Amul",
+            "amount": "130",
+            "valueDate": "2019-10-12",
+            "type": "DEBIT"
+        },
+        {
+            "month": "October",
+            "mode": "IPS",
+            "brand": "Beijing Bites",
+            "amount": "1510",
+            "valueDate": "2019-10-12",
+            "type": "DEBIT"
+        },
+        {
+            "month": "October",
+            "mode": "UPI",
+            "brand": "Sugar",
+            "amount": "1240",
+            "valueDate": "2019-10-12",
+            "type": "DEBIT"
+        },
+        {
+            "month": "October",
+            "mode": "VIN",
+            "brand": "No Limmits",
+            "amount": "6599",
+            "valueDate": "2019-10-13",
+            "type": "DEBIT"
+        },
+        {
+            "month": "October",
+            "mode": "UPI",
+            "brand": "Uber",
+            "amount": "830",
+            "valueDate": "2019-10-13",
+            "type": "DEBIT"
+        },
+        {
+            "month": "October",
+            "mode": "UPI",
+            "brand": "Amul",
+            "amount": "180",
+            "valueDate": "2019-10-14",
+            "type": "DEBIT"
+        },
+        {
+            "month": "October",
+            "mode": "UPI",
+            "brand": "Amul",
+            "amount": "100",
+            "valueDate": "2019-10-14",
+            "type": "DEBIT"
+        },
+        {
+            "month": "October",
+            "mode": "VIN",
+            "brand": "Tatasky",
+            "amount": "350",
+            "valueDate": "2019-10-18",
+            "type": "DEBIT"
+        },
+        {
+            "month": "October",
+            "mode": "IIN",
+            "brand": "Netflix",
+            "amount": "799",
+            "valueDate": "2019-10-22",
+            "type": "DEBIT"
+        },
+        {
+            "month": "October",
+            "mode": "VPS",
+            "brand": "PVR",
+            "amount": "299",
+            "valueDate": "2019-10-24",
+            "type": "DEBIT"
+        },
+        {
+            "month": "October",
+            "mode": "UPI",
+            "brand": "Swiggy",
+            "amount": "270",
+            "valueDate": "2019-10-25",
+            "type": "DEBIT"
+        },
+        {
+            "month": "October",
+            "mode": "VIN",
+            "brand": "Indian Oil",
+            "amount": "2700",
+            "valueDate": "2019-10-26",
+            "type": "DEBIT"
+        },
+        {
+            "month": "October",
+            "mode": "BIL",
+            "brand": "233488841023",
+            "amount": "2021",
+            "valueDate": "2019-10-26",
+            "type": "CREDIT"
+        },
+        {
+            "month": "October",
+            "mode": "ACH",
+            "brand": "IndiaFirst Life Insurance",
+            "amount": "5201",
+            "valueDate": "2019-10-28",
+            "type": "DEBIT"
+        },
+        {
+            "month": "October",
+            "mode": "UPI",
+            "brand": "Decathlon",
+            "amount": "2001",
+            "valueDate": "2019-10-28",
+            "type": "DEBIT"
+        },
+        {
+            "month": "October",
+            "mode": "IPS",
+            "brand": "Dentist Clinic",
+            "amount": "1900",
+            "valueDate": "2019-10-28",
+            "type": "DEBIT"
+        },
+        {
+            "month": "October",
+            "mode": "MMT",
+            "brand": "Axis Privilege CC PMT",
+            "amount": "25005",
+            "valueDate": "2019-10-31",
+            "type": "DEBIT"
+        },
+        {
+            "month": "October",
+            "mode": "MMT",
+            "brand": "SBI Elite CC PMT",
+            "amount": "15542",
+            "valueDate": "2019-10-31",
+            "type": "DEBIT"
+        },
+        {
+            "month": "November",
+            "mode": "OTHER",
+            "brand": "SAL FINTECH PRODUCTS and SOLUTIONS",
+            "amount": "150000",
+            "valueDate": "2019-11-01",
+            "type": "CREDIT"
+        },
+        {
+            "month": "November",
+            "mode": "ACH",
+            "brand": "Max Life Insurance",
+            "amount": "3567",
+            "valueDate": "2019-11-01",
+            "type": "DEBIT"
+        },
+        {
+            "month": "November",
+            "mode": "MMT",
+            "brand": "PNB Personal Loan",
+            "amount": "11345",
+            "valueDate": "2019-11-01",
+            "type": "DEBIT"
+        },
+        {
+            "month": "November",
+            "mode": "BIL",
+            "brand": "Motilal Oswal",
+            "amount": "5000",
+            "valueDate": "2019-11-01",
+            "type": "DEBIT"
+        },
+        {
+            "month": "November",
+            "mode": "BIL",
+            "brand": "Principal Mutual Fund",
+            "amount": "9000",
+            "valueDate": "2019-11-01",
+            "type": "DEBIT"
+        },
+        {
+            "month": "November",
+            "mode" : "UPI",
+            "brand": "Amul",
+            "amount": "70",
+            "valueDate": "2019-11-02",
+            "type": "DEBIT"
+        },
+        {
+            "month": "November",
+            "mode" : "IPS",
+            "brand": "Spencers",
+            "amount": "2730",
+            "valueDate": "2019-11-03",
+            "type": "DEBIT"
+        },
+        {
+            "month": "November",
+            "mode": "MMT",
+            "brand": "IDBI Home Loan",
+            "amount": "14583",
+            "valueDate": "2019-11-03",
+            "type": "DEBIT"
+        },
+        {
+            "month": "November",
+            "mode": "MMT",
+            "brand": "Rent",
+            "amount": "12000",
+            "valueDate": "2019-11-04",
+            "type": "DEBIT"
+        },
+        {
+            "month": "November",
+            "mode": "VIN",
+            "brand": "KFC",
+            "amount": "890",
+            "valueDate": "2019-11-04",
+            "type": "DEBIT"
+        },
+        {
+            "month": "November",
+            "mode": "VIN",
+            "brand": "BBlunt",
+            "amount": "799",
+            "valueDate": "2019-11-04",
+            "type": "DEBIT"
+        },
+        {
+            "month": "November",
+            "mode": "UPI",
+            "brand": "Indian Oil",
+            "amount": "2999",
+            "valueDate": "2019-11-05",
+            "type": "DEBIT"
+        },
+        {
+            "month": "November",
+            "mode": "UPI",
+            "brand": "BESCOM",
+            "amount": "1654",
+            "valueDate": "2019-11-05",
+            "type": "DEBIT"
+        },
+        {
+            "month": "November",
+            "mode": "VIN",
+            "brand": "Indian Oil",
+            "amount": "1500",
+            "valueDate": "2019-11-07",
+            "type": "DEBIT"
+        },
+        {
+            "month": "November",
+            "mode": "UPI",
+            "brand": "Kwality Bazaar",
+            "amount": "240",
+            "valueDate": "2019-11-08",
+            "type": "DEBIT"
+        },
+        {
+            "month": "November",
+            "mode": "UPI",
+            "brand": "Ion Broadband",
+            "amount": "1299",
+            "valueDate": "2019-11-11",
+            "type": "DEBIT"
+        },
+        {
+            "month": "November",
+            "mode": "UPI",
+            "brand": "Jio",
+            "amount": "399",
+            "valueDate": "2019-11-10",
+            "type": "DEBIT"
+        },
+        {
+            "month": "November",
+            "mode": "UPI",
+            "brand": "Uber",
+            "amount": "333",
+            "valueDate": "2019-11-12",
+            "type": "DEBIT"
+        },
+        {
+            "month": "November",
+            "mode": "IPS",
+            "brand": "Gilly's",
+            "amount": "2508",
+            "valueDate": "2019-11-12",
+            "type": "DEBIT"
+        },
+        {
+            "month": "November",
+            "mode": "UPI",
+            "brand": "Uber",
+            "amount": "339",
+            "valueDate": "2019-11-12",
+            "type": "DEBIT"
+        },
+        {
+            "month": "November",
+            "mode": "UPI",
+            "brand": "1mg",
+            "amount": "130",
+            "valueDate": "2019-11-15",
+            "type": "DEBIT"
+        },
+        {
+            "month": "November",
+            "mode": "BIL",
+            "brand": "94320092",
+            "amount": "3019",
+            "valueDate": "2019-11-15",
+            "type": "CREDIT"
+        },
+        {
+            "month": "November",
+            "mode": "UPI",
+            "brand": "Ori Flame",
+            "amount": "2019",
+            "valueDate": "2019-11-18",
+            "type": "DEBIT"
+        },
+        {
+            "month": "November",
+            "mode": "VIN",
+            "brand": "Tatasky",
+            "amount": "350",
+            "valueDate": "2019-11-18",
+            "type": "DEBIT"
+        },
+        {
+            "month": "November",
+            "mode": "IIN",
+            "brand": "Netflix",
+            "amount": "799",
+            "valueDate": "2019-11-22",
+            "type": "DEBIT"
+        },
+        {
+            "month": "November",
+            "mode": "VPS",
+            "brand": "PVR",
+            "amount": "540",
+            "valueDate": "2019-11-24",
+            "type": "DEBIT"
+        },
+        {
+            "month": "November",
+            "mode": "UPI",
+            "brand": "Amul",
+            "amount": "150",
+            "valueDate": "2019-11-25",
+            "type": "DEBIT"
+        },
+        {
+            "month": "November",
+            "mode": "VIN",
+            "brand": "Tonique",
+            "amount": "3500",
+            "valueDate": "2019-11-26",
+            "type": "DEBIT"
+        },
+        {
+            "month": "November",
+            "mode": "VIN",
+            "brand": "Spencer",
+            "amount": "2034",
+            "valueDate": "2019-11-26",
+            "type": "DEBIT"
+        },
+        {
+            "month": "November",
+            "mode": "ACH",
+            "brand": "IndiaFirst Life Insurance",
+            "amount": "5201",
+            "valueDate": "2019-11-28",
+            "type": "DEBIT"
+        },
+        {
+            "month": "November",
+            "mode": "UPI",
+            "brand": "Dentist Clinic",
+            "amount": "1900",
+            "valueDate": "2019-11-28",
+            "type": "DEBIT"
+        },
+        {
+            "month": "November",
+            "mode": "MMT",
+            "brand": "Axis Privilege CC PMT",
+            "amount": "25005",
+            "valueDate": "2019-11-30",
+            "type": "DEBIT"
+        },
+        {
+            "month": "November",
+            "mode": "MMT",
+            "brand": "SBI Elite CC PMT",
+            "amount": "15542",
+            "valueDate": "2019-11-30",
+            "type": "DEBIT"
+        },
+        {
+            "month": "December",
+            "mode": "OTHER",
+            "brand": "SAL FINTECH PRODUCTS and SOLUTIONS",
+            "amount": "150000",
+            "valueDate": "2019-12-01",
+            "type": "CREDIT"
+        },
+        {
+            "month": "December",
+            "mode": "ACH",
+            "brand": "Max Life Insurance",
+            "amount": "3567",
+            "valueDate": "2019-12-01",
+            "type": "DEBIT"
+        },
+        {
+            "month": "December",
+            "mode": "MMT",
+            "brand": "PNB Personal Loan",
+            "amount": "11345",
+            "valueDate": "2019-12-01",
+            "type": "DEBIT"
+        },
+        {
+            "month": "December",
+            "mode": "BIL",
+            "brand": "Motilal Oswal",
+            "amount": "5000",
+            "valueDate": "2019-12-01",
+            "type": "DEBIT"
+        },
+        {
+            "month": "December",
+            "mode": "BIL",
+            "brand": "Principal Mutual Fund",
+            "amount": "9000",
+            "valueDate": "2019-12-01",
+            "type": "DEBIT"
+        },
+        {
+            "month": "December",
+            "mode" : "UPI",
+            "brand": "Amul",
+            "amount": "80",
+            "valueDate": "2019-12-02",
+            "type": "DEBIT"
+        },
+        {
+            "month": "December",
+            "mode" : "IPS",
+            "brand": "Spencers",
+            "amount": "1409",
+            "valueDate": "2019-12-03",
+            "type": "DEBIT"
+        },
+        {
+            "month": "December",
+            "mode": "MMT",
+            "brand": "IDBI Home Loan",
+            "amount": "14583",
+            "valueDate": "2019-12-03",
+            "type": "DEBIT"
+        },
+        {
+            "month": "December",
+            "mode": "MMT",
+            "brand": "Rent",
+            "amount": "12000",
+            "valueDate": "2019-12-04",
+            "type": "DEBIT"
+        },
+        {
+            "month": "December",
+            "mode": "VIN",
+            "brand": "Burger King",
+            "amount": "242",
+            "valueDate": "2019-12-04",
+            "type": "DEBIT"
+        },
+        {
+            "month": "December",
+            "mode": "UPI",
+            "brand": "Cafe Cofffee Day",
+            "amount": "597",
+            "valueDate": "2019-12-04",
+            "type": "DEBIT"
+        },
+        {
+            "month": "December",
+            "mode": "UPI",
+            "brand": "Kwality Bazaar",
+            "amount": "540",
+            "valueDate": "2019-12-05",
+            "type": "DEBIT"
+        },
+        {
+            "month": "December",
+            "mode": "UPI",
+            "brand": "BESCOM",
+            "amount": "1220",
+            "valueDate": "2019-12-05",
+            "type": "DEBIT"
+        },
+        {
+            "month": "December",
+            "mode": "VIN",
+            "brand": "Indian Oil",
+            "amount": "1430",
+            "valueDate": "2019-12-07",
+            "type": "DEBIT"
+        },
+        {
+            "month": "December",
+            "mode": "UPI",
+            "brand": "Kwality Bazaar",
+            "amount": "200",
+            "valueDate": "2019-12-08",
+            "type": "DEBIT"
+        },
+        {
+            "month": "December",
+            "mode": "BIL",
+            "brand": "8884492110",
+            "amount": "4299",
+            "valueDate": "2019-12-15",
+            "type": "CREDIT"
+        },
+        {
+            "month": "December",
+            "mode": "UPI",
+            "brand": "Ion Broadband",
+            "amount": "1299",
+            "valueDate": "2019-12-09",
+            "type": "DEBIT"
+        },
+        {
+            "month": "December",
+            "mode": "ATM",
+            "brand": "Cash Withdrawal",
+            "amount": "2500",
+            "valueDate": "2019-12-10",
+            "type": "DEBIT"
+        },
+        {
+            "month": "December",
+            "mode": "VPS",
+            "brand": "PVR",
+            "amount": "430",
+            "valueDate": "2019-12-11",
+            "type": "DEBIT"
+        },
+        {
+            "month": "December",
+            "mode": "IIN",
+            "brand": "Smoke House",
+            "amount": "743",
+            "valueDate": "2019-12-12",
+            "type": "DEBIT"
+        },
+        {
+            "month": "December",
+            "mode": "IPS",
+            "brand": "Vedant Saxena",
+            "amount": "500",
+            "valueDate": "2019-12-12",
+            "type": "DEBIT"
+        },
+        {
+            "month": "December",
+            "mode": "UPI",
+            "brand": "Amul",
+            "amount": "280",
+            "valueDate": "2019-12-15",
+            "type": "DEBIT"
+        },
+        {
+            "month": "December",
+            "mode": "UPI",
+            "brand": "Hairspeak",
+            "amount": "399",
+            "valueDate": "2019-12-18",
+            "type": "DEBIT"
+        },
+        {
+            "month": "December",
+            "mode": "VIN",
+            "brand": "Tatasky",
+            "amount": "350",
+            "valueDate": "2019-12-18",
+            "type": "DEBIT"
+        },
+        {
+            "month": "December",
+            "mode": "IIN",
+            "brand": "Netflix",
+            "amount": "799",
+            "valueDate": "2019-12-22",
+            "type": "DEBIT"
+        },
+        {
+            "month": "December",
+            "mode": "VPS",
+            "brand": "PVR",
+            "amount": "299",
+            "valueDate": "2019-12-24",
+            "type": "DEBIT"
+        },
+        {
+            "month": "December",
+            "mode": "UPI",
+            "brand": "Zomato",
+            "amount": "340",
+            "valueDate": "2019-12-25",
+            "type": "DEBIT"
+        },
+        {
+            "month": "December",
+            "mode": "VPS",
+            "brand": "H&M",
+            "amount": "4999",
+            "valueDate": "2019-12-28",
+            "type": "DEBIT"
+        },
+        {
+            "month": "December",
+            "mode": "ACH",
+            "brand": "IndiaFirst Life Insurance",
+            "amount": "5201",
+            "valueDate": "2019-12-28",
+            "type": "DEBIT"
+        },
+        {
+            "month": "December",
+            "mode": "UPI",
+            "brand": "Dentist Clinic",
+            "amount": "1900",
+            "valueDate": "2019-12-28",
+            "type": "DEBIT"
+        },
+        {
+            "month": "December",
+            "mode": "MMT",
+            "brand": "Axis Privilege CC PMT",
+            "amount": "25005",
+            "valueDate": "2019-12-31",
+            "type": "DEBIT"
+        },
+        {
+            "month": "December",
+            "mode": "MMT",
+            "brand": "SBI Elite CC PMT",
+            "amount": "15542",
+            "valueDate": "2019-12-31",
+            "type": "DEBIT"
+        },
+        {
+            "month": "January",
+            "mode": "OTHER",
+            "brand": "SAL FINTECH PRODUCTS and SOLUTIONS",
+            "amount": "150000",
+            "valueDate": "2020-01-01",
+            "type": "CREDIT"
+        },
+        {
+            "month": "January",
+            "mode": "ACH",
+            "brand": "Max Life Insurance",
+            "amount": "3567",
+            "valueDate": "2020-01-01",
+            "type": "DEBIT"
+        },
+        {
+            "month": "January",
+            "mode": "MMT",
+            "brand": "PNB Personal Loan",
+            "amount": "11345",
+            "valueDate": "2020-01-01",
+            "type": "DEBIT"
+        },
+        {
+            "month": "January",
+            "mode": "BIL",
+            "brand": "Motilal Oswal",
+            "amount": "5000",
+            "valueDate": "2020-01-01",
+            "type": "DEBIT"
+        },
+        {
+            "month": "January",
+            "mode": "BIL",
+            "brand": "Principal Mutual Fund",
+            "amount": "9000",
+            "valueDate": "2020-01-01",
+            "type": "DEBIT"
+        },
+        {
+            "month": "January",
+            "mode" : "UPI",
+            "brand": "KFC",
+            "amount": "1209",
+            "valueDate": "2020-01-02",
+            "type": "DEBIT"
+        },
+        {
+            "month": "January",
+            "mode" : "IPS",
+            "brand": "Spencers",
+            "amount": "1939",
+            "valueDate": "2020-01-03",
+            "type": "DEBIT"
+        },
+        {
+            "month": "January",
+            "mode": "MMT",
+            "brand": "IDBI Home Loan",
+            "amount": "14583",
+            "valueDate": "2020-01-03",
+            "type": "DEBIT"
+        },
+        {
+            "month": "January",
+            "mode": "BIL",
+            "brand": "88844432292110",
+            "amount": "607",
+            "valueDate": "2020-01-04",
+            "type": "CREDIT"
+        },
+        {
+            "month": "January",
+            "mode": "MMT",
+            "brand": "Rent",
+            "amount": "12000",
+            "valueDate": "2020-01-04",
+            "type": "DEBIT"
+        },
+        {
+            "month": "January",
+            "mode": "VIN",
+            "brand": "H&M",
+            "amount": "3999",
+            "valueDate": "2020-01-04",
+            "type": "DEBIT"
+        },
+        {
+            "month": "January",
+            "mode": "VIN",
+            "brand": "Catwalk",
+            "amount": "1999",
+            "valueDate": "2020-01-04",
+            "type": "DEBIT"
+        },
+        {
+            "month": "January",
+            "mode": "UPI",
+            "brand": "Uber",
+            "amount": "880",
+            "valueDate": "2020-01-05",
+            "type": "DEBIT"
+        },
+        {
+            "month": "January",
+            "mode": "UPI",
+            "brand": "Gilly's",
+            "amount": "8902",
+            "valueDate": "2020-01-05",
+            "type": "DEBIT"
+        },
+        {
+            "month": "January",
+            "mode": "UPI",
+            "brand": "Uber",
+            "amount": "640",
+            "valueDate": "2020-01-05",
+            "type": "DEBIT"
+        },
+        {
+            "month": "January",
+            "mode": "UPI",
+            "brand": "BESCOM",
+            "amount": "1380",
+            "valueDate": "2020-01-05",
+            "type": "DEBIT"
+        },
+        {
+            "month": "January",
+            "mode": "VIN",
+            "brand": "Clear Trip",
+            "amount": "20208",
+            "valueDate": "2020-01-07",
+            "type": "DEBIT"
+        },
+        {
+            "month": "January",
+            "mode": "VIN",
+            "brand": "American Tourister",
+            "amount": "4999",
+            "valueDate": "2020-01-08",
+            "type": "DEBIT"
+        },
+        {
+            "month": "January",
+            "mode": "UPI",
+            "brand": "Ion Broadband",
+            "amount": "1299",
+            "valueDate": "2020-01-09",
+            "type": "DEBIT"
+        },
+        {
+            "month": "January",
+            "mode": "VPS",
+            "brand": "Veromoda",
+            "amount": "3994",
+            "valueDate": "2020-01-12",
+            "type": "DEBIT"
+        },
+        {
+            "month": "January",
+            "mode": "UPI",
+            "brand": "KFC",
+            "amount": "1410",
+            "valueDate": "2020-01-12",
+            "type": "DEBIT"
+        },
+        {
+            "month": "January",
+            "mode": "UPI",
+            "brand": "Stoned Monkey",
+            "amount": "480",
+            "valueDate": "2020-01-15",
+            "type": "DEBIT"
+        },
+        {
+            "month": "January",
+            "mode": "UPI",
+            "brand": "Zomato",
+            "amount": "750",
+            "valueDate": "2020-01-18",
+            "type": "DEBIT"
+        },
+        {
+            "month": "January",
+            "mode": "VIN",
+            "brand": "Tatasky",
+            "amount": "350",
+            "valueDate": "2020-01-18",
+            "type": "DEBIT"
+        },
+        {
+            "month": "January",
+            "mode": "IIN",
+            "brand": "Netflix",
+            "amount": "799",
+            "valueDate": "2020-01-22",
+            "type": "DEBIT"
+        },
+        {
+            "month": "January",
+            "mode": "VPS",
+            "brand": "PVR",
+            "amount": "189",
+            "valueDate": "2020-01-23",
+            "type": "DEBIT"
+        },
+        {
+            "month": "January",
+            "mode": "BIL",
+            "brand": "00333954322234955",
+            "amount": "2001",
+            "valueDate": "2020-01-24",
+            "type": "CREDIT"
+        },
+        {
+            "month": "January",
+            "mode": "UPI",
+            "brand": "Amazon",
+            "amount": "1440",
+            "valueDate": "2020-01-25",
+            "type": "DEBIT"
+        },
+        {
+            "month": "January",
+            "mode": "ACH",
+            "brand": "IndiaFirst Life Insurance",
+            "amount": "5201",
+            "valueDate": "2020-01-28",
+            "type": "DEBIT"
+        },
+        {
+            "month": "January",
+            "mode": "UPI",
+            "brand": "Dentist Clinic",
+            "amount": "1900",
+            "valueDate": "2020-01-28",
+            "type": "DEBIT"
+        },
+        {
+            "month": "January",
+            "mode": "UPI",
+            "brand": "Kwality Bazaar",
+            "amount": "399",
+            "valueDate": "2020-01-28",
+            "type": "DEBIT"
+        },
+        {
+            "month": "January",
+            "mode": "MMT",
+            "brand": "Axis Privilege CC PMT",
+            "amount": "25005",
+            "valueDate": "2020-01-31",
+            "type": "DEBIT"
+        },
+        {
+            "month": "January",
+            "mode": "MMT",
+            "brand": "SBI Elite CC PMT",
+            "amount": "15542",
+            "valueDate": "2020-01-31",
+            "type": "DEBIT"
+        },
+        {
+            "month": "February",
+            "mode": "OTHER",
+            "brand": "SAL FINTECH PRODUCTS and SOLUTIONS",
+            "amount": "150000",
+            "valueDate": "2020-02-01",
+            "type": "CREDIT"
+        },
+        {
+            "month": "February",
+            "mode": "ACH",
+            "brand": "Max Life Insurance",
+            "amount": "3567",
+            "valueDate": "2020-02-01",
+            "type": "DEBIT"
+        },
+        {
+            "month": "February",
+            "mode": "MMT",
+            "brand": "PNB Personal Loan",
+            "amount": "11345",
+            "valueDate": "2020-02-01",
+            "type": "DEBIT"
+        },
+        {
+            "month": "February",
+            "mode": "BIL",
+            "brand": "Motilal Oswal",
+            "amount": "5000",
+            "valueDate": "2020-02-01",
+            "type": "DEBIT"
+        },
+        {
+            "month": "February",
+            "mode": "BIL",
+            "brand": "Principal Mutual Fund",
+            "amount": "9000",
+            "valueDate": "2020-02-01",
+            "type": "DEBIT"
+        },
+        {
+            "month": "February",
+            "mode" : "UPI",
+            "brand": "Cafe Cofee Day",
+            "amount": "670",
+            "valueDate": "2020-02-02",
+            "type": "DEBIT"
+        },
+        {
+            "month": "February",
+            "mode" : "IPS",
+            "brand": "Spencers",
+            "amount": "3100",
+            "valueDate": "2020-02-03",
+            "type": "DEBIT"
+        },
+        {
+            "month": "February",
+            "mode": "MMT",
+            "brand": "IDBI Home Loan",
+            "amount": "14583",
+            "valueDate": "2020-02-03",
+            "type": "DEBIT"
+        },
+        {
+            "month": "February",
+            "mode": "MMT",
+            "brand": "Rent",
+            "amount": "12000",
+            "valueDate": "2020-02-04",
+            "type": "DEBIT"
+        },
+        {
+            "month": "February",
+            "mode": "VIN",
+            "brand": "KFC",
+            "amount": "550",
+            "valueDate": "2020-02-04",
+            "type": "DEBIT"
+        },
+        {
+            "month": "February",
+            "mode": "UPI",
+            "brand": "BESCOM",
+            "amount": "1380",
+            "valueDate": "2020-02-05",
+            "type": "DEBIT"
+        },
+        {
+            "month": "February",
+            "mode": "VIN",
+            "brand": "Indian Oil",
+            "amount": "2500",
+            "valueDate": "2020-02-07",
+            "type": "DEBIT"
+        },
+        {
+            "month": "February",
+            "mode": "UPI",
+            "brand": "Kwality Bazaar",
+            "amount": "1200",
+            "valueDate": "2020-02-08",
+            "type": "DEBIT"
+        },
+        {
+            "month": "February",
+            "mode": "UPI",
+            "brand": "Ion Broadband",
+            "amount": "1299",
+            "valueDate": "2020-02-09",
+            "type": "DEBIT"
+        },
+        {
+            "month": "February",
+            "mode": "UPI",
+            "brand": "Jio",
+            "amount": "399",
+            "valueDate": "2020-02-10",
+            "type": "DEBIT"
+        },
+        {
+            "month": "February",
+            "mode": "UPI",
+            "brand": "Gilly's",
+            "amount": "1800",
+            "valueDate": "2020-02-12",
+            "type": "DEBIT"
+        },
+        {
+            "month": "February",
+            "mode": "UPI",
+            "brand": "Amul",
+            "amount": "180",
+            "valueDate": "2020-02-15",
+            "type": "DEBIT"
+        },
+        {
+            "month": "February",
+            "mode": "UPI",
+            "brand": "1mg",
+            "amount": "160",
+            "valueDate": "2020-02-18",
+            "type": "DEBIT"
+        },
+        {
+            "month": "February",
+            "mode": "VIN",
+            "brand": "Tatasky",
+            "amount": "350",
+            "valueDate": "2020-02-18",
+            "type": "DEBIT"
+        },
+        {
+            "month": "February",
+            "mode": "IIN",
+            "brand": "Netflix",
+            "amount": "799",
+            "valueDate": "2020-02-22",
+            "type": "DEBIT"
+        },
+        {
+            "month": "February",
+            "mode": "UPI",
+            "brand": "Amul",
+            "amount": "50",
+            "valueDate": "2020-02-25",
+            "type": "DEBIT"
+        },
+        {
+            "month": "February",
+            "mode": "UPI",
+            "brand": "Uber",
+            "amount": "310",
+            "valueDate": "2020-02-28",
+            "type": "DEBIT"
+        },
+        {
+            "month": "February",
+            "mode": "ACH",
+            "brand": "IndiaFirst Life Insurance",
+            "amount": "5201",
+            "valueDate": "2020-02-28",
+            "type": "DEBIT"
+        },
+        {
+            "month": "February",
+            "mode": "UPI",
+            "brand": "Dentist Clinic",
+            "amount": "1900",
+            "valueDate": "2020-02-28",
+            "type": "DEBIT"
+        },
+        {
+            "month": "February",
+            "mode": "UPI",
+            "brand": "Uber",
+            "amount": "330",
+            "valueDate": "2020-02-28",
+            "type": "DEBIT"
+        },
+        {
+            "month": "February",
+            "mode": "UPI",
+            "brand": "Kwality Bazaar",
+            "amount": "99",
+            "valueDate": "2020-02-28",
+            "type": "DEBIT"
+        },
+        {
+            "month": "February",
+            "mode": "MMT",
+            "brand": "Axis Privilege CC PMT",
+            "amount": "25005",
+            "valueDate": "2020-02-28",
+            "type": "DEBIT"
+        },
+        {
+            "month": "February",
+            "mode": "MMT",
+            "brand": "SBI Elite CC PMT",
+            "amount": "15542",
+            "valueDate": "2020-02-28",
+            "type": "DEBIT"
+        },
+        {
+            "month": "March",
+            "mode": "OTHER",
+            "brand": "SAL FINTECH PRODUCTS and SOLUTIONS",
+            "amount": "150000",
+            "valueDate": "2020-03-01",
+            "type": "CREDIT"
+        },
+        {
+            "month": "March",
+            "mode": "ACH",
+            "brand": "Max Life Insurance",
+            "amount": "3567",
+            "valueDate": "2020-03-01",
+            "type": "DEBIT"
+        },
+        {
+            "month": "March",
+            "mode": "MMT",
+            "brand": "PNB Personal Loan",
+            "amount": "11345",
+            "valueDate": "2020-03-01",
+            "type": "DEBIT"
+        },
+        {
+            "month": "March",
+            "mode": "BIL",
+            "brand": "Motilal Oswal",
+            "amount": "5000",
+            "valueDate": "2020-03-01",
+            "type": "DEBIT"
+        },
+        {
+            "month": "March",
+            "mode": "BIL",
+            "brand": "Principal Mutual Fund",
+            "amount": "9000",
+            "valueDate": "2020-03-01",
+            "type": "DEBIT"
+        },
+        {
+            "month": "March",
+            "mode" : "UPI",
+            "brand": "Amul",
+            "amount": "240",
+            "valueDate": "2020-03-02",
+            "type": "DEBIT"
+        },
+        {
+            "month": "March",
+            "mode" : "IPS",
+            "brand": "Big Basket",
+            "amount": "1536",
+            "valueDate": "2020-03-03",
+            "type": "DEBIT"
+        },
+        {
+            "month": "March",
+            "mode": "MMT",
+            "brand": "IDBI Home Loan",
+            "amount": "14583",
+            "valueDate": "2020-03-03",
+            "type": "DEBIT"
+        },
+        {
+            "month": "March",
+            "mode": "MMT",
+            "brand": "Rent",
+            "amount": "12000",
+            "valueDate": "2020-03-04",
+            "type": "DEBIT"
+        },
+        {
+            "month": "March",
+            "mode": "UPI",
+            "brand": "Leon Grill",
+            "amount": "242",
+            "valueDate": "2020-03-04",
+            "type": "DEBIT"
+        },
+        {
+            "month": "March",
+            "mode": "UPI",
+            "brand": "BESCOM",
+            "amount": "1561",
+            "valueDate": "2020-03-05",
+            "type": "DEBIT"
+        },
+        {
+            "month": "March",
+            "mode": "VIN",
+            "brand": "Indian Oil",
+            "amount": "1500",
+            "valueDate": "2020-03-07",
+            "type": "DEBIT"
+        },
+        {
+            "month": "March",
+            "mode": "UPI",
+            "brand": "Sri Ganesh Medical",
+            "amount": "220",
+            "valueDate": "2020-03-08",
+            "type": "DEBIT"
+        },
+        {
+            "month": "March",
+            "mode": "UPI",
+            "brand": "Ion Broadband",
+            "amount": "1299",
+            "valueDate": "2020-03-09",
+            "type": "DEBIT"
+        },
+        {
+            "month": "March",
+            "mode": "BIL",
+            "brand": "23435678032",
+            "amount": "3006",
+            "valueDate": "2020-03-11",
+            "type": "CREDIT"
+        },
+        {
+            "month": "March",
+            "mode": "VPS",
+            "brand": "Amazon",
+            "amount": "13999",
+            "valueDate": "2020-03-12",
+            "type": "DEBIT"
+        },
+        {
+            "month": "March",
+            "mode": "IIN",
+            "brand": "A2B",
+            "amount": "310",
+            "valueDate": "2020-03-12",
+            "type": "DEBIT"
+        },
+        {
+            "month": "March",
+            "mode": "UPI",
+            "brand": "Amul",
+            "amount": "180",
+            "valueDate": "2020-03-15",
+            "type": "DEBIT"
+        },
+        {
+            "month": "March",
+            "mode": "UPI",
+            "brand": "Myntra",
+            "amount": "1400",
+            "valueDate": "2020-03-18",
+            "type": "DEBIT"
+        },
+        {
+            "month": "March",
+            "mode": "VIN",
+            "brand": "Tatasky",
+            "amount": "350",
+            "valueDate": "2020-03-18",
+            "type": "DEBIT"
+        },
+        {
+            "month": "March",
+            "mode": "VIN",
+            "brand": "BBlunt",
+            "amount": "850",
+            "valueDate": "2020-03-21",
+            "type": "DEBIT"
+        },
+        {
+            "month": "March",
+            "mode": "IIN",
+            "brand": "Netflix",
+            "amount": "799",
+            "valueDate": "2020-03-22",
+            "type": "DEBIT"
+        },
+        {
+            "month": "March",
+            "mode": "ACH",
+            "brand": "IndiaFirst Life Insurance",
+            "amount": "5201",
+            "valueDate": "2020-03-28",
+            "type": "DEBIT"
+        },
+        {
+            "month": "March",
+            "mode": "UPI",
+            "brand": "Kwality Bazaar",
+            "amount": "29",
+            "valueDate": "2020-03-28",
+            "type": "DEBIT"
+        },
+        {
+            "month": "March",
+            "mode": "MMT",
+            "brand": "Axis Privilege CC PMT",
+            "amount": "25005",
+            "valueDate": "2020-03-31",
+            "type": "DEBIT"
+        },
+        {
+            "month": "March",
+            "mode": "MMT",
+            "brand": "SBI Elite CC PMT",
+            "amount": "15542",
+            "valueDate": "2020-03-31",
+            "type": "DEBIT"
+        },
+        {
+            "month": "April",
+            "mode": "OTHER",
+            "brand": "SAL FINTECH PRODUCTS and SOLUTIONS",
+            "amount": "150000",
+            "valueDate": "2020-04-01",
+            "type": "CREDIT"
+        },
+        {
+            "month": "April",
+            "mode": "ACH",
+            "brand": "Max Life Insurance",
+            "amount": "3567",
+            "valueDate": "2020-04-01",
+            "type": "DEBIT"
+        },
+        {
+            "month": "April",
+            "mode": "MMT",
+            "brand": "PNB Personal Loan",
+            "amount": "11345",
+            "valueDate": "2020-04-01",
+            "type": "DEBIT"
+        },
+        {
+            "month": "April",
+            "mode": "BIL",
+            "brand": "Motilal Oswal",
+            "amount": "5000",
+            "valueDate": "2020-04-01",
+            "type": "DEBIT"
+        },
+        {
+            "month": "April",
+            "mode": "BIL",
+            "brand": "Principal Mutual Fund",
+            "amount": "9000",
+            "valueDate": "2020-04-01",
+            "type": "DEBIT"
+        },
+        {
+            "month": "April",
+            "mode" : "UPI",
+            "brand": "Mr Goofy's",
+            "amount": "670",
+            "valueDate": "2020-04-02",
+            "type": "DEBIT"
+        },
+        {
+            "month": "April",
+            "mode" : "IPS",
+            "brand": "Spencers",
+            "amount": "1983",
+            "valueDate": "2020-04-03",
+            "type": "DEBIT"
+        },
+        {
+            "month": "April",
+            "mode": "MMT",
+            "brand": "IDBI Home Loan",
+            "amount": "14583",
+            "valueDate": "2020-04-03",
+            "type": "DEBIT"
+        },
+        {
+            "month": "April",
+            "mode": "MMT",
+            "brand": "Rent",
+            "amount": "12000",
+            "valueDate": "2020-04-04",
+            "type": "DEBIT"
+        },
+        {
+            "month": "April",
+            "mode": "UPI",
+            "brand": "Zomato",
+            "amount": "667",
+            "valueDate": "2020-04-04",
+            "type": "DEBIT"
+        },
+        {
+            "month": "April",
+            "mode": "UPI",
+            "brand": "Uber",
+            "amount": "560",
+            "valueDate": "2020-04-05",
+            "type": "DEBIT"
+        },
+        {
+            "month": "April",
+            "mode": "UPI",
+            "brand": "BESCOM",
+            "amount": "880",
+            "valueDate": "2020-04-05",
+            "type": "DEBIT"
+        },
+        {
+            "month": "April",
+            "mode": "BIL",
+            "brand": "435456745323234353",
+            "amount": "2016",
+            "valueDate": "2020-04-05",
+            "type": "CREDIT"
+        },
+        {
+            "month": "April",
+            "mode": "VIN",
+            "brand": "Indian Oil",
+            "amount": "2000",
+            "valueDate": "2020-04-07",
+            "type": "DEBIT"
+        },
+        {
+            "month": "April",
+            "mode": "UPI",
+            "brand": "Sky Bags",
+            "amount": "1299",
+            "valueDate": "2020-04-08",
+            "type": "DEBIT"
+        },
+        {
+            "month": "April",
+            "mode": "UPI",
+            "brand": "Ion Broadband",
+            "amount": "1299",
+            "valueDate": "2020-04-09",
+            "type": "DEBIT"
+        },
+        {
+            "month": "April",
+            "mode": "VIN",
+            "brand": "Titan Eye Plus",
+            "amount": "7999",
+            "valueDate": "2020-04-12",
+            "type": "DEBIT"
+        },
+        {
+            "month": "April",
+            "mode": "IPS",
+            "brand": "Rahul Kumar",
+            "amount": "3500",
+            "valueDate": "2020-04-12",
+            "type": "DEBIT"
+        },
+        {
+            "month": "April",
+            "mode": "UPI",
+            "brand": "Amul",
+            "amount": "380",
+            "valueDate": "2020-04-15",
+            "type": "DEBIT"
+        },
+        {
+            "month": "April",
+            "mode": "VIN",
+            "brand": "Only",
+            "amount": "2100",
+            "valueDate": "2020-04-18",
+            "type": "DEBIT"
+        },
+        {
+            "month": "April",
+            "mode": "VIN",
+            "brand": "Tatasky",
+            "amount": "350",
+            "valueDate": "2020-04-18",
+            "type": "DEBIT"
+        },
+        {
+            "month": "April",
+            "mode": "IIN",
+            "brand": "Netflix",
+            "amount": "799",
+            "valueDate": "2020-04-22",
+            "type": "DEBIT"
+        },
+        {
+            "month": "April",
+            "mode": "VPS",
+            "brand": "PVR",
+            "amount": "499",
+            "valueDate": "2020-04-24",
+            "type": "DEBIT"
+        },
+        {
+            "month": "April",
+            "mode": "UPI",
+            "brand": "Landmark",
+            "amount": "1510",
+            "valueDate": "2020-04-25",
+            "type": "DEBIT"
+        },
+        {
+            "month": "April",
+            "mode": "ACH",
+            "brand": "IndiaFirst Life Insurance",
+            "amount": "5201",
+            "valueDate": "2020-04-28",
+            "type": "DEBIT"
+        },
+        {
+            "month": "April",
+            "mode": "VPS",
+            "brand": "IRCTC",
+            "amount": "789",
+            "valueDate": "2020-04-28",
+            "type": "DEBIT"
+        },
+        {
+            "month": "April",
+            "mode": "MMT",
+            "brand": "Axis Privilege CC PMT",
+            "amount": "25005",
+            "valueDate": "2020-04-30",
+            "type": "DEBIT"
+        },
+        {
+            "month": "April",
+            "mode": "MMT",
+            "brand": "SBI Elite CC PMT",
+            "amount": "15542",
+            "valueDate": "2020-04-30",
+            "type": "DEBIT"
+        },
+        {
+            "month": "May",
+            "mode": "OTHER",
+            "brand": "SAL FINTECH PRODUCTS and SOLUTIONS",
+            "amount": "150000",
+            "valueDate": "2020-05-01",
+            "type": "CREDIT"
+        },
+        {
+            "month": "May",
+            "mode": "ACH",
+            "brand": "Max Life Insurance",
+            "amount": "3567",
+            "valueDate": "2020-05-01",
+            "type": "DEBIT"
+        },
+        {
+            "month": "May",
+            "mode": "MMT",
+            "brand": "PNB Personal Loan",
+            "amount": "11345",
+            "valueDate": "2020-05-01",
+            "type": "DEBIT"
+        },
+        {
+            "month": "May",
+            "mode": "BIL",
+            "brand": "Motilal Oswal",
+            "amount": "5000",
+            "valueDate": "2020-05-01",
+            "type": "DEBIT"
+        },
+        {
+            "month": "May",
+            "mode": "BIL",
+            "brand": "Principal Mutual Fund",
+            "amount": "9000",
+            "valueDate": "2020-05-01",
+            "type": "DEBIT"
+        },
+        {
+            "month": "May",
+            "mode" : "UPI",
+            "brand": "Amul",
+            "amount": "160",
+            "valueDate": "2020-05-02",
+            "type": "DEBIT"
+        },
+        {
+            "month": "May",
+            "mode" : "IPS",
+            "brand": "Spencers",
+            "amount": "3290",
+            "valueDate": "2020-05-03",
+            "type": "DEBIT"
+        },
+        {
+            "month": "May",
+            "mode": "MMT",
+            "brand": "IDBI Home Loan",
+            "amount": "14583",
+            "valueDate": "2020-05-03",
+            "type": "DEBIT"
+        },
+        {
+            "month": "May",
+            "mode": "MMT",
+            "brand": "Rent",
+            "amount": "12000",
+            "valueDate": "2020-05-04",
+            "type": "DEBIT"
+        },
+        {
+            "month": "May",
+            "mode": "VIN",
+            "brand": "Eat Fit",
+            "amount": "496",
+            "valueDate": "2020-05-04",
+            "type": "DEBIT"
+        },
+        {
+            "month": "May",
+            "mode": "VPS",
+            "brand": "H&M",
+            "amount": "6989",
+            "valueDate": "2020-05-04",
+            "type": "DEBIT"
+        },
+        {
+            "month": "May",
+            "mode": "VPS",
+            "brand": "Bangalore Central",
+            "amount": "4503",
+            "valueDate": "2020-05-04",
+            "type": "DEBIT"
+        },
+        {
+            "month": "May",
+            "mode": "UPI",
+            "brand": "Uber",
+            "amount": "402",
+            "valueDate": "2020-05-05",
+            "type": "DEBIT"
+        },
+        {
+            "month": "May",
+            "mode": "VIN",
+            "brand": "No Limmits",
+            "amount": "8472",
+            "valueDate": "2020-05-05",
+            "type": "DEBIT"
+        },
+        {
+            "month": "May",
+            "mode": "UPI",
+            "brand": "Uber",
+            "amount": "442",
+            "valueDate": "2020-05-05",
+            "type": "DEBIT"
+        },
+        {
+            "month": "May",
+            "mode": "UPI",
+            "brand": "BESCOM",
+            "amount": "1280",
+            "valueDate": "2020-05-05",
+            "type": "DEBIT"
+        },
+        {
+            "month": "May",
+            "mode": "VIN",
+            "brand": "Indian Oil",
+            "amount": "1500",
+            "valueDate": "2020-05-07",
+            "type": "DEBIT"
+        },
+        {
+            "month": "May",
+            "mode": "UPI",
+            "brand": "BBlunt",
+            "amount": "799",
+            "valueDate": "2020-05-08",
+            "type": "DEBIT"
+        },
+        {
+            "month": "May",
+            "mode": "UPI",
+            "brand": "Ion Broadband",
+            "amount": "1299",
+            "valueDate": "2020-05-09",
+            "type": "DEBIT"
+        },
+        {
+            "month": "May",
+            "mode": "UPI",
+            "brand": "Jio",
+            "amount": "399",
+            "valueDate": "2020-05-10",
+            "type": "DEBIT"
+        },
+        {
+            "month": "May",
+            "mode": "BIL",
+            "brand": "48282029013",
+            "amount": "1540",
+            "valueDate": "2020-05-11",
+            "type": "CREDIT"
+        },
+        {
+            "month": "May",
+            "mode": "VPS",
+            "brand": "Gilly's",
+            "amount": "3289",
+            "valueDate": "2020-05-12",
+            "type": "DEBIT"
+        },
+        {
+            "month": "May",
+            "mode": "UPI",
+            "brand": "Amul",
+            "amount": "70",
+            "valueDate": "2020-05-15",
+            "type": "DEBIT"
+        },
+        {
+            "month": "May",
+            "mode": "ATM",
+            "brand": "Cash Withdrawal",
+            "amount": "3500",
+            "valueDate": "2020-05-18",
+            "type": "DEBIT"
+        },
+        {
+            "month": "May",
+            "mode": "VIN",
+            "brand": "Tatasky",
+            "amount": "350",
+            "valueDate": "2020-05-18",
+            "type": "DEBIT"
+        },
+        {
+            "month": "May",
+            "mode": "IIN",
+            "brand": "Netflix",
+            "amount": "799",
+            "valueDate": "2020-05-22",
+            "type": "DEBIT"
+        },
+        {
+            "month": "May",
+            "mode": "VPS",
+            "brand": "PVR",
+            "amount": "299",
+            "valueDate": "2020-05-24",
+            "type": "DEBIT"
+        },
+        {
+            "month": "May",
+            "mode": "ATM",
+            "brand": "Cash Withdrawal",
+            "amount": "1000",
+            "valueDate": "2020-05-25",
+            "type": "DEBIT"
+        },
+        {
+            "month": "May",
+            "mode": "UPI",
+            "brand": "Kwality Bazaar",
+            "amount": "99",
+            "valueDate": "2020-05-28",
+            "type": "DEBIT"
+        },
+        {
+            "month": "May",
+            "mode": "ACH",
+            "brand": "IndiaFirst Life Insurance",
+            "amount": "5201",
+            "valueDate": "2020-05-28",
+            "type": "DEBIT"
+        },
+        {
+            "month": "May",
+            "mode": "MMT",
+            "brand": "Axis Privilege CC PMT",
+            "amount": "25005",
+            "valueDate": "2020-05-31",
+            "type": "DEBIT"
+        },
+        {
+            "month": "May",
+            "mode": "MMT",
+            "brand": "SBI Elite CC PMT",
+            "amount": "15542",
+            "valueDate": "2020-05-31",
+            "type": "DEBIT"
+        },
+        {
+            "month": "June",
+            "mode": "OTHER",
+            "brand": "SAL FINTECH PRODUCTS and SOLUTIONS",
+            "amount": "150000",
+            "valueDate": "2020-06-01",
+            "type": "CREDIT"
+        },
+        {
+            "month": "June",
+            "mode": "ACH",
+            "brand": "Max Life Insurance",
+            "amount": "3567",
+            "valueDate": "2020-06-01",
+            "type": "DEBIT"
+        },
+        {
+            "month": "June",
+            "mode": "MMT",
+            "brand": "PNB Personal Loan",
+            "amount": "11345",
+            "valueDate": "2020-06-01",
+            "type": "DEBIT"
+        },
+        {
+            "month": "June",
+            "mode": "BIL",
+            "brand": "Motilal Oswal",
+            "amount": "5000",
+            "valueDate": "2020-06-01",
+            "type": "DEBIT"
+        },
+        {
+            "month": "June",
+            "mode": "BIL",
+            "brand": "Principal Mutual Fund",
+            "amount": "9000",
+            "valueDate": "2020-06-01",
+            "type": "DEBIT"
+        },
+        {
+            "month": "June",
+            "mode" : "VIN",
+            "brand": "iPlanet",
+            "amount": "89000",
+            "valueDate": "2020-06-02",
+            "type": "DEBIT"
+        },
+        {
+            "month": "June",
+            "mode" : "IPS",
+            "brand": "Big Basket",
+            "amount": "1200",
+            "valueDate": "2020-06-03",
+            "type": "DEBIT"
+        },
+        {
+            "month": "June",
+            "mode": "MMT",
+            "brand": "IDBI Home Loan",
+            "amount": "14583",
+            "valueDate": "2020-06-03",
+            "type": "DEBIT"
+        },
+        {
+            "month": "June",
+            "mode": "MMT",
+            "brand": "Rent",
+            "amount": "12000",
+            "valueDate": "2020-06-04",
+            "type": "DEBIT"
+        },
+        {
+            "month": "June",
+            "mode": "VIN",
+            "brand": "KFC",
+            "amount": "249",
+            "valueDate": "2020-06-04",
+            "type": "DEBIT"
+        },
+        {
+            "month": "June",
+            "mode": "UPI",
+            "brand": "Uber",
+            "amount": "120",
+            "valueDate": "2020-06-05",
+            "type": "DEBIT"
+        },
+        {
+            "month": "June",
+            "mode": "UPI",
+            "brand": "BESCOM",
+            "amount": "1480",
+            "valueDate": "2020-06-05",
+            "type": "DEBIT"
+        },
+        {
+            "month": "June",
+            "mode": "UPI",
+            "brand": "Plated",
+            "amount": "2110",
+            "valueDate": "2020-06-07",
+            "type": "DEBIT"
+        },
+        {
+            "month": "June",
+            "mode": "ATM",
+            "brand": "Cash Withdrawal",
+            "amount": "2000",
+            "valueDate": "2020-06-08",
+            "type": "DEBIT"
+        },
+        {
+            "month": "June",
+            "mode": "VIN",
+            "brand": "Landmark",
+            "amount": "3080",
+            "valueDate": "2020-06-08",
+            "type": "DEBIT"
+        },
+        {
+            "month": "June",
+            "mode": "UPI",
+            "brand": "Ion Broadband",
+            "amount": "1299",
+            "valueDate": "2020-06-09",
+            "type": "DEBIT"
+        },
+        {
+            "month": "June",
+            "mode": "VPS",
+            "brand": "Adidas",
+            "amount": "9999",
+            "valueDate": "2020-06-12",
+            "type": "DEBIT"
+        },
+        {
+            "month": "June",
+            "mode": "UPI",
+            "brand": "Eat Fit",
+            "amount": "230",
+            "valueDate": "2020-06-12",
+            "type": "DEBIT"
+        },
+        {
+            "month": "June",
+            "mode": "UPI",
+            "brand": "Amul",
+            "amount": "210",
+            "valueDate": "2020-06-15",
+            "type": "DEBIT"
+        },
+        {
+            "month": "June",
+            "mode": "UPI",
+            "brand": "Croma",
+            "amount": "599",
+            "valueDate": "2020-06-18",
+            "type": "DEBIT"
+        },
+        {
+            "month": "June",
+            "mode": "VIN",
+            "brand": "Tatasky",
+            "amount": "350",
+            "valueDate": "2020-06-18",
+            "type": "DEBIT"
+        },
+        {
+            "month": "June",
+            "mode": "BIL",
+            "brand": "0292192233",
+            "amount": "4802",
+            "valueDate": "2020-06-19",
+            "type": "CREDIT"
+        },
+        {
+            "month": "June",
+            "mode": "BIL",
+            "brand": "0324830223",
+            "amount": "300",
+            "valueDate": "2020-06-19",
+            "type": "CREDIT"
+        },
+        {
+            "month": "June",
+            "mode": "IIN",
+            "brand": "Netflix",
+            "amount": "799",
+            "valueDate": "2020-06-22",
+            "type": "DEBIT"
+        },
+        {
+            "month": "June",
+            "mode": "ACH",
+            "brand": "IndiaFirst Life Insurance",
+            "amount": "5201",
+            "valueDate": "2020-06-28",
+            "type": "DEBIT"
+        },
+        {
+            "month": "June",
+            "mode": "UPI",
+            "brand": "Kwality Bazaar",
+            "amount": "59",
+            "valueDate": "2020-06-28",
+            "type": "DEBIT"
+        },
+        {
+            "month": "June",
+            "mode": "MMT",
+            "brand": "Axis Privilege CC PMT",
+            "amount": "25005",
+            "valueDate": "2020-06-30",
+            "type": "DEBIT"
+        },
+        {
+            "month": "June",
+            "mode": "MMT",
+            "brand": "SBI Elite CC PMT",
+            "amount": "15542",
+            "valueDate": "2020-06-30",
+            "type": "DEBIT"
+        },
+        {
+            "month": "July",
+            "mode": "OTHER",
+            "brand": "SAL FINTECH PRODUCTS and SOLUTIONS",
+            "amount": "150000",
+            "valueDate": "2020-07-01",
+            "type": "CREDIT"
+        },
+        {
+            "month": "July",
+            "mode": "ACH",
+            "brand": "Max Life Insurance",
+            "amount": "3567",
+            "valueDate": "2020-07-01",
+            "type": "DEBIT"
+        },
+        {
+            "month": "July",
+            "mode": "MMT",
+            "brand": "PNB Personal Loan",
+            "amount": "11345",
+            "valueDate": "2020-07-01",
+            "type": "DEBIT"
+        },
+        {
+            "month": "July",
+            "mode": "BIL",
+            "brand": "Motilal Oswal",
+            "amount": "5000",
+            "valueDate": "2020-07-01",
+            "type": "DEBIT"
+        },
+        {
+            "month": "July",
+            "mode": "BIL",
+            "brand": "Principal Mutual Fund",
+            "amount": "9000",
+            "valueDate": "2020-07-01",
+            "type": "DEBIT"
+        },
+        {
+            "month": "July",
+            "mode" : "UPI",
+            "brand": "Amul",
+            "amount": "230",
+            "valueDate": "2020-07-02",
+            "type": "DEBIT"
+        },
+        {
+            "month": "July",
+            "mode" : "IPS",
+            "brand": "Spencers",
+            "amount": "1599",
+            "valueDate": "2020-07-03",
+            "type": "DEBIT"
+        },
+        {
+            "month": "July",
+            "mode": "MMT",
+            "brand": "IDBI Home Loan",
+            "amount": "14583",
+            "valueDate": "2020-07-03",
+            "type": "DEBIT"
+        },
+        {
+            "month": "July",
+            "mode": "MMT",
+            "brand": "Rent",
+            "amount": "12000",
+            "valueDate": "2020-07-04",
+            "type": "DEBIT"
+        },
+        {
+            "month": "July",
+            "mode": "VIN",
+            "brand": "Burger King",
+            "amount": "242",
+            "valueDate": "2020-07-04",
+            "type": "DEBIT"
+        },
+        {
+            "month": "July",
+            "mode": "UPI",
+            "brand": "KFC",
+            "amount": "540",
+            "valueDate": "2020-07-05",
+            "type": "DEBIT"
+        },
+        {
+            "month": "July",
+            "mode": "UPI",
+            "brand": "BESCOM",
+            "amount": "1542",
+            "valueDate": "2020-07-05",
+            "type": "DEBIT"
+        },
+        {
+            "month": "July",
+            "mode": "VIN",
+            "brand": "Indian Oil",
+            "amount": "2400",
+            "valueDate": "2020-07-07",
+            "type": "DEBIT"
+        },
+        {
+            "month": "July",
+            "mode": "UPI",
+            "brand": "Landmark",
+            "amount": "3598",
+            "valueDate": "2020-07-08",
+            "type": "DEBIT"
+        },
+        {
+            "month": "July",
+            "mode": "UPI",
+            "brand": "Ion Broadband",
+            "amount": "1299",
+            "valueDate": "2020-07-09",
+            "type": "DEBIT"
+        },
+        {
+            "month": "July",
+            "mode": "VPS",
+            "brand": "Veromoda",
+            "amount": "2889",
+            "valueDate": "2020-07-12",
+            "type": "DEBIT"
+        },
+        {
+            "month": "July",
+            "mode": "UPI",
+            "brand": "Eat Fit",
+            "amount": "410",
+            "valueDate": "2020-07-12",
+            "type": "DEBIT"
+        },
+        {
+            "month": "July",
+            "mode": "UPI",
+            "brand": "Beijing Bites",
+            "amount": "790",
+            "valueDate": "2020-07-15",
+            "type": "DEBIT"
+        },
+        {
+            "month": "July",
+            "mode": "BIL",
+            "brand": "323455920392",
+            "amount": "3123",
+            "valueDate": "2020-07-16",
+            "type": "CREDIT"
+        },
+        {
+            "month": "July",
+            "mode": "UPI",
+            "brand": "Bangalore Central",
+            "amount": "3999",
+            "valueDate": "2020-07-18",
+            "type": "DEBIT"
+        },
+        {
+            "month": "July",
+            "mode": "VIN",
+            "brand": "Tatasky",
+            "amount": "350",
+            "valueDate": "2020-07-18",
+            "type": "DEBIT"
+        },
+        {
+            "month": "July",
+            "mode": "IIN",
+            "brand": "Netflix",
+            "amount": "799",
+            "valueDate": "2020-07-22",
+            "type": "DEBIT"
+        },
+        {
+            "month": "July",
+            "mode": "VPS",
+            "brand": "PVR",
+            "amount": "450",
+            "valueDate": "2020-07-24",
+            "type": "DEBIT"
+        },
+        {
+            "month": "July",
+            "mode": "UPI",
+            "brand": "Amul",
+            "amount": "50",
+            "valueDate": "2020-07-25",
+            "type": "DEBIT"
+        },
+        {
+            "month": "July",
+            "mode": "ACH",
+            "brand": "IndiaFirst Life Insurance",
+            "amount": "5201",
+            "valueDate": "2020-07-28",
+            "type": "DEBIT"
+        },
+        {
+            "month": "July",
+            "mode": "UPI",
+            "brand": "Kwality Bazaar",
+            "amount": "120",
+            "valueDate": "2020-07-28",
+            "type": "DEBIT"
+        },
+        {
+            "month": "July",
+            "mode": "MMT",
+            "brand": "Axis Privilege CC PMT",
+            "amount": "25005",
+            "valueDate": "2020-07-31",
+            "type": "DEBIT"
+        },
+        {
+            "month": "July",
+            "mode": "MMT",
+            "brand": "SBI Elite CC PMT",
+            "amount": "15542",
+            "valueDate": "2020-07-31",
+            "type": "DEBIT"
+        },
+        {
+            "month": "July",
+            "mode": "ATM",
+            "brand": "Cash Withdrawal",
+            "amount": "5000",
+            "valueDate": "2020-07-31",
+            "type": "DEBIT"
+        }      
+    ]
+
+}

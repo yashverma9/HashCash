@@ -1,0 +1,23 @@
+[
+    {
+        "Id": 95,
+        "Brand_name": "Tanishq",
+        "Category": "Shopping",
+        "Sub_category": "Jewellery",
+        "Done": 1
+    },
+    {
+        "Id": 97,
+        "Brand_name": "Aabushan",
+        "Category": "Shopping",
+        "Sub_category": "Jewellery",
+        "Done": 0
+    },
+    {
+        "Id": 112,
+        "Brand_name": "Reliance Jewels",
+        "Category": "Shopping",
+        "Sub_category": "Jewellery",
+        "Done": 0
+    }
+]

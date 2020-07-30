@@ -1,0 +1,37 @@
+[
+    {
+        "Id": 18,
+        "Brand_name": "Nykaa",
+        "Category": "Shopping",
+        "Sub_category": "Cosmetics",
+        "Done": 1
+    },
+    {
+        "Id": 273,
+        "Brand_name": "Sugar",
+        "Category": "Shopping",
+        "Sub_category": "Cosmetics",
+        "Done": 1
+    },
+    {
+        "Id": 274,
+        "Brand_name": "Mac",
+        "Category": "Shopping",
+        "Sub_category": "Cosmetics",
+        "Done": 1
+    },
+    {
+        "Id": 275,
+        "Brand_name": "Ori Flame",
+        "Category": "Shopping",
+        "Sub_category": "Cosmetics",
+        "Done": 1
+    },
+    {
+        "Id": 280,
+        "Brand_name": "Revlon",
+        "Category": "Shopping",
+        "Sub_category": "Cosmetics",
+        "Done": 0
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "Id": 6,
+        "Brand_name": "Shopper Stop",
+        "Category": "Shopping",
+        "Sub_category": "Clothing Center",
+        "Done": 0
+    },
+    {
+        "Id": 94,
+        "Brand_name": "Bangalore Central",
+        "Category": "Shopping",
+        "Sub_category": "Clothing Center",
+        "Done": 1
+    },
+    {
+        "Id": 171,
+        "Brand_name": "Pantaloons",
+        "Category": "Shopping",
+        "Sub_category": "Clothing Center",
+        "Done": 0
+    },
+    {
+        "Id": 259,
+        "Brand_name": "Max Clothing",
+        "Category": "Shopping",
+        "Sub_category": "Clothing Center",
+        "Done": 1
+    }
+]

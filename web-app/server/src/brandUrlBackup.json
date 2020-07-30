@@ -1,0 +1,254 @@
+[
+    {
+        "brand": "A2B",
+        "url": "../assets/Logos/a2b.jpeg"
+    },
+    {
+        "brand": "Adidas",
+        "url": "../assets/Logos/adidas.jpg"
+    },
+    {
+        "brand": "Amazon (AMZN)",
+        "url": "../assets/Logos/amazon.jpg"
+    },
+    {
+        "brand": "American Tourister",
+        "url": "../assets/Logos/americanTourister.png"
+    },
+    {
+        "brand": "Amul",
+        "url": "../assets/Logos/amul.jpg"
+    },
+    {
+        "brand": "BBlunt",
+        "url": "../assets/Logos/bBlunt.jpg"
+    },
+    {
+        "brand": "Bangalore Central",
+        "url": "../assets/Logos/bangaloreCentral.png"
+    },
+    {
+        "brand": "Beijing Bites",
+        "url": "../assets/Logos/beijingBites.jpg"
+    },
+    {
+        "brand": "Big Basket",
+        "url": "../assets/Logos/bigBasket.jpg"
+    },
+    {
+        "brand": "Bluo",
+        "url": "../assets/Logos/bluo.png"
+    },
+    {
+        "brand": "Burger King",
+        "url": "../assets/Logos/burgerKing.jpg"
+    },
+    {
+        "brand": "Catwalk",
+        "url": "../assets/Logos/catwalk.gif"
+    },
+    {
+        "brand": "Chai Point",
+        "url": "../assets/Logos/chaiPoint.jpg"
+    },
+    {
+        "brand": "Clear Trip",
+        "url": "../assets/Logos/cleartrip.jpeg"
+    },
+    {
+        "brand": "Croma",
+        "url": "../assets/Logos/croma.png"
+    },
+    {
+        "brand": "Decathlon",
+        "url": "../assets/Logos/decathlon.png"
+    },
+    {
+        "brand": "Eat Fit",
+        "url": "../assets/Logos/eatFit.png"
+    },
+    {
+        "brand": "Gilly's",
+        "url": "../assets/Logos/gillys.png"
+    },
+    {
+        "brand": "H&M",
+        "url": "../assets/Logos/h&m.png"
+    },
+    {
+        "brand": "Hairspeak",
+        "url": "../assets/Logos/hairSpeak.jpg"
+    },
+    {
+        "brand": "IRCTC",
+        "url": "../assets/Logos/irctc.png"
+    },
+    {
+        "brand": "Indian Oil",
+        "url": "../assets/Logos/indianOil.jpg"
+    },
+    {
+        "brand": "KFC",
+        "url": "../assets/Logos/kfc.jpg"
+    },
+    {
+        "brand": "Kwality Bazaar ",
+        "url": "../assets/Logos/kwalityBazaar.jpg"
+    },
+    {
+        "brand": "Land Mark",
+        "url": "../assets/Logos/landmark.png"
+    },
+    {
+        "brand": "Leon Grill",
+        "url": "../assets/Logos/leonGrill.png"
+    },
+    {
+        "brand": "Mr Goofy's",
+        "url": "../assets/Logos/mrGoofy.jpg"
+    },
+    {
+        "brand": "Myntra",
+        "url": "../assets/Logos/myntra.jpg"
+    },
+    {
+        "brand": "Netflix",
+        "url": "../assets/Logos/netflix.jpg"
+    },
+    {
+        "brand": "No Limmits",
+        "url": "../assets/Logos/noLimmits.jpg"
+    },
+    {
+        "brand": "Only",
+        "url": "../assets/Logos/only.jpg"
+    },
+    { 
+        "brand": "Ori Flame",
+        "url": "../assets/Logos/oriflame.jpg"
+    },
+    {
+        "brand": "PVR",
+        "url": "../assets/Logos/pvr.jpg"
+    },
+    {
+        "brand": "Plated",
+        "url": "../assets/Logos/plated.jpg"
+    },
+    {
+        "brand": "SK Rolls",
+        "url": "../assets/Logos/skRolls.jpg"
+    },
+    {
+        "brand": "Sky Bags",
+        "url": "../assets/Logos/skyBags.png"
+    },
+    {
+        "brand": "Smoke House",
+        "url": "../assets/Logos/smokeHouse.jpg"
+    },
+    {
+        "brand": "Spencers",
+        "url": "../assets/Logos/spencers.png"
+    },
+    {
+        "brand": "Stoned Monkey",
+        "url": "../assets/Logos/stonedMonkey.jpg"
+    },
+    {
+        "brand": "Sugar",
+        "url": "../assets/Logos/sugar.jpg"
+    },
+    {
+        "brand": "Swiggy",
+        "url": "../assets/Logos/swiggy.png"
+    },
+    {
+        "brand": "Titan Eye Plus",
+        "url": "../assets/Logos/titanEyePlus.png"
+    },
+    {
+        "brand": "Tonique",
+        "url": "../assets/Logos/tonique.jpg"
+    },
+    {
+        "brand": "Uber",
+        "url": "../assets/Logos/uber.png"
+    },
+    {
+        "brand": "Veromoda ",
+        "url": "../assets/Logos/veromoda.jpg"
+    },
+    {
+        "brand": "Zomato",
+        "url": "../assets/Logos/zomato.png"
+    },
+    {
+        "brand": "iPlanet",
+        "url": "../assets/Logos/iPlanet.png"
+    },
+    {
+        "brand": "BESCOM",
+        "url": "../assets/Logos/bescom.png"
+    },
+    {
+        "brand": "Rent",
+        "url": "../assets/Logos/rent.jpg"
+    },
+    {
+        "brand": "SAL FINTECH PRODUCTS and SOLUTIONS",
+        "url": "../assets/Logos/sal.jpg"
+    },
+    {
+        "brand": "Max Life Insurance",
+        "url": "../assets/Logos/max.jpeg"
+    },
+    {
+        "brand": "PNB Personal Loan",
+        "url": "../assets/Logos/pnb.png"
+    },
+    {
+        "brand": "Motilal Oswal ",
+        "url": "../assets/Logos/motilalOswal.jpeg"
+    },
+    {
+        "brand": "Unknown",
+        "url": "../assets/Logos/unknown.jpg"
+    },
+    {
+        "brand": "Ion Broadband",
+        "url": "../assets/Logos/ion.jpg"
+    },
+    {
+        "brand": "Tatasky",
+        "url": "../assets/Logos/tatasky.jpg"
+    },
+    {
+        "brand": "Dentist Clinic",
+        "url": "../assets/Logos/dentist.png"
+    },
+    {
+        "brand": "SBI Elite CC PMT",
+        "url": "../assets/Logos/sbi.png"
+    },
+    {
+        "brand": "Principal Mutual Fund",
+        "url": "../assets/Logos/principal.png"
+    },
+    {
+        "brand": "cafecofeeday",
+        "url": "../assets/Logos/ccd.png"
+    },
+    {
+        "brand": "Jio Giga Fiber",
+        "url": "../assets/Logos/jio.png"
+    },
+    {
+        "brand": "1mg",
+        "url": "../assets/Logos/img.png"
+    },
+    {
+        "brand": "Jio Giga Fiber",
+        "url": "../assets/Logos/jio.png"
+    }
+]

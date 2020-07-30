@@ -1,0 +1,297 @@
+{
+
+    "data" : [
+        
+        //Savings account entire details (data[0])
+        {
+            "linkReferenceNumber": "11fabe78-0a59-4c71-8fdb-57e54779d236",
+            "maskedAccountNumber": "XXXXXXXXXX5055",
+            "bank": "FinShareBankServer",
+            "Summary": {
+                "currentBalance": "101666.33",
+                "currency": "INR",
+                "exchgeRate": " ",
+                "balanceDateTime": "2020-06-22T07:50:00.000Z",
+                "type": "SAVINGS",
+                "branch": "Jayanagar 4th Block",
+                "facility": "OD",
+                "ifscCode": "ICIC0001124",
+                "micrCode": "500240246",
+                "openingDate": "2004-08-06",
+                "currentODLimit": "0",
+                "drawingLimit": "0",
+                "status": "ACTIVE",
+                "Pending": [
+                    {
+                        "amount": 0,
+                        "transactionType": "DEBIT"
+                    }
+                ]
+            },
+            "Profile": {
+                "Holders": {
+                    "type": "SINGLE",
+                    "Holder": [
+                        {
+                            "name": "Akshay Kumar",
+                            "dob": "1947-08-15",
+                            "mobile": "8686005055",
+                            "nominee": "REGISTERED",
+                            "landline": "",
+                            "address": "8/1190, 5th Cross, 3rd Main, 7th Block, Jayanagar, Bangalore - 560011",
+                            "email": "akshayku@gmail.com",
+                            "pan": "AIMPN5746M",
+                            "ckycCompliance": "true"
+                        },
+                        {same_details_again_and_again},
+                        {},
+                        {},
+                        .
+                        .
+                        .
+                        .
+                        .
+                    ]
+                }
+            },
+            "Transactions": {
+                "startDate": "2019-07-11",
+                "endDate": "2019-07-11",
+                "Transaction": [
+                    {
+                        "type": "DEBIT",
+                        "mode": "UPI",
+                        "amount": "1239.00",
+                        "currentBalance": "62289.25",
+                        "transactionTimestamp": "2019-12-19T07:50:14.000Z",
+                        "valueDate": "2019-12-19",
+                        "txnId": "M3258741",
+                        "narration": "UPI/935314560764/getsimpl/simpl@axisbank/Axis Bank",
+                        "reference": "RFN00013383"
+                    },
+                    {More transactions},
+                    {More transactions},
+                    {More transactions}
+                ]
+            }
+        },
+
+            //Fixed deposit (term deposit) entire details (data[1])
+            
+            {
+                "linkReferenceNumber": "4797daf8-75df-4359-8e61-a710d7e114fa",
+            "maskedAccountNumber": "XXXXXXXXXX5055",
+            "bank": "FinShareBankServer",
+            "Summary": {
+                "branch": "Jayanagar 4th Block",
+                "openingDate": "2019-12-22",
+                "ifsc": "ICIC0001124",
+                "accountType": "FIXED",
+                "maturityDate": "2021-01-16",
+                "maturityAmount": "105622.00",
+                "description": "390 Days Cumulative Term Deposit ",
+                "interestPayout": "OnMaturity",
+                "interestRate": "5.15",
+                "principalAmount": "100000.00",
+                "tenureDays": "390",
+                "tenureMonths": "0",
+                "tenureYears": "0",
+                "interestComputation": "COMPOUND",
+                "compoundingFrequency": "QUARTERLY",
+                "interestPeriodicPayoutAmount": "0",
+                "interestOnMaturity": "5622",
+                "currentValue": "100000.00"
+            },
+            "Profile": {
+                "Holders": {
+                    "type": "SINGLE",
+                    "Holder": [
+                        {
+                            "name": "Mr. SANKET  SALVI",
+                            "dob": "1947-08-15",
+                            "mobile": "8686005055",
+                            "nominee": "REGISTERED",
+                            "landline": "08942-223322",
+                            "address": "ADD1001242",
+                            "email": "sanket374@gmail.com",
+                            "pan": "CTMPM0790M",
+                            "ckycCompliance": "true"
+                        },
+                        {
+                            "name": "Mr. SANKET  SALVI",
+                            "dob": "1947-08-15",
+                            "mobile": "8686005055",
+                            "nominee": "REGISTERED",
+                            "landline": "08942-223322",
+                            "address": "ADD1001242",
+                            "email": "sanket374@gmail.com",
+                            "pan": "CTMPM0790M",
+                            "ckycCompliance": "true"
+                        },
+                        {same again again},
+                        {}
+                    ]
+                }
+            },
+            "Transactions": {
+                "startDate": "2019-07-11",
+                "endDate": "2020-07-11",
+                "Transaction": [
+                    {
+                        "type": "OPENING",
+                        "mode": "FT",
+                        "amount": "100000.00",
+                        "balance": "100000.00",
+                        "transactionDateTime": "2019-12-22T05:04:14.000Z",
+                        "valueDate": "2019-12-22T05:04:14.000Z",
+                        "txnId": "M4785435",
+                        "narration": "TOWARDS FD OPENING",
+                        "reference": "RFN00013383"
+                    },
+                    {
+                        "type": "OPENING",
+                        "mode": "FT",
+                        "amount": "100000.00",
+                        "balance": "100000.00",
+                        "transactionDateTime": "2019-12-22T05:04:14.000Z",
+                        "valueDate": "2019-12-22T05:04:14.000Z",
+                        "txnId": "M4785435",
+                        "narration": "TOWARDS FD OPENING",
+                        "reference": "RFN00013383"
+                    },
+                    {same thing redundant(actualy only 1 transaction in term deposit)}
+
+                ]
+            }
+         },
+
+            //Recurring deposit account entire details (data[2])
+
+            {
+                  "linkReferenceNumber": "d68d3aa8-4d6d-4365-afd1-4f0822eb5d7e",
+            "maskedAccountNumber": "XXXXXXXXXX0256",
+            "bank": "FinShareBankServer",
+            "Summary": {
+                "branch": "JayaNagar 4th Block",
+                "openingDate": null,
+                "ifsc": "ICIC0001124",
+                "accountType": "RECURRING",
+                "maturityAmount": "61693.00",
+                "maturityDate": null,
+                "description": "12 Months Recurring Deposit",
+                "interestPayout": "OnMaturity",
+                "interestRate": "5.15",
+                "principalAmount": "5000.00",
+                "tenureDays": "0",
+                "tenureMonths": "12",
+                "tenureYears": "0",
+                "recurringAmount": "5000.00",
+                "recurringDepositDay": "22",
+                "interestComputation": "COMPOUND",
+                "compoundingFrequency": "MONTHLY",
+                "interestPeriodicPayoutAmount": "0",
+                "interestOnMaturity": "1693",
+                "currentValue": "35000.00"
+            },
+            "Profile": {
+                "Holders": {
+                    "type": "SINGLE",
+                    "Holder": [
+                        {
+                            "name": "Akshay Kumar",
+                            "dob": "1947-08-15",
+                            "mobile": "XXXXXXXX0256",
+                            "nominee": "REGISTERED",
+                            "landline": "",
+                            "address": "8/1190, 5th Cross, 3rd Main, 7th Block, Jayanagar, Bangalore - 560011",
+                            "email": "akshayku@gmail.com",
+                            "pan": "AIMPN5746M",
+                            "ckycCompliance": "true"
+                        },
+                        {
+                            "name": "Akshay Kumar",
+                            "dob": "1947-08-15",
+                            "mobile": "XXXXXXXX0256",
+                            "nominee": "REGISTERED",
+                            "landline": "",
+                            "address": "8/1190, 5th Cross, 3rd Main, 7th Block, Jayanagar, Bangalore - 560011",
+                            "email": "akshayku@gmail.com",
+                            "pan": "AIMPN5746M",
+                            "ckycCompliance": "true"
+                        },
+                        {Same again and again},
+                        {},
+                        {}
+                    ]
+                }     
+            },
+            "Transactions": {
+                "startDate": "2019-07-11",
+                "endDate": "2020-07-11",
+                "Transaction": [
+                    {
+                        "type": "OPENING",
+                        "mode": "FT",
+                        "amount": "5000.00",
+                        "balance": "5000.00",
+                        "transactionDateTime": "2019-12-22T04:53:45.000Z",
+                        "valueDate": "2019-12-22T04:53:45.000Z",
+                        "txnId": "M2587459",
+                        "narration": "TOWARDS RD OPENING",
+                        "reference": "RFN0001338754"
+                    },
+                    {
+                        "type": "INSTALLMENT",
+                        "mode": "FT",
+                        "amount": "5000.00",
+                        "balance": "10000.00",
+                        "transactionDateTime": "2020-01-22T04:53:45.000Z",
+                        "valueDate": "2020-01-22T04:53:45.000Z",
+                        "txnId": "M5874125",
+                        "narration": "TOWARDS RD INSTALLMENT",
+                        "reference": "RFN0001587864"
+                    },
+                    {more},
+                    {more transactions}
+                ]
+            }
+
+        }
+
+    ]
+
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    ]
+
+
+
+
+
+
+}

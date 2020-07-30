@@ -1,0 +1,13 @@
+generated_df
+
+txnId, mode, Amount, Balance, Type, Date, Brand, Category 
+
+
+
+
+
+Front end requires this summary data from a user's data:
+
+-  "maskedAccountNumber": "XXXXXXXXXX3329"
+-   "bank": "FinShareBankServer"
+-    "type": "SAVINGS",

@@ -1,0 +1,51 @@
+[
+    {
+        "Id": 35,
+        "Brand_name": "Skechers",
+        "Category": "Shopping",
+        "Sub_category": "Sports Brand",
+        "Done": 1
+    },
+    {
+        "Id": 36,
+        "Brand_name": "Nike",
+        "Category": "Shopping",
+        "Sub_category": "Sports Brand",
+        "Done": 1
+    },
+    {
+        "Id": 89,
+        "Brand_name": "Adidas",
+        "Category": "Shopping",
+        "Sub_category": "Sports Brand",
+        "Done": 0
+    },
+    {
+        "Id": 90,
+        "Brand_name": "Reebok",
+        "Category": "Shopping",
+        "Sub_category": "Sports Brand",
+        "Done": 0
+    },
+    {
+        "Id": 163,
+        "Brand_name": "Decathlon",
+        "Category": "Shopping",
+        "Sub_category": "Sports Brand",
+        "Done": 0
+    },
+    {
+        "Id": 164,
+        "Brand_name": "Ikea",
+        "Category": "Shopping",
+        "Sub_category": "Sports Brand",
+        "Done": 0
+    },
+    {
+        "Id": 216,
+        "Brand_name": "EMI",
+        "Category": "Loan (EMI)",
+        "Sub_category": "Sports Brand",
+        "Done": 0
+    }
+]

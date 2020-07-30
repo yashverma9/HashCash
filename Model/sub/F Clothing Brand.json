@@ -1,0 +1,107 @@
+[
+    {
+        "Id": 117,
+        "Brand_name": "Only",
+        "Category": "Shopping",
+        "Sub_category": "F Clothing Brand",
+        "Done": 1
+    },
+    {
+        "Id": 118,
+        "Brand_name": "Biba",
+        "Category": "Shopping",
+        "Sub_category": "F Clothing Brand",
+        "Done": 0
+    },
+    {
+        "Id": 244,
+        "Brand_name": "Suman Collection",
+        "Category": "Shopping",
+        "Sub_category": "F Clothing Brand",
+        "Done": 0
+    },
+    {
+        "Id": 245,
+        "Brand_name": "Amarjyothi Store",
+        "Category": "Shopping",
+        "Sub_category": "F Clothing Brand",
+        "Done": 0
+    },
+    {
+        "Id": 252,
+        "Brand_name": "Kumkum Fashion",
+        "Category": "Shopping",
+        "Sub_category": "F Clothing Brand",
+        "Done": 0
+    },
+    {
+        "Id": 276,
+        "Brand_name": "Veromoda ",
+        "Category": "Shopping",
+        "Sub_category": "F Clothing Brand",
+        "Done": 1
+    },
+    {
+        "Id": 277,
+        "Brand_name": "And Women",
+        "Category": "Shopping",
+        "Sub_category": "F Clothing Brand",
+        "Done": 0
+    },
+    {
+        "Id": 278,
+        "Brand_name": "W Women",
+        "Category": "Shopping",
+        "Sub_category": "F Clothing Brand",
+        "Done": 1
+    },
+    {
+        "Id": 279,
+        "Brand_name": "Forever 21",
+        "Category": "Shopping",
+        "Sub_category": "F Clothing Brand",
+        "Done": 1
+    },
+    {
+        "Id": 284,
+        "Brand_name": "Fab India",
+        "Category": "Shopping",
+        "Sub_category": "F Clothing Brand",
+        "Done": 1
+    },
+    {
+        "Id": 285,
+        "Brand_name": "Aurelia",
+        "Category": "Shopping",
+        "Sub_category": "F Clothing Brand",
+        "Done": 0
+    },
+    {
+        "Id": 286,
+        "Brand_name": "Westside ",
+        "Category": "Shopping",
+        "Sub_category": "F Clothing Brand",
+        "Done": 0
+    },
+    {
+        "Id": 287,
+        "Brand_name": "Global Desi",
+        "Category": "Shopping",
+        "Sub_category": "F Clothing Brand",
+        "Done": 1
+    },
+    {
+        "Id": 290,
+        "Brand_name": "Madame",
+        "Category": "Shopping",
+        "Sub_category": "F Clothing Brand",
+        "Done": 0
+    },
+    {
+        "Id": 291,
+        "Brand_name": "Mango",
+        "Category": "Shopping",
+        "Sub_category": "F Clothing Brand",
+        "Done": 0
+    }
+]

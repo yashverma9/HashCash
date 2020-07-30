@@ -1,0 +1,37 @@
+[
+    {
+        "Id": 55,
+        "Brand_name": "Bata",
+        "Category": "Shopping",
+        "Sub_category": "U Footwear Brand",
+        "Done": 0
+    },
+    {
+        "Id": 104,
+        "Brand_name": "Vans",
+        "Category": "Shopping",
+        "Sub_category": "U Footwear Brand",
+        "Done": 1
+    },
+    {
+        "Id": 264,
+        "Brand_name": "Relaxo",
+        "Category": "Shopping",
+        "Sub_category": "U Footwear Brand",
+        "Done": 0
+    },
+    {
+        "Id": 267,
+        "Brand_name": "Crocs",
+        "Category": "Shopping",
+        "Sub_category": "U Footwear Brand",
+        "Done": 0
+    },
+    {
+        "Id": 268,
+        "Brand_name": "Hush Puppy",
+        "Category": "Shopping",
+        "Sub_category": "U Footwear Brand",
+        "Done": 1
+    }
+]
