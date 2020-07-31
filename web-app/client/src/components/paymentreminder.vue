@@ -3,7 +3,12 @@
 
 
           <div class="acc">
-        <p>Reminders</p>
+           <div class="back" >
+         <p>Reminders</p>
+      <div @click="scroll" class="bb">
+            <p>BACK</p>
+          </div>
+      </div>
           <div class="list">
               <ul >
                   <li v-for = "(pmr,index) in pmrs" :key="index">
@@ -101,9 +106,11 @@ import axios from "axios";
             }
         },
         methods: {
-            name() {
-                
-            }
+          scroll() {
+         console.log("scroll called")
+      const element = document.getElementById('buttons');
+      element.scrollIntoView({ behavior: 'smooth' });
+    },
         },
     }
 </script>
@@ -265,6 +272,35 @@ ul {
 }
 th, td{
 padding: 5px;
+}
+
+.bb{
+ 
+  cursor: pointer;
+  width: 78px;
+  height: 18px;
+  margin-top: 10px;
+  background-color: #edc530;
+  margin-right: 10px;
+
+
+p{
+  
+    display: block;
+    margin: -3px;
+    margin-bottom: 1px;
+    padding: 0;
+    font-family: "Poppins", sans-serif;
+    text-align: center;
+    color: #181818;
+    font-weight: 700;
+
+}
+}
+
+.back{
+  display: flex;
+  justify-content: space-between
 }
 
 </style>

@@ -1,7 +1,12 @@
 <template>
   <div>
     <div class="acc">
-      <p>Insurance</p>
+          <div class="back" >
+         <p>Insurance</p>
+      <div @click="scroll" class="bb">
+            <p>BACK</p>
+          </div>
+      </div>
         <div class="abs">
               <div class="fd">
         <div class="highlight">
@@ -115,7 +120,12 @@ export default {
     methods: {
       showpopup() {
         
-      }
+      },
+      scroll() {
+         console.log("scroll called")
+      const element = document.getElementById('buttons');
+      element.scrollIntoView({ behavior: 'smooth' });
+    },
     },
 };
 </script>
@@ -288,4 +298,34 @@ ul {
     top: 64px;
     left: 111px;
 }
+
+.bb{
+ 
+  cursor: pointer;
+  width: 78px;
+  height: 18px;
+  margin-top: 10px;
+  background-color: #edc530;
+  margin-right: 10px;
+
+
+p{
+  
+    display: block;
+    margin: -3px;
+    margin-bottom: 1px;
+    padding: 0;
+    font-family: "Poppins", sans-serif;
+    text-align: center;
+    color: #181818;
+    font-weight: 700;
+
+}
+}
+
+.back{
+  display: flex;
+  justify-content: space-between
+}
+
 </style>

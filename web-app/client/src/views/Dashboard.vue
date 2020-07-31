@@ -35,20 +35,21 @@
         <div class="g"></div>
     </div>-->
     <div class="grid-container">
-        <div class="grid-item item-0" :class="{blur:blurcontroll}">
-      
+        <div id="buttons" class="grid-item item-0" :class="{blur:blurcontroll}">
+        <!-- <insights/> -->
+        <buttons/>
       </div>
-      <div class="grid-item item-2" :class="{blur:blurcontroll}">
+      <div id="accounts" class="grid-item item-2" :class="{blur:blurcontroll}">
         <accounts />
       </div>
-      <div class="grid-item item-3" :class="{blur:blurcontroll}">
+      <div id="cards" class="grid-item item-3" :class="{blur:blurcontroll}">
         <!-- <insights /> -->
          <cards />
       </div>
-         <div class="grid-item item-5" :class="{blur:blurcontroll}">
+         <div id="paymentreminder" class="grid-item item-5" :class="{blur:blurcontroll}">
         <paymentreminder v-on:bc="emitf" />
       </div>
-      <div class="grid-item item-1" :class="{blur:blurcontroll}">
+      <div id="graphs" class="grid-item item-1" :class="{blur:blurcontroll}">
         <graphs />
       </div>
       
@@ -57,10 +58,10 @@
       <!-- <div class="grid-item item-6" :class="{blur:blurcontroll}">
         <cards />
       </div> -->
-      <div class="grid-item item-4">
+      <div id="investments" class="grid-item item-4">
         <investments />
       </div>
-      <div class="grid-item item-7" :class="{blur:blurcontroll}">
+      <div id="insurance" class="grid-item item-7" :class="{blur:blurcontroll}">
         <insurance />
       </div>
       <div class="grid-item item-8" :class="{blur:blurcontroll}">
@@ -79,7 +80,8 @@ import paymentreminder from "../components/paymentreminder.vue";
 import graphs from "../components/graphs.vue";
 import insurance from "../components/insurance.vue";
 import loans from "../components/loans.vue";
-// import insights from "../components/insights.vue";
+//  import insights from "../components/insights.vue";
+import buttons from "../components/buttons.vue";
 export default {
   name: "Dashboard",
   components: {
@@ -91,7 +93,8 @@ export default {
     graphs,
     insurance,
     loans,
-    // insights,
+    buttons,
+    //  insights,
   },
   data() {
     return {
@@ -182,6 +185,7 @@ export default {
   border: dotted hotpink;       //this is border
   grid-column: span 3;
    height: 710px;
+   position: relative;
 }
 
 .item-1 {

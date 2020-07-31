@@ -23,9 +23,9 @@
               <span class="extra-info">Your Monthly Spends</span>
             </div>-->
 
-            <!-- <div @click="st1" style="width:130px;" class="sa">
-              <p>TRANSACTIONS</p>
-            </div> -->
+            <div @click="scroll" style="width:78px;" class="sa">
+              <p>BACK</p>
+            </div>
           </div>
           <hr />
         </div>
@@ -79,6 +79,9 @@
             <!-- <div @click="st2" class="sa">
               <p>LIST ALL</p>
             </div> -->
+                <div @click="scroll" style="width:78px;" class="sa">
+              <p>BACK</p>
+            </div>
           </div>
           <hr />
         </div>
@@ -97,6 +100,9 @@
             <!-- <div @click="st3" class="sa">
               <p>LIST ALL</p>
             </div> -->
+                <div @click="scroll" style="width:78px;" class="sa">
+              <p>BACK</p>
+            </div>
           </div>
           <hr />
         </div>
@@ -110,8 +116,8 @@
             <span style="font-size:10px; padding-left:2px;">This month</span>
           </p>
 
-          <div @click="sg3" class="bb">
-            <p>TRENDS</p>
+          <div @click="scroll" class="bb">
+            <p>BACK</p>
           </div>
         </div>
         <div class="scroll">
@@ -150,8 +156,8 @@
             <span style="font-size:10px; padding-left:2px;">This month</span>
           </p>
 
-          <div @click="sg1" class="bb">
-            <p>TRENDS</p>
+          <div @click="scroll"  style="width:78px;" class="bb">
+            <p>BACK</p>
           </div>
         </div>
         <div class="scroll">
@@ -188,8 +194,8 @@
             <span style="font-size:10px; padding-left:2px;">This month</span>
           </p>
 
-          <div @click="sg2" class="bb">
-            <p>TRENDS</p>
+          <div @click="scroll" style="width:78px;" class="bb">
+            <p>BACK</p>
           </div>
         </div>
         <div class="scroll">
@@ -565,8 +571,8 @@
             <span style="font-size:10px; padding-left:2px;">This month</span>
           </p>
 
-          <div @click="sg3" class="bb">
-            <p>TRENDS</p>
+          <div @click="scroll" style="width:78px;" class="bb">
+            <p>BACK</p>
           </div>
         </div>
         <div class="scroll">
@@ -807,6 +813,11 @@ export default {
     // }
   },
   methods: {
+      scroll() {
+         console.log("scroll called")
+      const element = document.getElementById('buttons');
+      element.scrollIntoView({ behavior: 'smooth' });
+    },
     st1() {
       this.g1 = false;
       this.t1 = true;
