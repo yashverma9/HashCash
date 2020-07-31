@@ -169,7 +169,7 @@ export default {
 }
 
 .grid-container {
-  border: solid red; //this is border
+ // border: solid red; //this is border
   margin-left: 48.6px;
   // margin-top: 48.6px;
   width: 1467px;
@@ -182,51 +182,51 @@ export default {
 }
 
 .item-0 {
-  border: dotted hotpink;       //this is border
+//  border: dotted hotpink;       //this is border
   grid-column: span 3;
    height: 710px;
    position: relative;
 }
 
 .item-1 {
-  border: dotted thistle;       //this is border
+ // border: dotted thistle;       //this is border
   grid-column: span 3;
 }
 .item-2 {
-   border: dotted chartreuse;      //this is border
+   //border: dotted chartreuse;      //this is border
   grid-column: span 1;
   height: 710px;
 }
 .item-3 {
-  border: dotted yellow;        //this is border
+  //border: dotted yellow;        //this is border
   grid-column-start: 2;
   grid-column-end: 4;
   height: 710px;
 }
 .item-4 {
-   border: dotted silver;         //this is border
+  // border: dotted silver;         //this is border
   grid-column: span 3;
   height: 710px;
 }
 
 .item-5 {
-  border: dotted red; //this is border
+ // border: dotted red; //this is border
   grid-column: span 3;
   height: 710px;
 }
 .item-6 {
-  border: dotted orange; //this is border
+ // border: dotted orange; //this is border
   grid-column-start: 3;
   grid-column-end: 4;
   height: 710px;
 }
 .item-7 {
-  border: dotted silver;
+ // border: dotted silver;
   grid-column: span 2;
   height: 710px;
 }
 .item-8 {
-  border: dotted silver;
+ // border: dotted silver;
   grid-column-start: 3;
   grid-column-end: 4;
   height: 710px;

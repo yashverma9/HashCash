@@ -8,7 +8,8 @@
     <div class="flex flex1">
       <div @click="scroll" class="child">
         <div class="img">
-          <!-- <img src="./clogos/bills.png"  /> -->
+          <!-- <img src="./buttonlogos/accounts.png"  /> -->
+           <img class="imgg" src="./buttonlogos/accounts.png"  />
         </div>
         <div class="t">
           <p>Accounts</p>
@@ -16,7 +17,7 @@
       </div>
       <div @click="scroll1" class="child">
         <div class="img">
-          <!-- <img src="./clogos/bills.png"  /> -->
+          <img class="imgg" src="./buttonlogos/cards.png"  />
         </div>
         <div class="t">
           <p>Cards</p>
@@ -25,7 +26,7 @@
 
       <div @click="scroll3" class="child">
         <div class="img">
-          <!-- <img src="./clogos/bills.png"  /> -->
+         <img class="imgg" src="./buttonlogos/reminders.png"  />
         </div>
         <div class="t">
           <p>Reminders</p>
@@ -35,7 +36,7 @@
     <div class="flex flex2">
       <div @click="scroll4" class="child">
         <div class="img">
-          <!-- <img src="./clogos/bills.png"  /> -->
+          <img class="imgg" src="./buttonlogos/transactions.png"  />
         </div>
         <div class="t">
           <p>Transactions</p>
@@ -44,7 +45,7 @@
 
       <div @click="scroll5" class="child">
         <div class="img">
-          <!-- <img src="./clogos/bills.png"  /> -->
+      <img class="imgg" src="./buttonlogos/trends.png"  />
         </div>
         <div class="t">
           <p>Trends</p>
@@ -53,7 +54,7 @@
 
       <div @click="scroll6" class="child">
         <div class="img">
-          <!-- <img src="./clogos/bills.png"  /> -->
+       <img class="imgg" src="./buttonlogos/investments.png"  />
         </div>
         <div class="t">
           <p>Investments</p>
@@ -63,7 +64,7 @@
     <div class="flex flex3">
       <div @click="scroll7" id="ins" class="child">
         <div class="img">
-          <!-- <img src="./clogos/bills.png"  /> -->
+        <img style="height:71px; width:66px; margin-left:16px " class="imgg" src="./buttonlogos/insurance.png"  />
         </div>
         <div class="t">
           <p>Insurance</p>
@@ -72,7 +73,7 @@
 
         <div @click="scroll7" class="child">
         <div class="img">
-          <!-- <img src="./clogos/bills.png"  /> -->
+      <img   style="height:71px; width:66px; margin-left:18px" class="imgg" src="./buttonlogos/mortage.png"  />
         </div>
         <div class="t">
           <p>Mortage</p>
@@ -191,7 +192,7 @@ export default {
 
 <style lang="scss" scoped>
 .flex {
-  border: solid blue;
+ // border: solid blue;
   width: 77%;
   height: 102px;
   margin-top: 84px;
@@ -211,7 +212,7 @@ export default {
     margin-right:27px; 
 }
 .child {
-  border: dotted darkmagenta;
+  //border: dotted darkmagenta;
   width: 349px;
   height: 102px;
   position: relative;
@@ -225,9 +226,11 @@ export default {
 }
 
 .imgg {
-  width: 55px;
-  height: 55px;
-  border-radius: 50%;
+  width: 75px;
+  height: 64px;
+ // border-radius: 50%;
+  margin-left: 12px;
+  margin-top: 16px;
 }
 
 p {
@@ -253,7 +256,7 @@ p {
     position: absolute;
     width: 20%;
     height: 100%;
-    border: solid yellow;
+    //border: solid yellow;
     top: 0px;
     right: 0px;
 }

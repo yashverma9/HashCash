@@ -1117,7 +1117,7 @@ function LightenDarkenColor(col, amt) {
 <style lang="scss" scoped>
 .flex {
   margin: 0 auto;
-  border: solid blue;
+ // border: solid blue;
   width: 1461px;
   height: auto;
   display: flex;
