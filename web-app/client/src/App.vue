@@ -49,10 +49,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Roboto+Condensed');
 
-#h{
-  position: sticky;
 
-}
 html,body{
   
 
@@ -103,7 +100,7 @@ font-family: "Poppins", sans-serif;
 
 
 .header {
-    position: fixed;
+    position: absolute;
     width: 100%;
     top: 0;
     z-index: 2;

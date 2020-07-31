@@ -1,7 +1,7 @@
 <template>
   <div>
       <div class="p">
-           <p>HEADING</p>
+           <p></p>
       </div>
 
       
@@ -9,20 +9,20 @@
       <div @click="scroll" class="child">
         <div class="img">
           <!-- <img src="./buttonlogos/accounts.png"  /> -->
-           <img class="imgg" src="./buttonlogos/accounts.png"  />
+           <img class="imgg" src="./buttonlogos/cards.png"  />
         </div>
-        <div class="t">
-          <p>Accounts</p>
+        <div style="top:-8px;" class="t">
+          <p>Accounts & Cards</p>
         </div>
       </div>
-      <div @click="scroll1" class="child">
+      <!-- <div @click="scroll1" class="child">
         <div class="img">
           <img class="imgg" src="./buttonlogos/cards.png"  />
         </div>
         <div class="t">
           <p>Cards</p>
         </div>
-      </div>
+      </div> -->
 
       <div @click="scroll3" class="child">
         <div class="img">
@@ -32,25 +32,27 @@
           <p>Reminders</p>
         </div>
       </div>
-    </div>
-    <div class="flex flex2">
-      <div @click="scroll4" class="child">
+
+            <div @click="scroll4" class="child">
         <div class="img">
-          <img class="imgg" src="./buttonlogos/transactions.png"  />
+          <img class="imgg" src="./buttonlogos/trends.png"  />
         </div>
-        <div class="t">
-          <p>Transactions</p>
+        <div style="top:-7px;" class="t">
+          <p>Transactions & Trends</p>
         </div>
       </div>
+    </div>
+    <div class="flex flex2">
 
-      <div @click="scroll5" class="child">
+
+      <!-- <div @click="scroll5" class="child">
         <div class="img">
       <img class="imgg" src="./buttonlogos/trends.png"  />
         </div>
         <div class="t">
           <p>Trends</p>
         </div>
-      </div>
+      </div> -->
 
       <div @click="scroll6" class="child">
         <div class="img">
@@ -60,17 +62,18 @@
           <p>Investments</p>
         </div>
       </div>
-    </div>
-    <div class="flex flex3">
-      <div @click="scroll7" id="ins" class="child">
+       <div @click="scroll7" id="ins" class="child">
         <div class="img">
-        <img style="height:71px; width:66px; margin-left:16px " class="imgg" src="./buttonlogos/insurance.png"  />
+        <img style="height:71px; width:66px; margin-left:16px  " class="imgg" src="./buttonlogos/insurance.png"  />
         </div>
-        <div class="t">
-          <p>Insurance</p>
+        <div style="top:-9px;" class="t">
+          <p>Insurance & Mortage</p>
         </div>
       </div>
-
+    </div>
+    <div class="flex flex3">
+     
+<!-- 
         <div @click="scroll7" class="child">
         <div class="img">
       <img   style="height:71px; width:66px; margin-left:18px" class="imgg" src="./buttonlogos/mortage.png"  />
@@ -78,7 +81,7 @@
         <div class="t">
           <p>Mortage</p>
         </div>
-      </div>
+      </div> -->
     </div>
 
     <div class="insights">
@@ -204,12 +207,17 @@ export default {
 .flex1{
     margin-top: 80px;
 }
+
+.flex2{
+  display: flex;
+  justify-content: flex-start;
+}
 .flex3{
     display: flex;
     justify-content: flex-start;
 }
 #ins{
-    margin-right:27px; 
+    margin-left:27px; 
 }
 .child {
   //border: dotted darkmagenta;

@@ -3,9 +3,9 @@
     <div class="acc">
           <div class="back" >
          <p>Insurance</p>
-      <div @click="scroll" class="bb">
+      <!-- <div @click="scroll" class="bb">
             <p>BACK</p>
-          </div>
+          </div> -->
       </div>
         <div class="abs">
               <div class="fd">

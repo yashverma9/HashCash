@@ -1,12 +1,14 @@
 <template>
   <div>
-    <div style="margin-top:5px;" class="flex">
+    <div  style="margin-top:5px;" class="flex">
       <div v-show="g1" class="g1">
         <div class="header1">
-          <div class="flexx">
+          <div   class="flexx">
             <p>
               Spending Trends
-              <span style="font-size:10px; padding-left:2px;">last 6 months</span>
+              <span style="font-size:10px; padding-left:2px;"
+                >last 6 months</span
+              >
             </p>
 
             <!-- <div class="info">
@@ -23,9 +25,9 @@
               <span class="extra-info">Your Monthly Spends</span>
             </div>-->
 
-            <div @click="scroll" style="width:78px;" class="sa">
+            <!-- <div @click="scroll" style="width:78px;" class="sa">
               <p>BACK</p>
-            </div>
+            </div> -->
           </div>
           <hr />
         </div>
@@ -79,16 +81,14 @@
             <!-- <div @click="st2" class="sa">
               <p>LIST ALL</p>
             </div> -->
-                <div @click="scroll" style="width:78px;" class="sa">
+            <!-- <div @click="scroll" style="width:78px;" class="sa">
               <p>BACK</p>
-            </div>
+            </div> -->
           </div>
           <hr />
         </div>
         <canvas height="180px" id="myChart1"></canvas>
       </div>
-
-     
 
       <div v-show="g3" class="g3">
         <div class="headerr">
@@ -100,7 +100,7 @@
             <!-- <div @click="st3" class="sa">
               <p>LIST ALL</p>
             </div> -->
-                <div @click="scroll" style="width:78px;" class="sa">
+            <div @click="scroll" style="width:78px;" class="sa">
               <p>BACK</p>
             </div>
           </div>
@@ -116,13 +116,13 @@
             <span style="font-size:10px; padding-left:2px;">This month</span>
           </p>
 
-          <div @click="scroll" class="bb">
+          <!-- <div @click="scroll" class="bb">
             <p>BACK</p>
-          </div>
+          </div> -->
         </div>
         <div class="scroll">
           <ul>
-            <li v-for="(data,index) in julyyy" :key="index">
+            <li v-for="(data, index) in julyyy" :key="index">
               <div class="child">
                 <div class="logo">
                   <img :src="test1(data.brand)" class="img" />
@@ -132,12 +132,12 @@
                   style="width: auto;height: auto;position: absolute;left: 22%;top: 29%;"
                 >
                   <ul>
-                    <li>{{data.brand}}</li>
+                    <li>{{ data.brand }}</li>
                   </ul>
                 </div>
                 <div class="amt">
                   <h4>
-                    <span>₹ {{data.amount}}</span>
+                    <span>₹ {{ data.amount }}</span>
                   </h4>
                 </div>
               </div>
@@ -147,8 +147,6 @@
       </div>
     </div>
     <div class="flex">
-     
-
       <div v-show="true" class="t1">
         <div class="header1">
           <p>
@@ -156,9 +154,9 @@
             <span style="font-size:10px; padding-left:2px;">This month</span>
           </p>
 
-          <div @click="scroll"  style="width:78px;" class="bb">
+          <!-- <div @click="scroll"  style="width:78px;" class="bb">
             <p>BACK</p>
-          </div>
+          </div> -->
         </div>
         <div class="scroll">
           <ul>
@@ -185,8 +183,6 @@
         </div>
       </div>
 
-     
-
       <div v-show="true" id="t2" class="t1">
         <div class="header1">
           <p>
@@ -194,9 +190,9 @@
             <span style="font-size:10px; padding-left:2px;">This month</span>
           </p>
 
-          <div @click="scroll" style="width:78px;" class="bb">
+          <!-- <div @click="scroll" style="width:78px;" class="bb">
             <p>BACK</p>
-          </div>
+          </div> -->
         </div>
         <div class="scroll">
           <ul>
@@ -209,12 +205,12 @@
                   <ul>
                     <li>Bills</li>
 
-                    <li>{{julyy.Month}}</li>
+                    <li>{{ julyy.Month }}</li>
                   </ul>
                 </div>
                 <div class="amt">
                   <h4>
-                    <span>₹ {{julyy.Bills}}</span>
+                    <span>₹ {{ julyy.Bills }}</span>
                   </h4>
                 </div>
               </div>
@@ -228,12 +224,12 @@
                 <div class="table">
                   <ul>
                     <li>Cash Withdrawal</li>
-                    <li>{{julyy.Month}}</li>
+                    <li>{{ julyy.Month }}</li>
                   </ul>
                 </div>
                 <div class="amt">
                   <h4>
-                    <span>₹ {{julyy["Cash Withdrawal"]}}</span>
+                    <span>₹ {{ julyy["Cash Withdrawal"] }}</span>
                   </h4>
                 </div>
               </div>
@@ -266,12 +262,12 @@
                 <div class="table">
                   <ul>
                     <li>Credit Card</li>
-                    <li>{{julyy.Month}}</li>
+                    <li>{{ julyy.Month }}</li>
                   </ul>
                 </div>
                 <div class="amt">
                   <h4>
-                    <span>₹ {{julyy["Credit Card"]}}</span>
+                    <span>₹ {{ julyy["Credit Card"] }}</span>
                   </h4>
                 </div>
               </div>
@@ -285,12 +281,12 @@
                 <div class="table">
                   <ul>
                     <li>Entertainment</li>
-                    <li>{{julyy.Month}}</li>
+                    <li>{{ julyy.Month }}</li>
                   </ul>
                 </div>
                 <div class="amt">
                   <h4>
-                    <span>₹ {{julyy.Entertainment}}</span>
+                    <span>₹ {{ julyy.Entertainment }}</span>
                   </h4>
                 </div>
               </div>
@@ -304,12 +300,12 @@
                 <div class="table">
                   <ul>
                     <li>Foods and Drinks</li>
-                    <li>{{julyy.Month}}</li>
+                    <li>{{ julyy.Month }}</li>
                   </ul>
                 </div>
                 <div class="amt">
                   <h4>
-                    <span>₹ {{julyy["Foods and Drinks"]}}</span>
+                    <span>₹ {{ julyy["Foods and Drinks"] }}</span>
                   </h4>
                 </div>
               </div>
@@ -323,12 +319,12 @@
                 <div class="table">
                   <ul>
                     <li>Fuel</li>
-                    <li>{{julyy.Month}}</li>
+                    <li>{{ julyy.Month }}</li>
                   </ul>
                 </div>
                 <div class="amt">
                   <h4>
-                    <span>₹ {{julyy.Fuel}}</span>
+                    <span>₹ {{ julyy.Fuel }}</span>
                   </h4>
                 </div>
               </div>
@@ -342,12 +338,12 @@
                 <div class="table">
                   <ul>
                     <li>Groceries</li>
-                    <li>{{julyy.Month}}</li>
+                    <li>{{ julyy.Month }}</li>
                   </ul>
                 </div>
                 <div class="amt">
                   <h4>
-                    <span>₹ {{julyy.Groceries}}</span>
+                    <span>₹ {{ julyy.Groceries }}</span>
                   </h4>
                 </div>
               </div>
@@ -361,12 +357,12 @@
                 <div class="table">
                   <ul>
                     <li>Health</li>
-                    <li>{{julyy.Month}}</li>
+                    <li>{{ julyy.Month }}</li>
                   </ul>
                 </div>
                 <div class="amt">
                   <h4>
-                    <span>₹ {{julyy.Health}}</span>
+                    <span>₹ {{ julyy.Health }}</span>
                   </h4>
                 </div>
               </div>
@@ -380,12 +376,12 @@
                 <div class="table">
                   <ul>
                     <li>Insurance</li>
-                    <li>{{julyy.Month}}</li>
+                    <li>{{ julyy.Month }}</li>
                   </ul>
                 </div>
                 <div class="amt">
                   <h4>
-                    <span>₹ {{julyy.Insurance}}</span>
+                    <span>₹ {{ julyy.Insurance }}</span>
                   </h4>
                 </div>
               </div>
@@ -399,12 +395,12 @@
                 <div class="table">
                   <ul>
                     <li>Investment</li>
-                    <li>{{julyy.Month}}</li>
+                    <li>{{ julyy.Month }}</li>
                   </ul>
                 </div>
                 <div class="amt">
                   <h4>
-                    <span>₹ {{julyy.Investment}}</span>
+                    <span>₹ {{ julyy.Investment }}</span>
                   </h4>
                 </div>
               </div>
@@ -418,12 +414,12 @@
                 <div class="table">
                   <ul>
                     <li>Loan (EMI)</li>
-                    <li>{{julyy.Month}}</li>
+                    <li>{{ julyy.Month }}</li>
                   </ul>
                 </div>
                 <div class="amt">
                   <h4>
-                    <span>₹ {{julyy["Loan (EMI)"]}}</span>
+                    <span>₹ {{ julyy["Loan (EMI)"] }}</span>
                   </h4>
                 </div>
               </div>
@@ -437,12 +433,12 @@
                 <div class="table">
                   <ul>
                     <li>Other</li>
-                    <li>{{julyy.Month}}</li>
+                    <li>{{ julyy.Month }}</li>
                   </ul>
                 </div>
                 <div class="amt">
                   <h4>
-                    <span>₹ {{julyy.Other}}</span>
+                    <span>₹ {{ julyy.Other }}</span>
                   </h4>
                 </div>
               </div>
@@ -456,12 +452,12 @@
                 <div class="table">
                   <ul>
                     <li>Personal Care</li>
-                    <li>{{julyy.Month}}</li>
+                    <li>{{ julyy.Month }}</li>
                   </ul>
                 </div>
                 <div class="amt">
                   <h4>
-                    <span>₹ {{julyy["Personal Care"]}}</span>
+                    <span>₹ {{ julyy["Personal Care"] }}</span>
                   </h4>
                 </div>
               </div>
@@ -475,12 +471,12 @@
                 <div class="table">
                   <ul>
                     <li>Rent</li>
-                    <li>{{julyy.Month}}</li>
+                    <li>{{ julyy.Month }}</li>
                   </ul>
                 </div>
                 <div class="amt">
                   <h4>
-                    <span>₹ {{julyy.Rent}}</span>
+                    <span>₹ {{ julyy.Rent }}</span>
                   </h4>
                 </div>
               </div>
@@ -494,12 +490,12 @@
                 <div class="table">
                   <ul>
                     <li>Shopping</li>
-                    <li>{{julyy.Month}}</li>
+                    <li>{{ julyy.Month }}</li>
                   </ul>
                 </div>
                 <div class="amt">
                   <h4>
-                    <span>₹ {{julyy.Shopping}}</span>
+                    <span>₹ {{ julyy.Shopping }}</span>
                   </h4>
                 </div>
               </div>
@@ -530,12 +526,12 @@
                 <div class="table">
                   <ul>
                     <li>Transfer</li>
-                    <li>{{julyy.Month}}</li>
+                    <li>{{ julyy.Month }}</li>
                   </ul>
                 </div>
                 <div class="amt">
                   <h4>
-                    <span>₹ {{julyy.Transfer}}</span>
+                    <span>₹ {{ julyy.Transfer }}</span>
                   </h4>
                 </div>
               </div>
@@ -549,12 +545,12 @@
                 <div class="table">
                   <ul>
                     <li>Travel</li>
-                    <li>{{julyy.Month}}</li>
+                    <li>{{ julyy.Month }}</li>
                   </ul>
                 </div>
                 <div class="amt">
                   <h4>
-                    <span>₹ {{julyy.Travel}}</span>
+                    <span>₹ {{ julyy.Travel }}</span>
                   </h4>
                 </div>
               </div>
@@ -563,7 +559,6 @@
         </div>
       </div>
 
-   
       <div v-show="true" class="t1">
         <div class="header1">
           <p>
@@ -571,13 +566,13 @@
             <span style="font-size:10px; padding-left:2px;">This month</span>
           </p>
 
-          <div @click="scroll" style="width:78px;" class="bb">
+          <!-- <div @click="scroll" style="width:78px;" class="bb">
             <p>BACK</p>
-          </div>
+          </div> -->
         </div>
         <div class="scroll">
           <ul>
-            <li v-for="(data,index) in julyyy" :key="index">
+            <li v-for="(data, index) in julyyy" :key="index">
               <div class="child">
                 <div class="logo">
                   <img :src="test1(data.brand)" class="img" />
@@ -587,12 +582,12 @@
                   style="width: auto;height: auto;position: absolute;left: 22%;top: 29%;"
                 >
                   <ul>
-                    <li>{{data.brand}}</li>
+                    <li>{{ data.brand }}</li>
                   </ul>
                 </div>
                 <div class="amt">
                   <h4>
-                    <span>₹ {{data.amount}}</span>
+                    <span>₹ {{ data.amount }}</span>
                   </h4>
                 </div>
               </div>
@@ -669,7 +664,7 @@ export default {
         let x = {
           brand: this.alltd[i].brand,
           date: this.alltd[i].valueDate,
-          ammount: this.alltd[i].amount
+          ammount: this.alltd[i].amount,
         };
         this.july.push(x);
       }
@@ -794,7 +789,7 @@ export default {
       julyy: [],
       julyyy: [],
       url: [],
-      test: "./Logos/ccd.jpg"
+      test: "./Logos/ccd.jpg",
     };
   },
   computed: {
@@ -813,10 +808,10 @@ export default {
     // }
   },
   methods: {
-      scroll() {
-         console.log("scroll called")
-      const element = document.getElementById('buttons');
-      element.scrollIntoView({ behavior: 'smooth' });
+    scroll() {
+      console.log("scroll called");
+      const element = document.getElementById("buttons");
+      element.scrollIntoView({ behavior: "smooth" });
     },
     st1() {
       this.g1 = false;
@@ -870,8 +865,8 @@ export default {
       // return require(`${x}`)
 
       // return require('./Logos/jio.jpg')
-    }
-  }
+    },
+  },
 };
 
 /* eslint-disable */
@@ -894,7 +889,7 @@ function g1() {
 
           borderWidth: "1",
           barThickness: "1",
-          data: income
+          data: income,
         },
         {
           // hoverBackgroundColor:"#FFFFFF",
@@ -906,9 +901,9 @@ function g1() {
 
           borderWidth: "1",
           barThickness: "1",
-          data: expenditure
-        }
-      ]
+          data: expenditure,
+        },
+      ],
     },
 
     // Configuration options go here
@@ -916,12 +911,12 @@ function g1() {
       legend: {
         display: true,
         labels: {
-          fontColor: "#FFFFFF"
-        }
+          fontColor: "#FFFFFF",
+        },
       },
       scales: {
         gridLines: {
-          gridLinescolor: "rgb(0, 182, 97)"
+          gridLinescolor: "rgb(0, 182, 97)",
         },
 
         yAxes: [
@@ -932,29 +927,29 @@ function g1() {
               callback: function(value, index, values) {
                 fontColor: "#EDC530";
                 return "₹" + value;
-              }
+              },
             },
 
             gridLines: {
-              display: true
+              display: true,
               //   color:'rgb(0, 0, 0)'
-            }
-          }
+            },
+          },
         ],
         xAxes: [
           {
             ticks: {
-              fontColor: "#FFFFFF"
+              fontColor: "#FFFFFF",
               // Include a dollar sign in the ticks
             },
             gridLines: {
-              display: true
+              display: true,
               //   color:'rgb(0, 0, 0)'
-            }
-          }
-        ]
-      }
-    }
+            },
+          },
+        ],
+      },
+    },
   });
 }
 
@@ -984,7 +979,7 @@ function g2() {
         "Rent",
         "Shopping",
         "Transfer",
-        "Travel"
+        "Travel",
       ],
       datasets: [
         {
@@ -1007,7 +1002,7 @@ function g2() {
             "rgb(231, 124, 124)",
             "#b4cd93",
             "rgb(199,150,208)",
-            "rgb(60,48,83)"
+            "rgb(60,48,83)",
 
             // "#2D4A6B",
             // "#FA6047",
@@ -1029,9 +1024,9 @@ function g2() {
             // "#3C3053"
           ],
           borderColor: "rgb(237, 197, 48,22)",
-          data: june
-        }
-      ]
+          data: june,
+        },
+      ],
     },
 
     // Configuration options go here
@@ -1039,10 +1034,10 @@ function g2() {
       legend: {
         display: false,
         labels: {
-          fontColor: "#FFFFFF"
-        }
-      }
-    }
+          fontColor: "#FFFFFF",
+        },
+      },
+    },
   });
 }
 
@@ -1065,12 +1060,12 @@ function g3() {
             "#f8a978",
             "#616C6F",
             "#b24968",
-            "#fecea8"
+            "#fecea8",
           ],
           borderColor: "rgb(237, 197, 48,22)",
-          data: amt
-        }
-      ]
+          data: amt,
+        },
+      ],
     },
 
     // Configuration options go here
@@ -1078,10 +1073,10 @@ function g3() {
       legend: {
         display: false,
         labels: {
-          fontColor: "#FFFFFF"
-        }
-      }
-    }
+          fontColor: "#FFFFFF",
+        },
+      },
+    },
   });
 }
 
@@ -1117,13 +1112,13 @@ function LightenDarkenColor(col, amt) {
 <style lang="scss" scoped>
 .flex {
   margin: 0 auto;
- // border: solid blue;
+  // border: solid blue;
   width: 1461px;
   height: auto;
   display: flex;
   justify-content: space-around;
-  margin-bottom:10px;
-  margin-left:0px; 
+  margin-bottom: 10px;
+  margin-left: 0px;
 }
 
 .g1 {

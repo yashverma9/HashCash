@@ -108,7 +108,7 @@ export default {
 }
 
 .grid-container {
-  border: solid red;
+//  border: solid red;
   margin-left: 48.6px;
 
   width: 1467px;
@@ -126,19 +126,19 @@ export default {
 }
 
 .item-1 {
-  border: dotted green; //this is border
+ // border: dotted green; //this is border
   grid-column: span 4;
   grid-row: span 1;
 }
 
 .item-2 {
-  border: dotted chartreuse; //this is border
+//  border: dotted chartreuse; //this is border
   grid-column-start: 1;
   grid-column-end: 4;
 }
 
 .item-3 {
-  border: dotted yellow; //this is border
+ // border: dotted yellow; //this is border
   grid-column-start: 1;
   grid-column-end: 2;
 
@@ -146,7 +146,7 @@ export default {
 }
 
 .item-4 {
-  border: dotted yellow; //this is border
+ // border: dotted yellow; //this is border
 
   grid-column-start: 2;
   grid-column-end: 3;
@@ -156,7 +156,7 @@ export default {
 }
 
 .item-5 {
-  border: dotted olivedrab; //this is border
+ // border: dotted olivedrab; //this is border
 
   grid-column-start: 3;
   grid-column-end: 4;
@@ -166,7 +166,7 @@ export default {
 }
 
 .item-6 {
-  border: dotted wheat; //this is border
+  //border: dotted wheat; //this is border
 
   grid-column-start: 2;
   grid-column-end: 3;
