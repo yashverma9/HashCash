@@ -67,7 +67,8 @@
         <img style="height:71px; width:66px; margin-left:16px  " class="imgg" src="./buttonlogos/insurance.png"  />
         </div>
         <div style="top:-9px;" class="t">
-          <p>Insurance & Mortage</p>
+          <p>Insurance
+            &Mortgage</p>
         </div>
       </div>
     </div>
