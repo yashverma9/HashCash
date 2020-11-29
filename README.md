@@ -35,7 +35,7 @@ Node.jsVue.jsVisual Studio CodeMachine LearningPythonAdobe XDGitHubExpress.jsDat
 ### 1. Home Page
 <br>
 <p align="center">
-  <img src="https://github.com/yashverma9/Healthathon-hack/blob/main/Snaps/1i.jpg">
+  <img src="https://github.com/yashverma9/HashCash/blob/master/snaps/Snap1.jpg">
 </p>
 <br>
 
