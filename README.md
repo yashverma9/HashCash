@@ -28,7 +28,7 @@ For the future we also have in mind to develop a brand side dashboard where the 
 The most difficult challenge we faced was to extract brand/company names from the narration of a transaction. Later after cleaning the data and understanding each type of transaction, we were able to develop a method to accurately extract the required information from a transaction. Also, while setting up the sandbox we came accross some issues which were solved with the help of One Money technical support.
 
 ### Technologies we used
-Node.js Vue.js Visual Studio CodeMachine Learning Python AdobeXD GitHub Express.js Data Science
+Node.js, Vue.js, Visual Studio Code, Machine Learning, Python, AdobeXD, GitHub, Express.js, Data Science
 
 ## Implementation Demo : 
 
