@@ -63,8 +63,8 @@ Node.js, Vue.js, Visual Studio Code, Machine Learning, Python, AdobeXD, GitHub, 
 ### 5. Reminders
 <br>
 <p align="center">
-  ![Capture](https://user-images.githubusercontent.com/63794329/181743055-bdc39e3c-25c7-4e65-b0cc-b9f9f5fea242.PNG)
-
+  
+   <img src="https://user-images.githubusercontent.com/63794329/181743055-bdc39e3c-25c7-4e65-b0cc-b9f9f5fea242.PNG">
 </p>
 <br>
 
