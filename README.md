@@ -60,7 +60,16 @@ Node.js, Vue.js, Visual Studio Code, Machine Learning, Python, AdobeXD, GitHub, 
 </p>
 <br>
 
-### 4. Brand Dashboard Mockup
+### 5. Reminders
+<br>
+<p align="center">
+  ![Capture](https://user-images.githubusercontent.com/63794329/181743055-bdc39e3c-25c7-4e65-b0cc-b9f9f5fea242.PNG)
+
+</p>
+<br>
+
+
+### 6. Brand Dashboard Mockup
 <br>
 <p align="center">
   <img src="https://github.com/yashverma9/HashCash/blob/master/snaps/Brands_dashboard_mockup.png">
