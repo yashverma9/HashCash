@@ -39,3 +39,24 @@ Node.js, Vue.js, Visual Studio Code, Machine Learning, Python, AdobeXD, GitHub, 
 </p>
 <br>
 
+### 2. Trends
+<br>
+<p align="center">
+  <img src="https://devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2F7a20cc713c0c4dd3aa4a7eeb78ff2bb0%2Fprojects%2F0bd7cd8b39d642db8ef28198eadc7848%2Fpicn7scjlisa.jpeg&w=1440&q=75">
+</p>
+<br>
+
+### 3. Rewards
+<br>
+<p align="center">
+  <img src="https://devfolio-prod.s3.ap-south-1.amazonaws.com/hackathons/7a20cc713c0c4dd3aa4a7eeb78ff2bb0/projects/0bd7cd8b39d642db8ef28198eadc7848/picfmrq2pcgl.jpeg">
+</p>
+<br>
+
+### 4. Brand Trends
+<br>
+<p align="center">
+  <img src="https://devfolio-prod.s3.ap-south-1.amazonaws.com/hackathons/7a20cc713c0c4dd3aa4a7eeb78ff2bb0/projects/0bd7cd8b39d642db8ef28198eadc7848/pic2gtm00voy.jpeg">
+</p>
+<br>
+
