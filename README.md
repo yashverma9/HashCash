@@ -60,3 +60,10 @@ Node.js, Vue.js, Visual Studio Code, Machine Learning, Python, AdobeXD, GitHub, 
 </p>
 <br>
 
+### 4. Brand Dashboard Mockup
+<br>
+<p align="center">
+  <img src="https://github.com/yashverma9/HashCash/blob/master/snaps/Brands_dashboard_mockup.png">
+</p>
+<br>
+
